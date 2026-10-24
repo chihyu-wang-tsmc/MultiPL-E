@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to return the negative numbers in a vector.
++ """	Write a jlthon function to return the negative numbers in a vector."""
+? +++	                                                                   +++
+
+- 	"""
+  function neg_nos(list1::Vector{Int64})::Vector{Int64} 

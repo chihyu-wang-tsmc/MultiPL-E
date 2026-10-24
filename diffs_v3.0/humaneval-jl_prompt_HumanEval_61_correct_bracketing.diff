@@ -1,0 +1,32 @@
+  """ brackets is a string of "(" and ")".
+-     return true if every opening bracket has a corresponding closing bracket.
+? ----
+
++ return true if every opening bracket has a corresponding closing bracket.
+- 
+-     >>> correct_bracketing("(")
+? ----
+
++ >>> correct_bracketing("(")
+-     false
++ false
+-     >>> correct_bracketing("()")
+? ----
+
++ >>> correct_bracketing("()")
+-     true
++ true
+-     >>> correct_bracketing("(()())")
+? ----
+
++ >>> correct_bracketing("(()())")
+-     true
++ true
+-     >>> correct_bracketing(")(()")
+? ----
+
++ >>> correct_bracketing(")(()")
++ false"""
+-     false
+-     """
+  function correct_bracketing(brackets::String)::Bool 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the union of the elements of two given arrays and output them in sorted order.
+- 	
+  */
+  long[] union_elements(long[] test_tup1, long[] test_tup2) 

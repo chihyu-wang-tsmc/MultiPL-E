@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the subvector having minimum length.
++ """	Write a jlthon function to find the subvector having minimum length."""
+? +++	                                                                    +++
+
+- 	"""
+  function Find_Min(lst::Vector{Vector{Any}})::Vector{Any} 

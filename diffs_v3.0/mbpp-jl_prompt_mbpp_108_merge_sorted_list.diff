@@ -1,0 +1,7 @@
+- """
+- 	Write a function to merge three vectors into a single sorted vector.
++ """	Write a function to merge three vectors into a single sorted vector."""
+? +++	                                                                    +++
+
+- 	"""
+  function merge_sorted_list(num1::Vector{Int64}, num2::Vector{Int64}, num3::Vector{Int64})::Vector{Int64} 

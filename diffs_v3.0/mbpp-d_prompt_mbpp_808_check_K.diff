@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to check if the given tuples contain the k or not.
+- 	
+  */
+  bool check_K(long[] test_tup, long K) 

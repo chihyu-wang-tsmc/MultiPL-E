@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to check if a string is present as a substring in a given array of string values.
+- 	
+  */
+  bool find_substring(string[] str1, string sub_str) 

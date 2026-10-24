@@ -1,0 +1,7 @@
+- """
+- 	Write a function to return a vector of all pairs of consecutive items in a given vector.
++ """	Write a function to return a vector of all pairs of consecutive items in a given vector."""
+? +++	                                                                                        +++
+
+- 	"""
+  function pair_wise(l1::Vector{Int64})::Vector{Tuple{Int64, Int64}} 

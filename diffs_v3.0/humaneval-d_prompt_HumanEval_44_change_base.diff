@@ -1,0 +1,36 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Change numerical base of input number x to base.
+-     return string representation after the conversion.
+? ----
+
++ return string representation after the conversion.
+-     base numbers are less than 10.
+? ----
+
++ base numbers are less than 10.
+-     >>> change_base(8L, 3L)
+? ----
+
++ >>> change_base(8L, 3L)
+-     "22"
++ "22"
+-     >>> change_base(8L, 2L)
+? ----
+
++ >>> change_base(8L, 2L)
+-     "1000"
+? ----
+
++ "1000"
+-     >>> change_base(7L, 2L)
+? ----
+
++ >>> change_base(7L, 2L)
++ "111"
+-     "111"
+-     
+  */
+  string change_base(long x, long base) 

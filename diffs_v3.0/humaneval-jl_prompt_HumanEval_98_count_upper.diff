@@ -1,0 +1,32 @@
+- """
+-     Given a string s, count the number of uppercase vowels in even indices.
+? ^^^^
+
++ """Given a string s, count the number of uppercase vowels in even indices.
+? ^^^
+
+-     
+-     For example:
+? ----
+
++ For example:
+-     >>> count_upper("aBCdEf")
+? ----
+
++ >>> count_upper("aBCdEf")
+-     1
++ 1
+-     >>> count_upper("abcdefg")
+? ----
+
++ >>> count_upper("abcdefg")
+-     0
++ 0
+-     >>> count_upper("dBBE")
+? ----
+
++ >>> count_upper("dBBE")
++ 0"""
+-     0
+-     """
+  function count_upper(s::String)::Int64 

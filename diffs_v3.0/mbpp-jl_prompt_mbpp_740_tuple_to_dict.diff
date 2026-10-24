@@ -1,0 +1,7 @@
+- """
+- 	Write a function to convert the given tuple to a key-value dictionary using adjacent elements. https://www.geeksforgeeks.org/jlthon-convert-tuple-to-adjacent-pair-dictionary/
++ """	Write a function to convert the given tuple to a key-value dictionary using adjacent elements. https://www.geeksforgeeks.org/jlthon-convert-tuple-to-adjacent-pair-dictionary/"""
+? +++	                                                                                                                                                                              +++
+
+- 	"""
+  function tuple_to_dict(test_tup::Tuple{Int64, Int64, Int64, Int64, Int64, Int64})::Dict{Int64, Int64}> 

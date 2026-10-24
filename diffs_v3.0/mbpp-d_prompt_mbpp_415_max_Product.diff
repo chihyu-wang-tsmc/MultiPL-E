@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find a pair with highest product from a given array of integers.
+- 	
+  */
+  Tuple!(long, long) max_Product(long[] arr) 

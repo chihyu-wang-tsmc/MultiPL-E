@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to extract all the adjacent coordinates of the given coordinate tuple.
+- 	
+  */
+  long[][] get_coordinates(Tuple!(long, long) test_tup) 

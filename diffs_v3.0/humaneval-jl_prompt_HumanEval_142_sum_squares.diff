@@ -1,0 +1,44 @@
+  """"
+-     This function will take a vector of integers. For all entries in the vector, the function shall square the integer entry if its index is a 
+? ----
+
++ This function will take a vector of integers. For all entries in the vector, the function shall square the integer entry if its index is a 
+-     multiple of 3 and will cube the integer entry if its index is a multiple of 4 and not a multiple of 3. The function will not 
+? ----
+
++ multiple of 3 and will cube the integer entry if its index is a multiple of 4 and not a multiple of 3. The function will not 
+-     change the entries in the vector whose indexes are not a multiple of 3 or 4. The function shall then return the sum of all entries. 
+? ----
+
++ change the entries in the vector whose indexes are not a multiple of 3 or 4. The function shall then return the sum of all entries. 
+-     
+-     Examples:
+? ----
+
++ Examples:
+-     >>> lst
+? ----
+
++ >>> lst
+-     [1, 2, 3]
+? ----
+
++ [1, 2, 3]
+-     >>> lst
+? ----
+
++ >>> lst
+-     []
++ []
+-     >>> lst
+? ----
+
++ >>> lst
+-     [-1, -5, 2, -1, -5]
+? ----
+
++ [-1, -5, 2, -1, -5]"""
+?                    +++
+
+-     """
+  function sum_squares(lst::Vector{Int64})::Int64 

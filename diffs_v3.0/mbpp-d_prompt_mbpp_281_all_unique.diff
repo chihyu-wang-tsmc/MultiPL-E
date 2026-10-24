@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to check if the elements of a given array are unique or not.
+- 	
+  */
+  bool all_unique(long[] test_list) 

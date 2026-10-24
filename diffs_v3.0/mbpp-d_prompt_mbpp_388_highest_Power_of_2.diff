@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the highest power of 2 that is less than or equal to n.
+- 	
+  */
+  long highest_Power_of_2(long n) 

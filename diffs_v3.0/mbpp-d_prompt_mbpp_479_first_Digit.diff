@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the first digit of a given number.
+- 	
+  */
+  long first_Digit(long n) 

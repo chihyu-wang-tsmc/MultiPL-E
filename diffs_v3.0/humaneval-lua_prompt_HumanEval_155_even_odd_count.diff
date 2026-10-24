@@ -1,0 +1,19 @@
+  -- Given an integer. return a table that has the number of even and odd digits respectively.
+  -- Example:
+- -- >>> even_odd_count(-12)
++ --     >>> even_odd_count(-12)
+?   ++++
+
+- -- {1, 1}
++ --     {1, 1}
+?   ++++
+
+- -- >>> even_odd_count(123)
++ --     >>> even_odd_count(123)
+?   ++++
+
+- -- {1, 2}
++ --     {1, 2}
+?   ++++
+
+  local function even_odd_count(num)

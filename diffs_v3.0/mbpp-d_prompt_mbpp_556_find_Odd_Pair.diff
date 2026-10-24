@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to count the number of pairs whose xor value is odd.
+- 	
+  */
+  long find_Odd_Pair(long[] A, long N) 

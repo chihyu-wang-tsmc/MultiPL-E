@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number.
+- 	
+  */
+  long count_Primes_nums(long n) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the largest negative number from the given array.
+- 	
+  */
+  long largest_neg(long[] list1) 

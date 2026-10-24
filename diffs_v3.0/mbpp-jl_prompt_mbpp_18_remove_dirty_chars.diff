@@ -1,0 +1,7 @@
+- """
+- 	Write a function to remove characters from the first string which are present in the second string.
++ """	Write a function to remove characters from the first string which are present in the second string."""
+? +++	                                                                                                   +++
+
+- 	"""
+  function remove_dirty_chars(string::String, second_string::String)::String 

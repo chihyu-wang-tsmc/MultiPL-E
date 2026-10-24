@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to remove lowercase substrings from a given string.
+- 	
+  */
+  string remove_lowercase(string str1) 

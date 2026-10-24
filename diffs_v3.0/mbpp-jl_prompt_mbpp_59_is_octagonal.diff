@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the nth octagonal number.
++ """	Write a function to find the nth octagonal number."""
+? +++	                                                  +++
+
+- 	"""
+  function is_octagonal(n::Int64)::Int64 

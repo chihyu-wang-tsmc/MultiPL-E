@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to determine if the sum of the divisors of two integers are the same.
+- 	
+  */
+  bool are_equivalent(long num1, long num2) 

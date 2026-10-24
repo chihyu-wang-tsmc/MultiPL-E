@@ -1,0 +1,19 @@
+  import std.math;
++ import std.typecons;
+  /*
+  Add two numbers x and y
+-     >>> add(2L, 3L)
+? ----
+
++ >>> add(2L, 3L)
+-     5L
++ 5L
+-     >>> add(5L, 7L)
+? ----
+
++ >>> add(5L, 7L)
++ 12L
+-     12L
+-     
+  */
+  long add(long x, long y) 

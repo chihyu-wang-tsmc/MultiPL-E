@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the nth decagonal number.
++ """	Write a function to find the nth decagonal number."""
+? +++	                                                  +++
+
+- 	"""
+  function is_num_decagonal(n::Int64)::Int64 

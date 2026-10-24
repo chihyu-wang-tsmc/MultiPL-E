@@ -1,0 +1,15 @@
+  """Given a non-empty vector of integers lst. add the even elements that are at odd indices..
+- 
+- 
+-     Examples:
+? ----
+
++ Examples:
+-     >>> add([4, 2, 6, 7])
+? ----
+
++ >>> add([4, 2, 6, 7])
++ 2"""
+-     2
+-     """
+  function add(lst::Vector{Int64})::Int64 

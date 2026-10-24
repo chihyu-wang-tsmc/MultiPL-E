@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to identify non-prime numbers.
++ """	Write a jlthon function to identify non-prime numbers."""
+? +++	                                                      +++
+
+- 	"""
+  function is_not_prime(n::Int64)::Bool 

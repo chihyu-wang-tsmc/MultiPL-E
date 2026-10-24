@@ -1,0 +1,29 @@
+- """
+-     Given a vector of integers nums, find the minimum sum of any non-empty sub-vector
+? ^^^^
+
++ """Given a vector of integers nums, find the minimum sum of any non-empty sub-vector
+? ^^^
+
+-     of nums.
+? ----
+
++ of nums.
+-     Example
+? ----
+
++ Example
+-     >>> minSubArraySum([2, 3, 4, 1, 2, 4])
+? ----
+
++ >>> minSubArraySum([2, 3, 4, 1, 2, 4])
+-     1
++ 1
+-     >>> minSubArraySum([-1, -2, -3])
+? ----
+
++ >>> minSubArraySum([-1, -2, -3])
++ -6"""
+-     -6
+-     """
+  function minSubArraySum(nums::Vector{Int64})::Int64 

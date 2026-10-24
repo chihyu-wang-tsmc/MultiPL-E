@@ -1,0 +1,7 @@
+- """
+- 	Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/jlthon-exercises/data-structures-and-algorithms/jlthon-data-structure-exercise-24.php
++ """	Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/jlthon-exercises/data-structures-and-algorithms/jlthon-data-structure-exercise-24.php"""
+? +++	                                                                                                                                                                                                           +++
+
+- 	"""
+  function left_insertion(a::Vector{Int64}, x::Int64)::Int64 

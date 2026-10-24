@@ -1,0 +1,32 @@
+- import std.typecons;
+  import std.math;
+  /*
+  This function takes two positive numbers x and y and returns the
+-     biggest even integer number that is in the range [x, y] inclusive. If 
+? ----
+
++ biggest even integer number that is in the range [x, y] inclusive. If 
+-     there's no such number, then the function should return -1.
+? ----
+
++ there's no such number, then the function should return -1.
+- 
+-     For example:
+? ----
+
++ For example:
+-     >>> choose_num(12L, 15L)
+? ----
+
++ >>> choose_num(12L, 15L)
+-     14L
++ 14L
+-     >>> choose_num(13L, 12L)
+? ----
+
++ >>> choose_num(13L, 12L)
++ -1L
+-     -1L
+-     
+  */
+  long choose_num(long x, long y) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to add an associative array to the tuple. The output should be a tuple.
+- 	
+  */
+  Tuple!(long, long, long, Nullable!(long[string])) add_dict_to_tuple(Tuple!(long, long, long) test_tup, Nullable!(long[string]) test_dict) 

@@ -1,0 +1,43 @@
+- """
+-     You are given a vector of integers.
+? ^^^^
+
++ """You are given a vector of integers.
+? ^^^
+
+-     Write a function next_smallest() that returns the 2nd smallest element of the vector.
+? ----
+
++ Write a function next_smallest() that returns the 2nd smallest element of the vector.
+-     Return nothing if there is no such element.
+? ----
+
++ Return nothing if there is no such element.
+-     >>> next_smallest([1, 2, 3, 4, 5])
+? ----
+
++ >>> next_smallest([1, 2, 3, 4, 5])
+-     2
++ 2
+-     >>> next_smallest([5, 1, 4, 3, 2])
+? ----
+
++ >>> next_smallest([5, 1, 4, 3, 2])
+-     2
++ 2
+-     >>> next_smallest([])
+? ----
+
++ >>> next_smallest([])
+-     nothing
+? ----
+
++ nothing
+-     >>> next_smallest([1, 1])
+? ----
+
++ >>> next_smallest([1, 1])
++ nothing"""
+-     nothing
+-     """
+  function next_smallest(lst::Vector{Int64})::Union{Int64, Nothing} 

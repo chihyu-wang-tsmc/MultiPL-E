@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the product of the vector multiplication modulo n.
++ """	Write a jlthon function to find the product of the vector multiplication modulo n."""
+? +++	                                                                                  +++
+
+- 	"""
+  function find_remainder(arr::Vector{Int64}, n::Int64)::Int64 

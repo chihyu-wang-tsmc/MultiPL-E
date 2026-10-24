@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the next smallest palindrome of a specified integer, returned as an integer.
++ """	Write a function to find the next smallest palindrome of a specified integer, returned as an integer."""
+? +++	                                                                                                     +++
+
+- 	"""
+  function next_smallest_palindrome(num::Int64)::Int64 

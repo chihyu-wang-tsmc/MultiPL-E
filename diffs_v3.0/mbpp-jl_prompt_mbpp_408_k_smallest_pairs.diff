@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find k number of smallest pairs which consist of one element from the first vector and one element from the second vector.
++ """	Write a function to find k number of smallest pairs which consist of one element from the first vector and one element from the second vector."""
+? +++	                                                                                                                                              +++
+
+- 	"""
+  function k_smallest_pairs(nums1::Vector{Int64}, nums2::Vector{Int64}, k::Int64)::Vector{Vector{Int64}} 

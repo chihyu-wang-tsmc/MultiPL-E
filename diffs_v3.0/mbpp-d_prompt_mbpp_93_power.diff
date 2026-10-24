@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to calculate the value of 'a' to the power 'b'.
+- 	
+  */
+  long power(long a, long b) 

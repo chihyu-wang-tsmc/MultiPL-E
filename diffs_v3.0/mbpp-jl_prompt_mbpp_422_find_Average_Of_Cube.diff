@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the average of cubes of first n natural numbers.
++ """	Write a jlthon function to find the average of cubes of first n natural numbers."""
+? +++	                                                                                +++
+
+- 	"""
+  function find_Average_Of_Cube(n::Int64)::Float64 

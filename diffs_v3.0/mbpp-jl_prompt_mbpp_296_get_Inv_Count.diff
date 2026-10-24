@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to count inversions in a vector.
++ """	Write a jlthon function to count inversions in a vector."""
+? +++	                                                        +++
+
+- 	"""
+  function get_Inv_Count(arr::Vector{Int64})::Int64 

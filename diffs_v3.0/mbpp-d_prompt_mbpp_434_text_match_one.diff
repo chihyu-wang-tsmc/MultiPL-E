@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function that matches a string that has an a followed by one or more b's.
+- 	
+  */
+  bool text_match_one(string text) 

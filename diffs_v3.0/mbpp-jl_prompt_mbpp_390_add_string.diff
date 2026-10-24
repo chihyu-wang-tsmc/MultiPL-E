@@ -1,0 +1,7 @@
+- """
+- 	Write a function to apply a given format string to all of the elements in a vector.
++ """	Write a function to apply a given format string to all of the elements in a vector."""
+? +++	                                                                                   +++
+
+- 	"""
+  function add_string(list_::Vector{Any}, string::String)::Vector{String} 

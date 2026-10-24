@@ -1,0 +1,35 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     Given a string s, count the number of uppercase vowels in even indices.
+? ----
+
++ Given a string s, count the number of uppercase vowels in even indices.
+-     
+-     For example:
+? ----
+
++ For example:
+-     >>> count_upper("aBCdEf")
+? ----
+
++ >>> count_upper("aBCdEf")
+-     1L
++ 1L
+-     >>> count_upper("abcdefg")
+? ----
+
++ >>> count_upper("abcdefg")
+-     0L
++ 0L
+-     >>> count_upper("dBBE")
+? ----
+
++ >>> count_upper("dBBE")
++ 0L
+-     0L
+-     
+  */
+  long count_upper(string s) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function that gives loss amount on a sale if the given amount has loss else return 0.
++ """	Write a function that gives loss amount on a sale if the given amount has loss else return 0."""
+? +++	                                                                                             +++
+
+- 	"""
+  function loss_amount(actual_cost::Int64, sale_amount::Int64)::Int64 

@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to split a string into characters.
++ """	Write a jlthon function to split a string into characters."""
+? +++	                                                          +++
+
+- 	"""
+  function split(word::String)::Vector{String} 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit.
+- 	
+  */
+  long left_rotate(long n, long d) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to join a vector of multiple integers into a single integer.
++ """	Write a function to join a vector of multiple integers into a single integer."""
+? +++	                                                                             +++
+
+- 	"""
+  function multiple_to_single(L::Vector{Int64})::Int64 

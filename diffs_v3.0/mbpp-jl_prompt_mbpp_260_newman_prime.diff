@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the nth newman–shanks–williams prime number.
++ """	Write a function to find the nth newman–shanks–williams prime number."""
+? +++	                                                                     +++
+
+- 	"""
+  function newman_prime(n::Int64)::Int64 

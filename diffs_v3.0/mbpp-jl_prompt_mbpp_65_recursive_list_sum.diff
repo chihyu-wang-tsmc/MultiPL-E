@@ -1,0 +1,7 @@
+- """
+- 	Write a function to flatten a vector and sum all of its elements.
++ """	Write a function to flatten a vector and sum all of its elements."""
+? +++	                                                                 +++
+
+- 	"""
+  function recursive_list_sum(data_list::Vector{Union{Int64, Vector{Int64}}})::Int64 

@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to count the occurence of all elements of vector in a tuple.
++ """	Write a jlthon function to count the occurence of all elements of vector in a tuple."""
+? +++	                                                                                    +++
+
+- 	"""
+  function count_Occurrence(tup::Any, lst::Vector{Any})::Int64 

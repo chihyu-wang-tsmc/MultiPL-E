@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find squares of individual elements in an array.
+- 	
+  */
+  long[] square_nums(long[] nums) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to multiply two integers.
++ """	Write a function to multiply two integers."""
+? +++	                                          +++
+
+- 	"""
+  function multiply_int(x::Int64, y::Int64)::Int64 

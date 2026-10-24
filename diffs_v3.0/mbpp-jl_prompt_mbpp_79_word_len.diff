@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to check whether the length of the word is odd or not.
++ """	Write a jlthon function to check whether the length of the word is odd or not."""
+? +++	                                                                              +++
+
+- 	"""
+  function word_len(s::String)::Bool 

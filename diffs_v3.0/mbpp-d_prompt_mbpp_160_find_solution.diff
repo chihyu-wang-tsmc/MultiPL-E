@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function that returns integers x and y that satisfy ax + by = n as a tuple, or return null if no solution exists.
+- 	
+  */
+  Nullable!(Tuple!(long, long)) find_solution(long a, long b, long n) 

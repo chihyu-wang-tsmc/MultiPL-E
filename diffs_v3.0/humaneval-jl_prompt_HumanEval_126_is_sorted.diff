@@ -1,0 +1,70 @@
+- """
+-     Given a vector of numbers, return whether or not they are sorted
+? ^^^^
+
++ """Given a vector of numbers, return whether or not they are sorted
+? ^^^
+
+-     in ascending order. If vector has more than 1 duplicate of the same
+? ----
+
++ in ascending order. If vector has more than 1 duplicate of the same
+-     number, return false. Assume no negative numbers and only integers.
+? ----
+
++ number, return false. Assume no negative numbers and only integers.
+- 
+-     Examples
+? ----
+
++ Examples
+-     >>> is_sorted([5])
+? ----
+
++ >>> is_sorted([5])
+-     true
++ true
+-     >>> is_sorted([1, 2, 3, 4, 5])
+? ----
+
++ >>> is_sorted([1, 2, 3, 4, 5])
+-     true
++ true
+-     >>> is_sorted([1, 3, 2, 4, 5])
+? ----
+
++ >>> is_sorted([1, 3, 2, 4, 5])
+-     false
++ false
+-     >>> is_sorted([1, 2, 3, 4, 5, 6])
+? ----
+
++ >>> is_sorted([1, 2, 3, 4, 5, 6])
+-     true
++ true
+-     >>> is_sorted([1, 2, 3, 4, 5, 6, 7])
+? ----
+
++ >>> is_sorted([1, 2, 3, 4, 5, 6, 7])
+-     true
++ true
+-     >>> is_sorted([1, 3, 2, 4, 5, 6, 7])
+? ----
+
++ >>> is_sorted([1, 3, 2, 4, 5, 6, 7])
+-     false
++ false
+-     >>> is_sorted([1, 2, 2, 3, 3, 4])
+? ----
+
++ >>> is_sorted([1, 2, 2, 3, 3, 4])
+-     true
++ true
+-     >>> is_sorted([1, 2, 2, 2, 3, 4])
+? ----
+
++ >>> is_sorted([1, 2, 2, 2, 3, 4])
++ false"""
+-     false
+-     """
+  function is_sorted(lst::Vector{Int64})::Bool 

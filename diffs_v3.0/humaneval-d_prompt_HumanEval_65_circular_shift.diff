@@ -1,0 +1,28 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Circular shift the digits of the integer x, shift the digits right by shift
+-     and return the result as a string.
+? ----
+
++ and return the result as a string.
+-     If shift > number of digits, return digits reversed.
+? ----
+
++ If shift > number of digits, return digits reversed.
+-     >>> circular_shift(12L, 1L)
+? ----
+
++ >>> circular_shift(12L, 1L)
+-     "21"
++ "21"
+-     >>> circular_shift(12L, 2L)
+? ----
+
++ >>> circular_shift(12L, 2L)
++ "12"
+-     "12"
+-     
+  */
+  string circular_shift(long x, long shift) 

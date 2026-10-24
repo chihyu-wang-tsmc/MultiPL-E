@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function which takes a vector and returns a vector with the same elements, but the k'th element removed.
++ """	Write a jlthon function which takes a vector and returns a vector with the same elements, but the k'th element removed."""
+? +++	                                                                                                                       +++
+
+- 	"""
+  function remove_kth_element(list1::Vector{Int64}, L::Int64)::Vector{Int64} 

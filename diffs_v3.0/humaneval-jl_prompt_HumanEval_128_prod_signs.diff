@@ -1,0 +1,44 @@
+- """
+-     You are given a vector arr of integers and you need to return
+? ^^^^
+
++ """You are given a vector arr of integers and you need to return
+? ^^^
+
+-     sum of magnitudes of integers multiplied by product of all signs
+? ----
+
++ sum of magnitudes of integers multiplied by product of all signs
+-     of each number in the vector, represented by 1, -1 or 0.
+? ----
+
++ of each number in the vector, represented by 1, -1 or 0.
+-     Note: return nothing for empty arr.
+? ----
+
++ Note: return nothing for empty arr.
+- 
+-     Example:
+? ----
+
++ Example:
+-     >>> prod_signs([1, 2, 2, -4])
+? ----
+
++ >>> prod_signs([1, 2, 2, -4])
+-     9
++ 9
+-     >>> prod_signs([0, 1])
+? ----
+
++ >>> prod_signs([0, 1])
+-     0
++ 0
+-     >>> prod_signs([])
+? ----
+
++ >>> prod_signs([])
++ nothing"""
+-     nothing
+-     """
+  function prod_signs(arr::Vector{Int64})::Union{Int64, Nothing} 

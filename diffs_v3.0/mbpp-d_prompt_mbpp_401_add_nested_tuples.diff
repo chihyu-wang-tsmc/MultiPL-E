@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to perform index wise addition of array elements in the given two nested arrays.
+- 	
+  */
+  long[][] add_nested_tuples(long[][] test_tup1, long[][] test_tup2) 

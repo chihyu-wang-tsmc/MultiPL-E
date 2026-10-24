@@ -1,0 +1,7 @@
+- """
+- 	Write a function that takes in a vector and length n, and generates all combinations (with repetition) of the elements of the vector and returns a vector with a vector for each combination.
++ """	Write a function that takes in a vector and length n, and generates all combinations (with repetition) of the elements of the vector and returns a vector with a vector for each combination."""
+? +++	                                                                                                                                                                                             +++
+
+- 	"""
+  function combinations_colors(l::Vector{String}, n::Int64)::Vector{Vector{String}} 

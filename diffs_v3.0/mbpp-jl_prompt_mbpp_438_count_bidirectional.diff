@@ -1,0 +1,7 @@
+- """
+- 	Write a function to count bidirectional tuple pairs.
++ """	Write a function to count bidirectional tuple pairs."""
+? +++	                                                    +++
+
+- 	"""
+  function count_bidirectional(test_list::Vector{Tuple{Int64, Int64}})::Int64 

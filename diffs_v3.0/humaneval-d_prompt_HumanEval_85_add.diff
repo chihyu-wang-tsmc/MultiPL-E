@@ -1,0 +1,19 @@
+  import std.math;
++ import std.typecons;
+  /*
+  Given a non-empty array of integers lst. add the even elements that are at odd indices..
+- 
+- 
+-     Examples:
+? ----
+
++ Examples:
+-     >>> add([4L, 2L, 6L, 7L])
+? ----
+
++ >>> add([4L, 2L, 6L, 7L])
++ 2L
+-     2L
+-     
+  */
+  long add(long[] lst) 

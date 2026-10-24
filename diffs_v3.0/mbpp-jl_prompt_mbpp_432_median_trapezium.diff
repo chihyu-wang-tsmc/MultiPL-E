@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the median length of a trapezium.
++ """	Write a function to find the median length of a trapezium."""
+? +++	                                                          +++
+
+- 	"""
+  function median_trapezium(base1::Int64, base2::Int64, height::Int64)::Float64 

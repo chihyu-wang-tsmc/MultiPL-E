@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the maximum product subvector of the given vector.
++ """	Write a function to find the maximum product subvector of the given vector."""
+? +++	                                                                           +++
+
+- 	"""
+  function max_subarray_product(arr::Vector{Int64})::Int64 

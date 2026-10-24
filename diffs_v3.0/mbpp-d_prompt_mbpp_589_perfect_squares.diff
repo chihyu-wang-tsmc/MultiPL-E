@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find perfect squares between two given numbers.
+- 	
+  */
+  long[] perfect_squares(long a, long b) 

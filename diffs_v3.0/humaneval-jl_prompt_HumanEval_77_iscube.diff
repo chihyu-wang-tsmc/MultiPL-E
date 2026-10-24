@@ -1,0 +1,57 @@
+- """
+-     Write a function that takes an integer a and returns true 
+? ^^^^
+
++ """Write a function that takes an integer a and returns true 
+? ^^^
+
+-     if this ingeger is a cube of some integer number.
+? ----
+
++ if this ingeger is a cube of some integer number.
+-     Note: you may assume the input is always valid.
+? ----
+
++ Note: you may assume the input is always valid.
+-     Examples:
+? ----
+
++ Examples:
+-     >>> iscube(1)
+? ----
+
++ >>> iscube(1)
+-     true
++ true
+-     >>> iscube(2)
+? ----
+
++ >>> iscube(2)
+-     false
++ false
+-     >>> iscube(-1)
+? ----
+
++ >>> iscube(-1)
+-     true
++ true
+-     >>> iscube(64)
+? ----
+
++ >>> iscube(64)
+-     true
++ true
+-     >>> iscube(0)
+? ----
+
++ >>> iscube(0)
+-     true
++ true
+-     >>> iscube(180)
+? ----
+
++ >>> iscube(180)
++ false"""
+-     false
+-     """
+  function iscube(a::Int64)::Bool 

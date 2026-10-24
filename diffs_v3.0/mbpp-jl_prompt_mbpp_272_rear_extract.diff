@@ -1,0 +1,7 @@
+- """
+- 	Write a function that takes in a vector of tuples and returns a vector containing the rear element of each tuple.
++ """	Write a function that takes in a vector of tuples and returns a vector containing the rear element of each tuple."""
+? +++	                                                                                                                 +++
+
+- 	"""
+  function rear_extract(test_list::Vector{Tuple{Int64, String, Int64}})::Vector{Int64} 

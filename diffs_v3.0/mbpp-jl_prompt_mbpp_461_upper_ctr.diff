@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to count the upper case characters in a given string.
++ """	Write a jlthon function to count the upper case characters in a given string."""
+? +++	                                                                             +++
+
+- 	"""
+  function upper_ctr(str::String)::Int64 

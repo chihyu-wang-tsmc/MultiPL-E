@@ -1,0 +1,7 @@
+- """
+- 	Write a function which takes a vectors of vectors and returns the average value for each subvector as a vector.
++ """	Write a function which takes a vectors of vectors and returns the average value for each subvector as a vector."""
+? +++	                                                                                                               +++
+
+- 	"""
+  function average_tuple(nums::Vector{Vector{Int64}})::Vector{Float64} 

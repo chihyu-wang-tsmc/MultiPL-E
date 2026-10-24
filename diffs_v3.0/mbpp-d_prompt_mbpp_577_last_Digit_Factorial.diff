@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the last digit in factorial of a given number.
+- 	
+  */
+  long last_Digit_Factorial(long n) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to replace all occurrences of spaces, commas, or dots with a colon.
+- 	
+  */
+  string replace_specialchar(string text) 

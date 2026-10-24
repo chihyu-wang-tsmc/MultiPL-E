@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to move all zeroes to the end of the given array.
+- 	
+  */
+  long[] move_zero(long[] num_list) 

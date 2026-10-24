@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to check whether the given number can be represented as the difference of two squares or not.
++ """	Write a jlthon function to check whether the given number can be represented as the difference of two squares or not."""
+? +++	                                                                                                                     +++
+
+- 	"""
+  function dif_Square(n::Int64)::Bool 

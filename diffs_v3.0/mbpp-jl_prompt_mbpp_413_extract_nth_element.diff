@@ -1,0 +1,7 @@
+- """
+- 	Write a function to extract the nth element from a given vector of tuples.
++ """	Write a function to extract the nth element from a given vector of tuples."""
+? +++	                                                                          +++
+
+- 	"""
+  function extract_nth_element(list1::Vector{Tuple{String, Int64, Int64}}, n::Int64)::Vector{Any} 

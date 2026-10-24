@@ -1,0 +1,7 @@
+- """
+- 	Given a vector of tuples, write a function that returns the first value of the tuple with the smallest second value.
++ """	Given a vector of tuples, write a function that returns the first value of the tuple with the smallest second value."""
+? +++	                                                                                                                    +++
+
+- 	"""
+  function index_minimum(test_list::Vector{Tuple{String, Int64}})::String 

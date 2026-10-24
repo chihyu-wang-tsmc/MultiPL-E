@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to count the number of positive numbers in a vector.
++ """	Write a jlthon function to count the number of positive numbers in a vector."""
+? +++	                                                                            +++
+
+- 	"""
+  function pos_count(list::Vector{Int64})::Int64 

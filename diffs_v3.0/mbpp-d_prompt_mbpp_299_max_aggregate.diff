@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to calculate the maximum aggregate from the array of tuples.
+- 	
+  */
+  Tuple!(string, long) max_aggregate(Tuple!(string, long)[] stdata) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the largest number that can be formed with the given array of digits.
+- 	
+  */
+  long find_Max_Num(long[] arr) 

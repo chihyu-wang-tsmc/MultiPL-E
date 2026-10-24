@@ -1,0 +1,7 @@
+- """
+- 	Write a function that takes in a vector and an element and inserts the element before each element in the vector, and returns the resulting vector.
++ """	Write a function that takes in a vector and an element and inserts the element before each element in the vector, and returns the resulting vector."""
+? +++	                                                                                                                                                   +++
+
+- 	"""
+  function insert_element(list::Vector{String}, element::String)::Vector{String} 

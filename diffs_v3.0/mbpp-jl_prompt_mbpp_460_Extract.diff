@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to get the first element of each subvector.
++ """	Write a jlthon function to get the first element of each subvector."""
+? +++	                                                                   +++
+
+- 	"""
+  function Extract(lst::Vector{Vector{Int64}})::Vector{Int64} 

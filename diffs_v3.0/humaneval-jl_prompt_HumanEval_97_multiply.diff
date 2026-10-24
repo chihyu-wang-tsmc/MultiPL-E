@@ -1,0 +1,39 @@
+  """Complete the function that takes two integers and returns 
+-     the product of their unit digits.
+? ----
+
++ the product of their unit digits.
+-     Assume the input is always valid.
+? ----
+
++ Assume the input is always valid.
+-     Examples:
+? ----
+
++ Examples:
+-     >>> multiply(148, 412)
+? ----
+
++ >>> multiply(148, 412)
+-     16
++ 16
+-     >>> multiply(19, 28)
+? ----
+
++ >>> multiply(19, 28)
+-     72
++ 72
+-     >>> multiply(2020, 1851)
+? ----
+
++ >>> multiply(2020, 1851)
+-     0
++ 0
+-     >>> multiply(14, -15)
+? ----
+
++ >>> multiply(14, -15)
++ 20"""
+-     20
+-     """
+  function multiply(a::Int64, b::Int64)::Int64 

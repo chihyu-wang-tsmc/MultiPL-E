@@ -1,0 +1,30 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Evaluate whether the given number n can be written as the sum of exactly 4 positive even numbers
+-     Example
+? ----
+
++ Example
+-     >>> is_equal_to_sum_even(4L)
+? ----
+
++ >>> is_equal_to_sum_even(4L)
+-     false
++ false
+-     >>> is_equal_to_sum_even(6L)
+? ----
+
++ >>> is_equal_to_sum_even(6L)
+-     false
++ false
+-     >>> is_equal_to_sum_even(8L)
+? ----
+
++ >>> is_equal_to_sum_even(8L)
++ true
+-     true
+-     
+  */
+  bool is_equal_to_sum_even(long n) 

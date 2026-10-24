@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the combinations of sums with tuples in the given tuple vector. https://www.geeksforgeeks.org/jlthon-combinations-of-sum-with-tuples-in-tuple-vector/
++ """	Write a function to find the combinations of sums with tuples in the given tuple vector. https://www.geeksforgeeks.org/jlthon-combinations-of-sum-with-tuples-in-tuple-vector/"""
+? +++	                                                                                                                                                                              +++
+
+- 	"""
+  function find_combinations(test_list::Vector{Tuple{Int64, Int64}})::Vector{Tuple{Int64, Int64}} 

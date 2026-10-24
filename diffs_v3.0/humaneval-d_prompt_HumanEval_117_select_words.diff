@@ -1,0 +1,66 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Given a string s and a natural number n, you have been tasked to implement 
+-     a function that returns an array of all words from string s that contain exactly 
+? ----
+
++ a function that returns an array of all words from string s that contain exactly 
+-     n consonants, in order these words appear in the string s.
+? ----
+
++ n consonants, in order these words appear in the string s.
+-     If the string s is empty then the function should return an empty array.
+? ----
+
++ If the string s is empty then the function should return an empty array.
+-     Note: you may assume the input string contains only letters and spaces.
+? ----
+
++ Note: you may assume the input string contains only letters and spaces.
+-     Examples:
+? ----
+
++ Examples:
+-     >>> select_words("Mary had a little lamb", 4L)
+? ----
+
++ >>> select_words("Mary had a little lamb", 4L)
+-     ["little"]
+? ----
+
++ ["little"]
+-     >>> select_words("Mary had a little lamb", 3L)
+? ----
+
++ >>> select_words("Mary had a little lamb", 3L)
+-     ["Mary", "lamb"]
+? ----
+
++ ["Mary", "lamb"]
+-     >>> select_words("simple white space", 2L)
+? ----
+
++ >>> select_words("simple white space", 2L)
+-     []
++ []
+-     >>> select_words("Hello world", 4L)
+? ----
+
++ >>> select_words("Hello world", 4L)
+-     ["world"]
+? ----
+
++ ["world"]
+-     >>> select_words("Uncle sam", 3L)
+? ----
+
++ >>> select_words("Uncle sam", 3L)
+-     ["Uncle"]
+? ----
+
++ ["Uncle"]
+-     
+  */
+  string[] select_words(string s, long n) 

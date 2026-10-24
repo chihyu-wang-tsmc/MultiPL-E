@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to count the number of positive numbers in an array.
+- 	
+  */
+  long pos_count(long[] list) 

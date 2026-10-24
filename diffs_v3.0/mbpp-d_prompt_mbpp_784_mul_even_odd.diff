@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the product of first even and odd number of a given array.
+- 	
+  */
+  long mul_even_odd(long[] list1) 

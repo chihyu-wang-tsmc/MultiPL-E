@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to count the number of pairs whose xor value is odd.
++ """	Write a jlthon function to count the number of pairs whose xor value is odd."""
+? +++	                                                                            +++
+
+- 	"""
+  function find_Odd_Pair(A::Vector{Int64}, N::Int64)::Int64 

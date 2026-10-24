@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function that takes in two tuples and performs mathematical division operation element-wise across the given tuples.
+- 	
+  */
+  Tuple!(long, long, long, long) division_elements(Tuple!(long, long, long, long) test_tup1, Tuple!(long, long, long, long) test_tup2) 

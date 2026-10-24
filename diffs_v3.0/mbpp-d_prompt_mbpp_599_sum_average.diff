@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find sum and average of first n natural numbers.
+- 	
+  */
+  Tuple!(long, float) sum_average(long number) 

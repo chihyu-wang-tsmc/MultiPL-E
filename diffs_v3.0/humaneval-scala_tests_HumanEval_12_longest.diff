@@ -1,0 +1,14 @@
+      }
+      def main(args: Array[String]) = {
+      assert(longest((List[String]())).equals(None));
+-     assert(longest((List[String]("x", "y", "z"))).equals("x"));
++     assert(longest((List[String]("x", "y", "z"))).equals(Some("x")));
+?                                                          +++++     +
+
+-     assert(longest((List[String]("x", "yyy", "zzzz", "www", "kkkk", "abc"))).equals("zzzz"));
++     assert(longest((List[String]("x", "yyy", "zzzz", "www", "kkkk", "abc"))).equals(Some("zzzz")));
+?                                                                                     +++++        +
+
+      }
+  
+  }

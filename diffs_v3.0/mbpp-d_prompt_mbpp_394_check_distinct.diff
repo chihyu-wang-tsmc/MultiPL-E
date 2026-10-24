@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to check if given array contains no duplicates.
+- 	
+  */
+  bool check_distinct(long[] test_tup) 

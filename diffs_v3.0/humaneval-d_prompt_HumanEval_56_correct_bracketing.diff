@@ -1,0 +1,37 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+   brackets is a string of "<" and ">".
+-     return true if every opening bracket has a corresponding closing bracket.
+? ----
+
++ return true if every opening bracket has a corresponding closing bracket.
+- 
+-     >>> correct_bracketing("<")
+? ----
+
++ >>> correct_bracketing("<")
+-     false
++ false
+-     >>> correct_bracketing("<>")
+? ----
+
++ >>> correct_bracketing("<>")
+-     true
++ true
+-     >>> correct_bracketing("<<><>>")
+? ----
+
++ >>> correct_bracketing("<<><>>")
+-     true
++ true
+-     >>> correct_bracketing("><<>")
+? ----
+
++ >>> correct_bracketing("><<>")
++ false
+-     false
+-     
+  */
+  bool correct_bracketing(string brackets) 

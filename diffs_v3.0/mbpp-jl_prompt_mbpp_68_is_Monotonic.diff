@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to check whether the given vector is monotonic or not.
++ """	Write a jlthon function to check whether the given vector is monotonic or not."""
+? +++	                                                                              +++
+
+- 	"""
+  function is_Monotonic(A::Vector{Int64})::Bool 

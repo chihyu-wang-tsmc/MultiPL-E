@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to split an array at the nth eelment and add the first part to the end.
+- 	
+  */
+  long[] split_Arr(long[] l, long n) 

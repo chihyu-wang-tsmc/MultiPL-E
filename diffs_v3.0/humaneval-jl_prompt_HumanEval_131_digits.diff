@@ -1,0 +1,29 @@
+  """Given a positive integer n, return the product of the odd digits.
+-     Return 0 if all digits are even.
+? ----
+
++ Return 0 if all digits are even.
+-     For example:
+? ----
+
++ For example:
+-     >>> digits(1)
+? ----
+
++ >>> digits(1)
+-     1
++ 1
+-     >>> digits(4)
+? ----
+
++ >>> digits(4)
+-     0
++ 0
+-     >>> digits(235)
+? ----
+
++ >>> digits(235)
++ 15"""
+-     15
+-     """
+  function digits(n::Int64)::Int64 

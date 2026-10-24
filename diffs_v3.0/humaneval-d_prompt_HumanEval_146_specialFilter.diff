@@ -1,0 +1,32 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Write a function that takes an array of numbers as input and returns 
+-     the number of elements in the array that are greater than 10 and both 
+? ----
+
++ the number of elements in the array that are greater than 10 and both 
+-     first and last digits of a number are odd (1, 3, 5, 7, 9).
+? ----
+
++ first and last digits of a number are odd (1, 3, 5, 7, 9).
+-     For example:
+? ----
+
++ For example:
+-     >>> specialFilter([15L, -73L, 14L, -15L])
+? ----
+
++ >>> specialFilter([15L, -73L, 14L, -15L])
+-     1L
++ 1L
+-     >>> specialFilter([33L, -2L, -3L, 45L, 21L, 109L])
+? ----
+
++ >>> specialFilter([33L, -2L, -3L, 45L, 21L, 109L])
++ 2L
+-     2L
+-     
+  */
+  long specialFilter(long[] nums) 

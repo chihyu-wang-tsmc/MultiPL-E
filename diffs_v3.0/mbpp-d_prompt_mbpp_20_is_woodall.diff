@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to check if the given number is woodball or not.
+- 	
+  */
+  bool is_woodall(long x) 

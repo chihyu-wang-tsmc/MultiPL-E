@@ -1,0 +1,7 @@
+- """
+- 	Write a function to remove all elements from a given vector present in another vector.
++ """	Write a function to remove all elements from a given vector present in another vector."""
+? +++	                                                                                      +++
+
+- 	"""
+  function remove_elements(list1::Vector{Int64}, list2::Vector{Int64})::Vector{Int64} 

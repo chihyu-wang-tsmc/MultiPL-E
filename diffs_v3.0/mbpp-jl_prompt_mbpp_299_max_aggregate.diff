@@ -1,0 +1,7 @@
+- """
+- 	Write a function to calculate the maximum aggregate from the vector of tuples.
++ """	Write a function to calculate the maximum aggregate from the vector of tuples."""
+? +++	                                                                              +++
+
+- 	"""
+  function max_aggregate(stdata::Vector{Tuple{String, Int64}})::Tuple{String, Int64} 

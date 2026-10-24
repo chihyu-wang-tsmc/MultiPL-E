@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to remove all whitespaces from a string.
+- 	
+  */
+  string remove_all_spaces(string text) 

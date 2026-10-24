@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the last digit of a given number.
+- 	
+  */
+  long last_Digit(long n) 

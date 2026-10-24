@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the character made by adding the ASCII value of all the characters of the given string modulo 26.
+- 	
+  */
+  string get_Char(string strr) 

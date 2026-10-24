@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to count number of digits in a given string.
++ """	Write a jlthon function to count number of digits in a given string."""
+? +++	                                                                    +++
+
+- 	"""
+  function number_ctr(str::String)::Int64 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the item with maximum frequency in a given vector.
++ """	Write a function to find the item with maximum frequency in a given vector."""
+? +++	                                                                           +++
+
+- 	"""
+  function max_occurrences(nums::Vector{Int64})::Int64 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the sum of numbers in a vector within a range specified by two indices.
++ """	Write a function to find the sum of numbers in a vector within a range specified by two indices."""
+? +++	                                                                                                +++
+
+- 	"""
+  function sum_range_list(list1::Vector{Int64}, m::Int64, n::Int64)::Int64 

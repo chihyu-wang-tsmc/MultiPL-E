@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the ration of positive numbers in an array of integers.
+- 	
+  */
+  float positive_count(long[] nums) 

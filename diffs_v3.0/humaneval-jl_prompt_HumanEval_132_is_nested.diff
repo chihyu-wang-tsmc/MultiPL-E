@@ -1,0 +1,54 @@
+- """
+-     Create a function that takes a string as input which contains only square brackets.
+? ^^^^
+
++ """Create a function that takes a string as input which contains only square brackets.
+? ^^^
+
+-     The function should return true if and only if there is a valid subsequence of brackets 
+? ----
+
++ The function should return true if and only if there is a valid subsequence of brackets 
+-     where at least one bracket in the subsequence is nested.
+? ----
+
++ where at least one bracket in the subsequence is nested.
+- 
+-     >>> is_nested("[[]]")
+? ----
+
++ >>> is_nested("[[]]")
+-     true
++ true
+-     >>> is_nested("[]]]]]]][[[[[]")
+? ----
+
++ >>> is_nested("[]]]]]]][[[[[]")
+-     false
++ false
+-     >>> is_nested("[][]")
+? ----
+
++ >>> is_nested("[][]")
+-     false
++ false
+-     >>> is_nested("[]")
+? ----
+
++ >>> is_nested("[]")
+-     false
++ false
+-     >>> is_nested("[[][]]")
+? ----
+
++ >>> is_nested("[[][]]")
+-     true
++ true
+-     >>> is_nested("[[]][[")
+? ----
+
++ >>> is_nested("[[]][[")
++ true"""
+-     true
+-     """
+  function is_nested(string::String)::Bool 

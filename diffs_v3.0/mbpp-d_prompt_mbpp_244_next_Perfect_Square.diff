@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the next perfect square greater than a given number.
+- 	
+  */
+  long next_Perfect_Square(long N) 

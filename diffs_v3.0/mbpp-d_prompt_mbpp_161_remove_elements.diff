@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to remove all elements from a given array present in another array.
+- 	
+  */
+  long[] remove_elements(long[] list1, long[] list2) 

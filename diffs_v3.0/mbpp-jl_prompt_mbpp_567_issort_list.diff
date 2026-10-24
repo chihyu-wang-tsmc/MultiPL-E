@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check whether a specified vector is sorted or not.
++ """	Write a function to check whether a specified vector is sorted or not."""
+? +++	                                                                      +++
+
+- 	"""
+  function issort_list(list1::Vector{Int64})::Bool 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to divide two arrays element wise.
+- 	
+  */
+  float[] div_list(long[] nums1, long[] nums2) 

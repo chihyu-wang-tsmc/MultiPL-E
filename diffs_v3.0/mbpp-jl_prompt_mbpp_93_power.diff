@@ -1,0 +1,7 @@
+- """
+- 	Write a function to calculate the value of 'a' to the power 'b'.
++ """	Write a function to calculate the value of 'a' to the power 'b'."""
+? +++	                                                                +++
+
+- 	"""
+  function power(a::Int64, b::Int64)::Int64 

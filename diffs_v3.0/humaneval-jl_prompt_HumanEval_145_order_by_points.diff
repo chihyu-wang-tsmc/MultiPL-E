@@ -1,0 +1,40 @@
+- """
+-     Write a function which sorts the given vector of integers
+? ^^^^
+
++ """Write a function which sorts the given vector of integers
+? ^^^
+
+-     in ascending order according to the sum of their digits.
+? ----
+
++ in ascending order according to the sum of their digits.
+-     Note: if there are several items with similar sum of their digits,
+? ----
+
++ Note: if there are several items with similar sum of their digits,
+-     order them based on their index in original vector.
+? ----
+
++ order them based on their index in original vector.
+- 
+-     For example:
+? ----
+
++ For example:
+-     >>> order_by_points([1, 11, -1, -11, -12])
+? ----
+
++ >>> order_by_points([1, 11, -1, -11, -12])
+-     [-1, -11, 1, -12, 11]
+? ----
+
++ [-1, -11, 1, -12, 11]
+-     >>> order_by_points([])
+? ----
+
++ >>> order_by_points([])
++ []"""
+-     []
+-     """
+  function order_by_points(nums::Vector{Int64})::Vector{Int64} 

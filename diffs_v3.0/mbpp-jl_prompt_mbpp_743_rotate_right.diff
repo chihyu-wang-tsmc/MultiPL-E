@@ -1,0 +1,7 @@
+- """
+- 	Write a function to rotate a given vector by specified number of items to the right direction. https://www.geeksforgeeks.org/jlthon-program-right-rotate-vector-n/
++ """	Write a function to rotate a given vector by specified number of items to the right direction. https://www.geeksforgeeks.org/jlthon-program-right-rotate-vector-n/"""
+? +++	                                                                                                                                                                  +++
+
+- 	"""
+  function rotate_right(list::Vector{Int64}, m::Int64)::Vector{Int64} 

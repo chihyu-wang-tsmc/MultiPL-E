@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the maximum product formed by multiplying numbers of an increasing subsequence of that vector.
++ """	Write a function to find the maximum product formed by multiplying numbers of an increasing subsequence of that vector."""
+? +++	                                                                                                                       +++
+
+- 	"""
+  function max_product(arr::Vector{Int64})::Int64 

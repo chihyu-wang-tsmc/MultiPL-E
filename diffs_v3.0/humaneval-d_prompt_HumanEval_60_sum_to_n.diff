@@ -1,0 +1,38 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  sum_to_n is a function that sums numbers from 1 to n.
+-     >>> sum_to_n(30L)
+? ----
+
++ >>> sum_to_n(30L)
+-     465L
++ 465L
+-     >>> sum_to_n(100L)
+? ----
+
++ >>> sum_to_n(100L)
+-     5050L
++ 5050L
+-     >>> sum_to_n(5L)
+? ----
+
++ >>> sum_to_n(5L)
+-     15L
++ 15L
+-     >>> sum_to_n(10L)
+? ----
+
++ >>> sum_to_n(10L)
+-     55L
++ 55L
+-     >>> sum_to_n(1L)
+? ----
+
++ >>> sum_to_n(1L)
++ 1L
+-     1L
+-     
+  */
+  long sum_to_n(long n) 

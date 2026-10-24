@@ -1,0 +1,7 @@
+- """
+- 	Write a function to remove uppercase substrings from a given string.
++ """	Write a function to remove uppercase substrings from a given string."""
+? +++	                                                                    +++
+
+- 	"""
+  function remove_uppercase(str1::String)::String 

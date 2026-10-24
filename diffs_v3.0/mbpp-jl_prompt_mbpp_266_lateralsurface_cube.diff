@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the lateral surface area of a cube given its side length.
++ """	Write a function to find the lateral surface area of a cube given its side length."""
+? +++	                                                                                  +++
+
+- 	"""
+  function lateralsurface_cube(l::Int64)::Int64 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the nth number in the newman conway sequence.
++ """	Write a function to find the nth number in the newman conway sequence."""
+? +++	                                                                      +++
+
+- 	"""
+  function sequence(n::Int64)::Int64 

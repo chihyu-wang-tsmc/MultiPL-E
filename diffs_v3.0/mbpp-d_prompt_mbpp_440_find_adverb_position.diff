@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the first adverb and their positions in a given sentence.
+- 	
+  */
+  Tuple!(long, long, string) find_adverb_position(string text) 

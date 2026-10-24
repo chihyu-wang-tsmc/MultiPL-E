@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the smallest missing number from a sorted vector of natural numbers.
++ """	Write a jlthon function to find the smallest missing number from a sorted vector of natural numbers."""
+? +++	                                                                                                    +++
+
+- 	"""
+  function find_First_Missing(array::Vector{Int64})::Int64 

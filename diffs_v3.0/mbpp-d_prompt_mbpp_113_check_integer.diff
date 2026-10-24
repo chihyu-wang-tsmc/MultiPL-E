@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to check if a string represents an integer or not.
+- 	
+  */
+  bool check_integer(string text) 

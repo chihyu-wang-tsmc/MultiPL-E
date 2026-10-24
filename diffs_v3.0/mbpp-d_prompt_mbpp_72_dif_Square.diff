@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to check whether the given number can be represented as the difference of two squares or not.
+- 	
+  */
+  bool dif_Square(long n) 

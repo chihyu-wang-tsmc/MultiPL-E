@@ -1,0 +1,7 @@
+- """
+- 	Write a function to reverse each string in a given vector of string values.
++ """	Write a function to reverse each string in a given vector of string values."""
+? +++	                                                                           +++
+
+- 	"""
+  function reverse_string_list(stringlist::Vector{String})::Vector{String} 

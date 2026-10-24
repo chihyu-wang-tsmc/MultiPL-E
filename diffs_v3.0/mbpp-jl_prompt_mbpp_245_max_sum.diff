@@ -1,0 +1,7 @@
+- """
+- 	Write a function that takes a vector and finds the maximum sum of a bitonic subsequence for the given vector, where a sequence is bitonic if it is first increasing and then decreasing.
++ """	Write a function that takes a vector and finds the maximum sum of a bitonic subsequence for the given vector, where a sequence is bitonic if it is first increasing and then decreasing."""
+? +++	                                                                                                                                                                                        +++
+
+- 	"""
+  function max_sum(arr::Vector{Int64})::Int64 

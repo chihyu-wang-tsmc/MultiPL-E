@@ -1,0 +1,14 @@
+      }
+      def main(args: Array[String]) = {
+-     assert(commonElement((List[Any](1l.toLong, 2l.toLong, 3l.toLong, 4l.toLong, 5l.toLong)), (List[Any](5l.toLong, 6l.toLong, 7l.toLong, 8l.toLong, 9l.toLong))).equals(true));
++     assert(commonElement((List[Any](1l.toLong, 2l.toLong, 3l.toLong, 4l.toLong, 5l.toLong)), (List[Any](5l.toLong, 6l.toLong, 7l.toLong, 8l.toLong, 9l.toLong))).equals(Some(true)));
+?                                                                                                                                                                         +++++      +
+
+      assert(commonElement((List[Any](1l.toLong, 2l.toLong, 3l.toLong, 4l.toLong, 5l.toLong)), (List[Any](6l.toLong, 7l.toLong, 8l.toLong, 9l.toLong))).equals(None));
+-     assert(commonElement((List[Any]("a", "b", "c")), (List[Any]("d", "b", "e"))).equals(true));
++     assert(commonElement((List[Any]("a", "b", "c")), (List[Any]("d", "b", "e"))).equals(Some(true)));
+?                                                                                         +++++      +
+
+      }
+  
+  }

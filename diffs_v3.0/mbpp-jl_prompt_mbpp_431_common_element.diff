@@ -1,0 +1,7 @@
+- """
+- 	Write a function that takes two vectors and returns true if they have at least one common element.
++ """	Write a function that takes two vectors and returns true if they have at least one common element."""
+? +++	                                                                                                  +++
+
+- 	"""
+  function common_element(list1::Vector{Any}, list2::Vector{Any})::Union{Bool, Nothing} 

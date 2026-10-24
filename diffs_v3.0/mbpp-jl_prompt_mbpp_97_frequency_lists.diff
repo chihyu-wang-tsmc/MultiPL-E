@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find frequency of each element in a flattened vector of vectors, returned in a dictionary.
++ """	Write a function to find frequency of each element in a flattened vector of vectors, returned in a dictionary."""
+? +++	                                                                                                              +++
+
+- 	"""
+  function frequency_lists(list1::Vector{Vector{Int64}})::Dict{Int64, Int64}> 

@@ -1,0 +1,57 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Task
+-     Write a function that takes a string as input and returns the sum of the upper characters only'
+? ----
+
++ Write a function that takes a string as input and returns the sum of the upper characters only'
+-     ASCII codes.
+? ----
+
++ ASCII codes.
+- 
+-     Examples:
+? ----
+
++ Examples:
+-     >>> digitSum("")
+? ----
+
++ >>> digitSum("")
+-     0L
++ 0L
+-     >>> digitSum("abAB")
+? ----
+
++ >>> digitSum("abAB")
+-     131L
++ 131L
+-     >>> digitSum("abcCd")
+? ----
+
++ >>> digitSum("abcCd")
+-     67L
++ 67L
+-     >>> digitSum("helloE")
+? ----
+
++ >>> digitSum("helloE")
+-     69L
++ 69L
+-     >>> digitSum("woArBld")
+? ----
+
++ >>> digitSum("woArBld")
+-     131L
++ 131L
+-     >>> digitSum("aAaaaXa")
+? ----
+
++ >>> digitSum("aAaaaXa")
++ 153L
+-     153L
+-     
+  */
+  long digitSum(string s) 

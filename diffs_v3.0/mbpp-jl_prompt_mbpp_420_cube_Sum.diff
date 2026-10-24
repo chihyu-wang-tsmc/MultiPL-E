@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the cube sum of first n even natural numbers.
++ """	Write a jlthon function to find the cube sum of first n even natural numbers."""
+? +++	                                                                             +++
+
+- 	"""
+  function cube_Sum(n::Int64)::Int64 

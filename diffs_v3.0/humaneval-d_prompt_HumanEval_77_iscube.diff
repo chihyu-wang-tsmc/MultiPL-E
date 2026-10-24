@@ -1,0 +1,60 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     Write a function that takes an integer a and returns true 
+? ----
+
++ Write a function that takes an integer a and returns true 
+-     if this ingeger is a cube of some integer number.
+? ----
+
++ if this ingeger is a cube of some integer number.
+-     Note: you may assume the input is always valid.
+? ----
+
++ Note: you may assume the input is always valid.
+-     Examples:
+? ----
+
++ Examples:
+-     >>> iscube(1L)
+? ----
+
++ >>> iscube(1L)
+-     true
++ true
+-     >>> iscube(2L)
+? ----
+
++ >>> iscube(2L)
+-     false
++ false
+-     >>> iscube(-1L)
+? ----
+
++ >>> iscube(-1L)
+-     true
++ true
+-     >>> iscube(64L)
+? ----
+
++ >>> iscube(64L)
+-     true
++ true
+-     >>> iscube(0L)
+? ----
+
++ >>> iscube(0L)
+-     true
++ true
+-     >>> iscube(180L)
+? ----
+
++ >>> iscube(180L)
++ false
+-     false
+-     
+  */
+  bool iscube(long a) 

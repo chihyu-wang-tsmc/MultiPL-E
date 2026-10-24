@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the next perfect square greater than a given number.
++ """	Write a jlthon function to find the next perfect square greater than a given number."""
+? +++	                                                                                    +++
+
+- 	"""
+  function next_Perfect_Square(N::Int64)::Int64 

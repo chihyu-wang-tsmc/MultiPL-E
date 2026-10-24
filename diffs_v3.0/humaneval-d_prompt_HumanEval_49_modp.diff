@@ -1,0 +1,38 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Return 2^n modulo p (be aware of numerics).
+-     >>> modp(3L, 5L)
+? ----
+
++ >>> modp(3L, 5L)
+-     3L
++ 3L
+-     >>> modp(1101L, 101L)
+? ----
+
++ >>> modp(1101L, 101L)
+-     2L
++ 2L
+-     >>> modp(0L, 101L)
+? ----
+
++ >>> modp(0L, 101L)
+-     1L
++ 1L
+-     >>> modp(3L, 11L)
+? ----
+
++ >>> modp(3L, 11L)
+-     8L
++ 8L
+-     >>> modp(100L, 101L)
+? ----
+
++ >>> modp(100L, 101L)
++ 1L
+-     1L
+-     
+  */
+  long modp(long n, long p) 

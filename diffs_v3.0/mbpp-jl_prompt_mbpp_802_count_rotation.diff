@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to count the number of rotations required to generate a sorted vector. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-vector/
++ """	Write a jlthon function to count the number of rotations required to generate a sorted vector. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-vector/"""
+? +++	                                                                                                                                                                                     +++
+
+- 	"""
+  function count_rotation(arr::Vector{Int64})::Int64 

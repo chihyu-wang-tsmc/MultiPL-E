@@ -1,0 +1,31 @@
+  """Change numerical base of input number x to base.
+-     return string representation after the conversion.
+? ----
+
++ return string representation after the conversion.
+-     base numbers are less than 10.
+? ----
+
++ base numbers are less than 10.
+-     >>> change_base(8, 3)
+? ----
+
++ >>> change_base(8, 3)
+-     "22"
++ "22"
+-     >>> change_base(8, 2)
+? ----
+
++ >>> change_base(8, 2)
+-     "1000"
+? ----
+
++ "1000"
+-     >>> change_base(7, 2)
+? ----
+
++ >>> change_base(7, 2)
++ "111""""
+-     "111"
+-     """
+  function change_base(x::Int64, base::Int64)::String 

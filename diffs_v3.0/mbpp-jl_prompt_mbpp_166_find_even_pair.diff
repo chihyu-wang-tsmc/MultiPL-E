@@ -1,0 +1,7 @@
+- """
+- 	Write a function that counts the number of pairs of integers in a vector that xor to an even number.
++ """	Write a function that counts the number of pairs of integers in a vector that xor to an even number."""
+? +++	                                                                                                    +++
+
+- 	"""
+  function find_even_pair(A::Vector{Int64})::Int64 

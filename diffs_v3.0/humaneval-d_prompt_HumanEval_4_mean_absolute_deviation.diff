@@ -1,0 +1,30 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+   For a given array of input numbers, calculate Mean Absolute Deviation
+-     around the mean of this dataset.
+? ----
+
++ around the mean of this dataset.
+-     Mean Absolute Deviation is the average absolute difference between each
+? ----
+
++ Mean Absolute Deviation is the average absolute difference between each
+-     element and a centerpoint (mean in this case):
+? ----
+
++ element and a centerpoint (mean in this case):
+-     MAD = average | x - x_mean |
+? ----
+
++ MAD = average | x - x_mean |
+-     >>> mean_absolute_deviation([1.0, 2.0, 3.0, 4.0])
+? ----
+
++ >>> mean_absolute_deviation([1.0, 2.0, 3.0, 4.0])
++ 1.0
+-     1.0
+-     
+  */
+  float mean_absolute_deviation(float[] numbers) 

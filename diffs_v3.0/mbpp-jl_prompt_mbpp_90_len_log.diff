@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the length of the longest word.
++ """	Write a jlthon function to find the length of the longest word."""
+? +++	                                                               +++
+
+- 	"""
+  function len_log(list1::Vector{String})::Int64 

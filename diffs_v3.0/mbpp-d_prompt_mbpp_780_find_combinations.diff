@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the combinations of sums with tuples in the given tuple array. https://www.geeksforgeeks.org/dthon-combinations-of-sum-with-tuples-in-tuple-array/
+- 	
+  */
+  Tuple!(long, long)[] find_combinations(Tuple!(long, long)[] test_list) 

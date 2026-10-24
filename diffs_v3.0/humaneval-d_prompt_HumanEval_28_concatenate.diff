@@ -1,0 +1,20 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+   Concatenate array of strings into a single string
+-     >>> concatenate([])
+? ----
+
++ >>> concatenate([])
+-     ""
++ ""
+-     >>> concatenate(["a", "b", "c"])
+? ----
+
++ >>> concatenate(["a", "b", "c"])
++ "abc"
+-     "abc"
+-     
+  */
+  string concatenate(string[] strings) 

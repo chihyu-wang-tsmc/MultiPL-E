@@ -1,0 +1,47 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     Given array of integers, return array in strange order.
+? ----
+
++ Given array of integers, return array in strange order.
+-     Strange sorting, is when you start with the minimum value,
+? ----
+
++ Strange sorting, is when you start with the minimum value,
+-     then maximum of the remaining integers, then minimum and so on.
+? ----
+
++ then maximum of the remaining integers, then minimum and so on.
+- 
+-     Examples:
+? ----
+
++ Examples:
+-     >>> strange_sort_list([1L, 2L, 3L, 4L])
+? ----
+
++ >>> strange_sort_list([1L, 2L, 3L, 4L])
+-     [1L, 4L, 2L, 3L]
+? ----
+
++ [1L, 4L, 2L, 3L]
+-     >>> strange_sort_list([5L, 5L, 5L, 5L])
+? ----
+
++ >>> strange_sort_list([5L, 5L, 5L, 5L])
+-     [5L, 5L, 5L, 5L]
+? ----
+
++ [5L, 5L, 5L, 5L]
+-     >>> strange_sort_list([])
+? ----
+
++ >>> strange_sort_list([])
++ []
+-     []
+-     
+  */
+  long[] strange_sort_list(long[] lst) 

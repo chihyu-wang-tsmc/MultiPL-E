@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find whether a given vector of integers contains any duplicate element.
++ """	Write a function to find whether a given vector of integers contains any duplicate element."""
+? +++	                                                                                           +++
+
+- 	"""
+  function test_duplicate(arraynums::Vector{Int64})::Bool 

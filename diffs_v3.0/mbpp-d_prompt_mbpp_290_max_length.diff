@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the array of maximum length in an array of arrays.
+- 	
+  */
+  Tuple!(long, long[]) max_length(long[][] list1) 

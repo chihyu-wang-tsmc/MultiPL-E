@@ -1,0 +1,50 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Return true if a given number is prime, and false otherwise.
+-     >>> is_prime(6L)
+? ----
+
++ >>> is_prime(6L)
+-     false
++ false
+-     >>> is_prime(101L)
+? ----
+
++ >>> is_prime(101L)
+-     true
++ true
+-     >>> is_prime(11L)
+? ----
+
++ >>> is_prime(11L)
+-     true
++ true
+-     >>> is_prime(13441L)
+? ----
+
++ >>> is_prime(13441L)
+-     true
++ true
+-     >>> is_prime(61L)
+? ----
+
++ >>> is_prime(61L)
+-     true
++ true
+-     >>> is_prime(4L)
+? ----
+
++ >>> is_prime(4L)
+-     false
++ false
+-     >>> is_prime(1L)
+? ----
+
++ >>> is_prime(1L)
++ false
+-     false
+-     
+  */
+  bool is_prime(long n) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find smallest number in an array.
+- 	
+  */
+  long smallest_num(long[] xs) 

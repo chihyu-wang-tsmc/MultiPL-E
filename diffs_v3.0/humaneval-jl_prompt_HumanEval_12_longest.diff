@@ -1,0 +1,27 @@
+  """ Out of vector of strings, return the longest one. Return the first one in case of multiple
+-     strings of the same length. Return nothing in case the input vector is empty.
+? ----
+
++ strings of the same length. Return nothing in case the input vector is empty.
+-     >>> longest([])
+? ----
+
++ >>> longest([])
+-     nothing
+? ----
+
++ nothing
+-     >>> longest(["a", "b", "c"])
+? ----
+
++ >>> longest(["a", "b", "c"])
+-     "a"
++ "a"
+-     >>> longest(["a", "bb", "ccc"])
+? ----
+
++ >>> longest(["a", "bb", "ccc"])
++ "ccc""""
+-     "ccc"
+-     """
+  function longest(strings::Vector{String})::Union{String, Nothing} 

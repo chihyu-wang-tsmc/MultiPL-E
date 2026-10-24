@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the maximum value in a given heterogeneous vector.
++ """	Write a function to find the maximum value in a given heterogeneous vector."""
+? +++	                                                                           +++
+
+- 	"""
+  function max_val(listval::Vector{Union{String, Int64}})::Int64 

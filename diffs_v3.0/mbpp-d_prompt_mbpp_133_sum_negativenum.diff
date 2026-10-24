@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to calculate the sum of the negative numbers of a given array of numbers.
+- 	
+  */
+  long sum_negativenum(long[] nums) 

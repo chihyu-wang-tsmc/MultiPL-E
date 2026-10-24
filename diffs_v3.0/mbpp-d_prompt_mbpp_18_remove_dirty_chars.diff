@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to remove characters from the first string which are present in the second string.
+- 	
+  */
+  string remove_dirty_chars(string string, string second_string) 

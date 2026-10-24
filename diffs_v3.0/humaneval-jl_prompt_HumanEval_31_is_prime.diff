@@ -1,0 +1,45 @@
+  """Return true if a given number is prime, and false otherwise.
+-     >>> is_prime(6)
+? ----
+
++ >>> is_prime(6)
+-     false
++ false
+-     >>> is_prime(101)
+? ----
+
++ >>> is_prime(101)
+-     true
++ true
+-     >>> is_prime(11)
+? ----
+
++ >>> is_prime(11)
+-     true
++ true
+-     >>> is_prime(13441)
+? ----
+
++ >>> is_prime(13441)
+-     true
++ true
+-     >>> is_prime(61)
+? ----
+
++ >>> is_prime(61)
+-     true
++ true
+-     >>> is_prime(4)
+? ----
+
++ >>> is_prime(4)
+-     false
++ false
+-     >>> is_prime(1)
+? ----
+
++ >>> is_prime(1)
++ false"""
+-     false
+-     """
+  function is_prime(n::Int64)::Bool 

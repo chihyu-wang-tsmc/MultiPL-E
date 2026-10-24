@@ -1,0 +1,8 @@
+  import std.math;
++ import std.typecons;
+  /*
+- 
+  	Write a function to find the length of the longest palindromic subsequence in the given string.
+- 	
+  */
+  long lps(string str) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the specified number of largest products from two given arrays, selecting one factor from each array.
+- 	
+  */
+  long[] large_product(long[] nums1, long[] nums2, long N) 

@@ -1,0 +1,30 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+   Out of array of strings, return the longest one. Return the first one in case of multiple
+-     strings of the same length. Return null in case the input array is empty.
+? ----
+
++ strings of the same length. Return null in case the input array is empty.
+-     >>> longest([])
+? ----
+
++ >>> longest([])
+-     None
++ None
+-     >>> longest(["a", "b", "c"])
+? ----
+
++ >>> longest(["a", "b", "c"])
+-     "a"
++ "a"
+-     >>> longest(["a", "bb", "ccc"])
+? ----
+
++ >>> longest(["a", "bb", "ccc"])
++ "ccc"
+-     "ccc"
+-     
+  */
+  Nullable!(string) longest(string[] strings) 

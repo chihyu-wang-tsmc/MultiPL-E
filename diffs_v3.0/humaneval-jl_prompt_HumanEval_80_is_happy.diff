@@ -1,0 +1,51 @@
+  """You are given a string s.
+-     Your task is to check if the string is hapjl or not.
+? ----
+
++ Your task is to check if the string is hapjl or not.
+-     A string is hapjl if its length is at least 3 and every 3 consecutive letters are distinct
+? ----
+
++ A string is hapjl if its length is at least 3 and every 3 consecutive letters are distinct
+-     For example:
+? ----
+
++ For example:
+-     >>> is_happy("a")
+? ----
+
++ >>> is_happy("a")
+-     false
++ false
+-     >>> is_happy("aa")
+? ----
+
++ >>> is_happy("aa")
+-     false
++ false
+-     >>> is_happy("abcd")
+? ----
+
++ >>> is_happy("abcd")
+-     true
++ true
+-     >>> is_happy("aabb")
+? ----
+
++ >>> is_happy("aabb")
+-     false
++ false
+-     >>> is_happy("adb")
+? ----
+
++ >>> is_happy("adb")
+-     true
++ true
+-     >>> is_happy("xyy")
+? ----
+
++ >>> is_happy("xyy")
++ false"""
+-     false
+-     """
+  function is_happy(s::String)::Bool 

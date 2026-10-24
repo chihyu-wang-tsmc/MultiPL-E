@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function takes as input two arrays [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].
+- 	
+  */
+  long[] sum_list(long[] lst1, long[] lst2) 

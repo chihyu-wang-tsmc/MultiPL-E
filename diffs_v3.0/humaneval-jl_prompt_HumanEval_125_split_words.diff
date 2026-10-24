@@ -1,0 +1,43 @@
+- """
+-     Given a string of words, return a vector of words split on whitespace, if no whitespaces exists in the text you
+? ^^^^
+
++ """Given a string of words, return a vector of words split on whitespace, if no whitespaces exists in the text you
+? ^^^
+
+-     should split on commas ',' if no commas exists you should return the number of lower-case letters with odd order in the
+? ----
+
++ should split on commas ',' if no commas exists you should return the number of lower-case letters with odd order in the
+-     alphabet, ord('a') = 0, ord('b') = 1, ... ord('z') = 25
+? ----
+
++ alphabet, ord('a') = 0, ord('b') = 1, ... ord('z') = 25
+-     Examples
+? ----
+
++ Examples
+-     >>> split_words("Hello world!")
+? ----
+
++ >>> split_words("Hello world!")
+-     ["Hello", "world!"]
+? ----
+
++ ["Hello", "world!"]
+-     >>> split_words("Hello,world!")
+? ----
+
++ >>> split_words("Hello,world!")
+-     ["Hello", "world!"]
+? ----
+
++ ["Hello", "world!"]
+-     >>> split_words("abcdef")
+? ----
+
++ >>> split_words("abcdef")
++ 3"""
+-     3
+-     """
+  function split_words(txt::String)::Union{Vector{String}, Int64} 

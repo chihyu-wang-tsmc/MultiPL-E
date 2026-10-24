@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the intersection of two arrays.
+- 	
+  */
+  long[] intersection_array(long[] array_nums1, long[] array_nums2) 

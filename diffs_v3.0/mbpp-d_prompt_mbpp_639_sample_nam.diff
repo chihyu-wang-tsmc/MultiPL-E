@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to sum the length of the names of a given array of names after removing the names that start with a lowercase letter.
+- 	
+  */
+  long sample_nam(string[] sample_names) 

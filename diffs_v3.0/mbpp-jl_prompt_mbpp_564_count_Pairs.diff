@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function which takes a vector of integers and counts the number of possible unordered pairs where both elements are unequal.
++ """	Write a jlthon function which takes a vector of integers and counts the number of possible unordered pairs where both elements are unequal."""
+? +++	                                                                                                                                           +++
+
+- 	"""
+  function count_Pairs(arr::Vector{Int64}, n::Int64)::Int64 

@@ -1,0 +1,21 @@
+  import scala.math._
+  import scala.collection.mutable._
+  object Problem {
+      // You are given a list arr of integers and you need to return
+      // sum of magnitudes of integers multiplied by product of all signs
+      // of each number in the list, represented by 1, -1 or 0.
+      // Note: return None for empty arr.
+      // Example:
+      // >>> prodSigns((List[Long](1l.toLong, 2l.toLong, 2l.toLong, -4l.toLong)))
+-     // 9l
++     // Some(9l)
+?        +++++  +
+
+      // >>> prodSigns((List[Long](0l.toLong, 1l.toLong)))
+-     // 0l
++     // Some(0l)
+?        +++++  +
+
+      // >>> prodSigns((List[Long]()))
+      // None
+      def prodSigns(arr : List[Long]) : Option[Long] = {

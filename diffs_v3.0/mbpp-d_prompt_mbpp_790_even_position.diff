@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to check whether every even index contains even numbers of a given array.
+- 	
+  */
+  bool even_position(long[] nums) 

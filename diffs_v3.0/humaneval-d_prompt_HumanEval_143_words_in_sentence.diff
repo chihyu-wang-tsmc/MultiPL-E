@@ -1,0 +1,65 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     You are given a string representing a sentence,
+? ----
+
++ You are given a string representing a sentence,
+-     the sentence contains some words separated by a space,
+? ----
+
++ the sentence contains some words separated by a space,
+-     and you have to return a string that contains the words from the original sentence,
+? ----
+
++ and you have to return a string that contains the words from the original sentence,
+-     whose lengths are prime numbers,
+? ----
+
++ whose lengths are prime numbers,
+-     the order of the words in the new string should be the same as the original one.
+? ----
+
++ the order of the words in the new string should be the same as the original one.
+- 
+-     Example 1:
+? ----
+
++ Example 1:
+-     >>> words_in_sentence("This is a test")
+? ----
+
++ >>> words_in_sentence("This is a test")
++ "is"
+-     "is"
+- 
+-     Example 2:
+? ----
+
++ Example 2:
+-     >>> words_in_sentence("lets go for swimming")
+? ----
+
++ >>> words_in_sentence("lets go for swimming")
+-     "go for"
+? ----
+
++ "go for"
+-     
+-     Constraints:
+? ----
+
++ Constraints:
+-         * 1 <= len(sentence) <= 100
+? ----
+
++     * 1 <= len(sentence) <= 100
+-         * sentence contains only letters
+? ----
+
++     * sentence contains only letters
+-     
+  */
+  string words_in_sentence(string sentence) 

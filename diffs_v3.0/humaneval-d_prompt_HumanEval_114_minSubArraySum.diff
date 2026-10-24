@@ -1,0 +1,32 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     Given an array of integers nums, find the minimum sum of any non-empty sub-array
+? ----
+
++ Given an array of integers nums, find the minimum sum of any non-empty sub-array
+-     of nums.
+? ----
+
++ of nums.
+-     Example
+? ----
+
++ Example
+-     >>> minSubArraySum([2L, 3L, 4L, 1L, 2L, 4L])
+? ----
+
++ >>> minSubArraySum([2L, 3L, 4L, 1L, 2L, 4L])
+-     1L
++ 1L
+-     >>> minSubArraySum([-1L, -2L, -3L])
+? ----
+
++ >>> minSubArraySum([-1L, -2L, -3L])
++ -6L
+-     -6L
+-     
+  */
+  long minSubArraySum(long[] nums) 

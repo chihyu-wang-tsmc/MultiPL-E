@@ -1,0 +1,7 @@
+- """
+- 	Write a function to toggle the case of all characters in a string.
++ """	Write a function to toggle the case of all characters in a string."""
+? +++	                                                                  +++
+
+- 	"""
+  function toggle_string(string::String)::String 

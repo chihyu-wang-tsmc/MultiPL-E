@@ -1,0 +1,7 @@
+- """
+- 	Write a function to replace whitespaces with an underscore and vice versa in a given string.
++ """	Write a function to replace whitespaces with an underscore and vice versa in a given string."""
+? +++	                                                                                            +++
+
+- 	"""
+  function replace_spaces(text::String)::String 

@@ -1,0 +1,15 @@
+  import std.math;
++ import std.typecons;
+  /*
+   Return array of all prefixes from shortest to longest of the input string
+-     >>> all_prefixes("abc")
+? ----
+
++ >>> all_prefixes("abc")
+-     ["a", "ab", "abc"]
+? ----
+
++ ["a", "ab", "abc"]
+-     
+  */
+  string[] all_prefixes(string string) 

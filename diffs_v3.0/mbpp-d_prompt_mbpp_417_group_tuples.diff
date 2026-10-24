@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find common first element in given array of arrays.
+- 	
+  */
+  string[][] group_tuples(string[][] Input) 

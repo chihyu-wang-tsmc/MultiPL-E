@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function which takes a vector of vectors, where each subvector has two elements, and returns a vector of two vectors where the first vector has the first element of each subvector and the second one has the second.
++ """	Write a jlthon function which takes a vector of vectors, where each subvector has two elements, and returns a vector of two vectors where the first vector has the first element of each subvector and the second one has the second."""
+? +++	                                                                                                                                                                                                                                     +++
+
+- 	"""
+  function merge(lst::Vector{Vector{Any}})::Vector{Vector{Any}} 

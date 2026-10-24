@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check whether the given string is starting with a vowel or not using regex.
++ """	Write a function to check whether the given string is starting with a vowel or not using regex."""
+? +++	                                                                                               +++
+
+- 	"""
+  function check_str(string::String)::Bool 

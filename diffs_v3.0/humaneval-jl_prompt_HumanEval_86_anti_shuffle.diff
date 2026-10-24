@@ -1,0 +1,54 @@
+- """
+-     Write a function that takes a string and returns an ordered version of it.
+? ^^^^
+
++ """Write a function that takes a string and returns an ordered version of it.
+? ^^^
+
+-     Ordered version of string, is a string where all words (separated by space)
+? ----
+
++ Ordered version of string, is a string where all words (separated by space)
+-     are replaced by a new word where all the characters arranged in
+? ----
+
++ are replaced by a new word where all the characters arranged in
+-     ascending order based on ascii value.
+? ----
+
++ ascending order based on ascii value.
+-     Note: You should keep the order of words and blank spaces in the sentence.
+? ----
+
++ Note: You should keep the order of words and blank spaces in the sentence.
+- 
+-     For example:
+? ----
+
++ For example:
+-     >>> anti_shuffle("Hi")
+? ----
+
++ >>> anti_shuffle("Hi")
+-     "Hi"
++ "Hi"
+-     >>> anti_shuffle("hello")
+? ----
+
++ >>> anti_shuffle("hello")
+-     "ehllo"
+? ----
+
++ "ehllo"
+-     >>> anti_shuffle("Hello World!!!")
+? ----
+
++ >>> anti_shuffle("Hello World!!!")
+-     "Hello !!!Wdlor"
+? ----
+
++ "Hello !!!Wdlor""""
+?                 +++
+
+-     """
+  function anti_shuffle(s::String)::String 

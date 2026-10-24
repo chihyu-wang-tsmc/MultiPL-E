@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check whether the given number is armstrong or not.
++ """	Write a function to check whether the given number is armstrong or not."""
+? +++	                                                                       +++
+
+- 	"""
+  function armstrong_number(number::Int64)::Bool 

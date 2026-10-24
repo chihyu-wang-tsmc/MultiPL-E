@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to calculate the product of the unique numbers in a given array.
+- 	
+  */
+  long unique_product(long[] list_data) 

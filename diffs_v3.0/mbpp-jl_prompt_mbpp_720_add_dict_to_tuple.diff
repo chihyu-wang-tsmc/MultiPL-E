@@ -1,0 +1,7 @@
+- """
+- 	Write a function to add a dictionary to the tuple. The output should be a tuple.
++ """	Write a function to add a dictionary to the tuple. The output should be a tuple."""
+? +++	                                                                                +++
+
+- 	"""
+  function add_dict_to_tuple(test_tup::Tuple{Int64, Int64, Int64}, test_dict::Dict{String, Int64}>)::Tuple{Int64, Int64, Int64, Dict{String, Int64}>} 

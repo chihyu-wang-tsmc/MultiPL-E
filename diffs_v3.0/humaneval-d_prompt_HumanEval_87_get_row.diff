@@ -1,0 +1,67 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     You are given a 2 dimensional data, as a nested arrays,
+? ----
+
++ You are given a 2 dimensional data, as a nested arrays,
+-     which is similar to matrix, however, unlike matrices,
+? ----
+
++ which is similar to matrix, however, unlike matrices,
+-     each row may contain a different number of columns.
+? ----
+
++ each row may contain a different number of columns.
+-     Given lst, and integer x, find integers x in the array,
+? ----
+
++ Given lst, and integer x, find integers x in the array,
+-     and return array of tuples, [(x1, y1), (x2, y2) ...] such that
+? ----
+
++ and return array of tuples, [(x1, y1), (x2, y2) ...] such that
+-     each tuple is a coordinate - (row, columns), starting with 0.
+? ----
+
++ each tuple is a coordinate - (row, columns), starting with 0.
+-     Sort coordinates initially by rows in ascending order.
+? ----
+
++ Sort coordinates initially by rows in ascending order.
+-     Also, sort coordinates of the row by columns in descending order.
+? ----
+
++ Also, sort coordinates of the row by columns in descending order.
+-     
+-     Examples:
+? ----
+
++ Examples:
+-     >>> get_row([[1L, 2L, 3L, 4L, 5L, 6L], [1L, 2L, 3L, 4L, 1L, 6L], [1L, 2L, 3L, 4L, 5L, 1L]], 1L)
+? ----
+
++ >>> get_row([[1L, 2L, 3L, 4L, 5L, 6L], [1L, 2L, 3L, 4L, 1L, 6L], [1L, 2L, 3L, 4L, 5L, 1L]], 1L)
+-     [tuple(0L, 0L), tuple(1L, 4L), tuple(1L, 0L), tuple(2L, 5L), tuple(2L, 0L)]
+? ----
+
++ [tuple(0L, 0L), tuple(1L, 4L), tuple(1L, 0L), tuple(2L, 5L), tuple(2L, 0L)]
+-     >>> get_row([], 1L)
+? ----
+
++ >>> get_row([], 1L)
+-     []
++ []
+-     >>> get_row([[], [1L], [1L, 2L, 3L]], 3L)
+? ----
+
++ >>> get_row([[], [1L], [1L, 2L, 3L]], 3L)
+-     [tuple(2L, 2L)]
+? ----
+
++ [tuple(2L, 2L)]
+-     
+  */
+  Tuple!(long, long)[] get_row(long[][] lst, long x) 

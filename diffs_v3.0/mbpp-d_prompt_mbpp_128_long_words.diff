@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find words that are longer than n characters from a given array of words.
+- 	
+  */
+  string[] long_words(long n, string str) 

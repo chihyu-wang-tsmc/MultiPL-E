@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the union of the elements of two given vectors and output them in sorted order.
++ """	Write a function to find the union of the elements of two given vectors and output them in sorted order."""
+? +++	                                                                                                        +++
+
+- 	"""
+  function union_elements(test_tup1::Vector{Int64}, test_tup2::Vector{Int64})::Vector{Int64} 

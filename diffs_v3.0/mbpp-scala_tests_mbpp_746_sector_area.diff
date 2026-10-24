@@ -1,0 +1,14 @@
+      }
+      def main(args: Array[String]) = {
+-     assert(sectorArea((4l), (45l)).equals(6.283185307179586f));
++     assert(sectorArea((4l), (45l)).equals(Some(6.283185307179586f)));
+?                                           +++++                    +
+
+-     assert(sectorArea((9l), (45l)).equals(31.808625617596654f));
++     assert(sectorArea((9l), (45l)).equals(Some(31.808625617596654f)));
+?                                           +++++                     +
+
+      assert(sectorArea((9l), (361l)).equals(None));
+      }
+  
+  }

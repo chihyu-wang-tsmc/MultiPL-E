@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the average of cubes of first n natural numbers.
+- 	
+  */
+  float find_Average_Of_Cube(long n) 

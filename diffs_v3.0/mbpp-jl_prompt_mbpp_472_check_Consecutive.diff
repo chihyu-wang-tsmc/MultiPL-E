@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to check whether the given vector contains consecutive numbers or not.
++ """	Write a jlthon function to check whether the given vector contains consecutive numbers or not."""
+? +++	                                                                                              +++
+
+- 	"""
+  function check_Consecutive(l::Vector{Int64})::Bool 

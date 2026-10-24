@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to count the number of vectors in a given number of vectors.
++ """	Write a jlthon function to count the number of vectors in a given number of vectors."""
+? +++	                                                                                    +++
+
+- 	"""
+  function count_list(input_list::Vector{Vector{Int64}})::Int64 

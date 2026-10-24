@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function that returns the perimeter of a square given its side length as input.
+- 	
+  */
+  long square_perimeter(long a) 

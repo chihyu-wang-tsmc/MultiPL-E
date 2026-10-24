@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a vector of numbers and the sum,
++ """	Write a jlthon function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a vector of numbers and the sum,"""
+? +++	                                                                                                                                            +++
+
+- 	"""
+  function get_pairs_count(arr::Vector{Int64}, sum::Int64)::Int64 

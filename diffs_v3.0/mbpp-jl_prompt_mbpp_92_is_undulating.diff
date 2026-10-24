@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check whether the given number is undulating or not.
++ """	Write a function to check whether the given number is undulating or not."""
+? +++	                                                                        +++
+
+- 	"""
+  function is_undulating(n::Int64)::Bool 

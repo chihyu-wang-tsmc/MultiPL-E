@@ -1,0 +1,7 @@
+- """
+- 	Write a function to extract specified size of strings from a given vector of string values.
++ """	Write a function to extract specified size of strings from a given vector of string values."""
+? +++	                                                                                           +++
+
+- 	"""
+  function extract_string(str::Vector{String}, l::Int64)::Vector{String} 

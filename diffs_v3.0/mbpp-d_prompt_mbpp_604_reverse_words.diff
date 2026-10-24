@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to reverse words seperated by spaces in a given string.
+- 	
+  */
+  string reverse_words(string s) 

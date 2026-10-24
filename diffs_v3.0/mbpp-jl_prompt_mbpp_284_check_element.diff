@@ -1,0 +1,7 @@
+- """
+- 	Write a function that takes in a vector and element and checks whether all items in the vector are equal to the given element.
++ """	Write a function that takes in a vector and element and checks whether all items in the vector are equal to the given element."""
+? +++	                                                                                                                              +++
+
+- 	"""
+  function check_element(list::Vector{Any}, element::Any)::Bool 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the sum of non-repeated elements in a given array.
+- 	
+  */
+  long find_sum(long[] arr) 

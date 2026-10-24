@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find whether the parity of a given number is odd.
++ """	Write a jlthon function to find whether the parity of a given number is odd."""
+? +++	                                                                            +++
+
+- 	"""
+  function find_Parity(x::Int64)::Bool 

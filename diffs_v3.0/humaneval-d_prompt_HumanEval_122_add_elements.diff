@@ -1,0 +1,41 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     Given a non-empty array of integers arr and an integer k, return
+? ----
+
++ Given a non-empty array of integers arr and an integer k, return
+-     the sum of the elements with at most two digits from the first k elements of arr.
+? ----
+
++ the sum of the elements with at most two digits from the first k elements of arr.
+- 
+-     Example:
+? ----
+
++ Example:
+- 
+-     >>> add_elements([111L, 21L, 3L, 4000L, 5L, 6L, 7L, 8L, 9L], 4L)
+? ----
+
++ >>> add_elements([111L, 21L, 3L, 4000L, 5L, 6L, 7L, 8L, 9L], 4L)
++ 24L
+-     24L
+- 
+-     Constraints:
+? ----
+
++ Constraints:
+-         1. 1 <= len(arr) <= 100
+? ----
+
++     1. 1 <= len(arr) <= 100
+-         2. 1 <= k <= len(arr)
+? ----
+
++     2. 1 <= k <= len(arr)
+-     
+  */
+  long add_elements(long[] arr, long k) 

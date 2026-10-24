@@ -1,0 +1,7 @@
+- """
+- 	Write a function to count the total number of characters in a string.
++ """	Write a function to count the total number of characters in a string."""
+? +++	                                                                     +++
+
+- 	"""
+  function count_charac(str1::String)::Int64 

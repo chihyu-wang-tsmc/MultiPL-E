@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to count the pairs of reverse strings in the given string array. https://www.geeksforgeeks.org/dthon-program-to-count-the-pairs-of-reverse-strings/
+- 	
+  */
+  long count_reverse_pairs(string[] test_list) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to count the upper case characters in a given string.
+- 	
+  */
+  long upper_ctr(string str) 

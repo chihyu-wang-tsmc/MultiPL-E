@@ -1,0 +1,15 @@
+      }
+      def main(args: Array[String]) = {
+-     assert(secondSmallest((List[Either[Long, Float]](1l.toLong, 2l.toLong, -8l.toLong, -2l.toLong, 0l.toLong, -2l.toLong))).equals(-2l));
++     assert(secondSmallest((List[Either[Long, Float]](1l.toLong, 2l.toLong, -8l.toLong, -2l.toLong, 0l.toLong, -2l.toLong))).equals(Some(-2l)));
+?                                                                                                                                    +++++     +
+
+-     assert(secondSmallest((List[Either[Long, Float]](1l.toLong, 1l.toLong, -0.5f.toLong, 0l.toLong, 2l.toLong, -2l.toLong, -2l.toLong))).equals(-0.5f));
++     assert(secondSmallest((List[Either[Long, Float]](1l.toLong, 1l.toLong, -0.5f.toLong, 0l.toLong, 2l.toLong, -2l.toLong, -2l.toLong))).equals(Some(-0.5f)));
+?                                                                                                                                                 +++++       +
+
+      assert(secondSmallest((List[Either[Long, Float]](2l.toLong, 2l.toLong))).equals(None));
+      assert(secondSmallest((List[Either[Long, Float]](2l.toLong, 2l.toLong, 2l.toLong))).equals(None));
+      }
+  
+  }

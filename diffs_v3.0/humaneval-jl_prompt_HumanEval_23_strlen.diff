@@ -1,0 +1,15 @@
+  """ Return length of given string
+-     >>> strlen("")
+? ----
+
++ >>> strlen("")
+-     0
++ 0
+-     >>> strlen("abc")
+? ----
+
++ >>> strlen("abc")
++ 3"""
+-     3
+-     """
+  function strlen(string::String)::Int64 

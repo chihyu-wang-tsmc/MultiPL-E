@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to perform the mathematical bitwise xor operation across the given tuples.
+- 	
+  */
+  Tuple!(long, long, long, long) bitwise_xor(Tuple!(long, long, long, long) test_tup1, Tuple!(long, long, long, long) test_tup2) 

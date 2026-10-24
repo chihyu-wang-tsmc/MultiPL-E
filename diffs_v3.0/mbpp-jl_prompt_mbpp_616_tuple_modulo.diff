@@ -1,0 +1,7 @@
+- """
+- 	Write a function which takes two tuples of the same length and performs the element wise modulo.
++ """	Write a function which takes two tuples of the same length and performs the element wise modulo."""
+? +++	                                                                                                +++
+
+- 	"""
+  function tuple_modulo(test_tup1::Tuple{Int64, Int64, Int64, Int64}, test_tup2::Tuple{Int64, Int64, Int64, Int64})::Tuple{Int64, Int64, Int64, Int64} 

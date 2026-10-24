@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function which takes an arrays of arrays and returns the average value for each subarray as an array.
+- 	
+  */
+  float[] average_tuple(long[][] nums) 

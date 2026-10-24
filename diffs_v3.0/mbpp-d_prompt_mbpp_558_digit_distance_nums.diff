@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the sum of the per-digit difference between two integers.
+- 	
+  */
+  long digit_distance_nums(long n1, long n2) 

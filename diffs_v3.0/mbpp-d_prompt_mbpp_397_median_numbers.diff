@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the median of three numbers.
+- 	
+  */
+  float median_numbers(long a, long b, long c) 

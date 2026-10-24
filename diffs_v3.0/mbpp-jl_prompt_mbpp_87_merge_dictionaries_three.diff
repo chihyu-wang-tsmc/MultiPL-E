@@ -1,0 +1,7 @@
+- """
+- 	Write a function to merge three dictionaries into a single dictionary.
++ """	Write a function to merge three dictionaries into a single dictionary."""
+? +++	                                                                      +++
+
+- 	"""
+  function merge_dictionaries_three(dict1::Dict{String, String}>, dict2::Dict{String, String}>, dict3::Dict{String, String}>)::Dict{String, String}> 

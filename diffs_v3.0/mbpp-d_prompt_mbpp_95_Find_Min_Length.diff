@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the length of the smallest array in an array of arrays.
+- 	
+  */
+  long Find_Min_Length(long[][] lst) 

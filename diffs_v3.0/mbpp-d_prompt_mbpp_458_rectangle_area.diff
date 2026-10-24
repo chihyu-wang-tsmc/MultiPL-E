@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the area of a rectangle.
+- 	
+  */
+  long rectangle_area(long l, long b) 

@@ -1,0 +1,53 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     Create a function that returns a tuple (a, b), where 'a' is
+? ----
+
++ Create a function that returns a tuple (a, b), where 'a' is
+-     the largest of negative integers, and 'b' is the smallest
+? ----
+
++ the largest of negative integers, and 'b' is the smallest
+-     of positive integers in an array.
+? ----
+
++ of positive integers in an array.
+-     If there is no negative or positive integers, return them as null.
+? ----
+
++ If there is no negative or positive integers, return them as null.
+- 
+-     Examples:
+? ----
+
++ Examples:
+-     >>> largest_smallest_integers([2L, 4L, 1L, 3L, 5L, 7L])
+? ----
+
++ >>> largest_smallest_integers([2L, 4L, 1L, 3L, 5L, 7L])
+-     tuple(None, 1L)
+? ----
+
++ tuple(None, 1L)
+-     >>> largest_smallest_integers([])
+? ----
+
++ >>> largest_smallest_integers([])
+-     tuple(None, None)
+? ----
+
++ tuple(None, None)
+-     >>> largest_smallest_integers([0L])
+? ----
+
++ >>> largest_smallest_integers([0L])
+-     tuple(None, None)
+? ----
+
++ tuple(None, None)
+-     
+  */
+  Tuple!(Nullable!(long), Nullable!(long)) largest_smallest_integers(long[] lst) 

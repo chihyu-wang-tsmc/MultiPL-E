@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to convert a string to an array of strings split on the space character.
+- 	
+  */
+  string[] string_to_list(string string) 

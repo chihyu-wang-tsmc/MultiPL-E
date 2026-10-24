@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to get the difference between two arrays.
+- 	
+  */
+  long[] Diff(long[] li1, long[] li2) 

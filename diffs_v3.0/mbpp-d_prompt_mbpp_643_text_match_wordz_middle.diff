@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function that checks if a strings contains 'z', except at the start and end of the word.
+- 	
+  */
+  bool text_match_wordz_middle(string text) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to remove all the words with k length in the given string.
+- 	
+  */
+  string remove_length(string test_str, long K) 

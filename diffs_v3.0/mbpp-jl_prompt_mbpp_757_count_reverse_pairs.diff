@@ -1,0 +1,7 @@
+- """
+- 	Write a function to count the pairs of reverse strings in the given string vector. https://www.geeksforgeeks.org/jlthon-program-to-count-the-pairs-of-reverse-strings/
++ """	Write a function to count the pairs of reverse strings in the given string vector. https://www.geeksforgeeks.org/jlthon-program-to-count-the-pairs-of-reverse-strings/"""
+? +++	                                                                                                                                                                      +++
+
+- 	"""
+  function count_reverse_pairs(test_list::Vector{String})::Int64 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the lateral surface area of a cube given its side length.
+- 	
+  */
+  long lateralsurface_cube(long l) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check whether the product of numbers in a vector is even or not.
++ """	Write a function to check whether the product of numbers in a vector is even or not."""
+? +++	                                                                                    +++
+
+- 	"""
+  function is_product_even(arr::Vector{Int64})::Bool 

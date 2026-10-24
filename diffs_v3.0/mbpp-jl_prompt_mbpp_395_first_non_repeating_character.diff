@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the first non-repeated character in a given string.
++ """	Write a jlthon function to find the first non-repeated character in a given string."""
+? +++	                                                                                   +++
+
+- 	"""
+  function first_non_repeating_character(str1::String)::Union{String, Nothing} 

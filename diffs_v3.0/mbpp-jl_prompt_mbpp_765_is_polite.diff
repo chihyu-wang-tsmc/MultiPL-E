@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/
++ """	Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/"""
+? +++	                                                                                 +++
+
+- 	"""
+  function is_polite(n::Int64)::Int64 

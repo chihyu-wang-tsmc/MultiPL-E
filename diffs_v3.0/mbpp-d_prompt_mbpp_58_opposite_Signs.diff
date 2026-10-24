@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to check whether the given two integers have opposite sign or not.
+- 	
+  */
+  bool opposite_Signs(long x, long y) 

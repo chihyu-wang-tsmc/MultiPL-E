@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the last digit in factorial of a given number.
++ """	Write a jlthon function to find the last digit in factorial of a given number."""
+? +++	                                                                              +++
+
+- 	"""
+  function last_Digit_Factorial(n::Int64)::Int64 

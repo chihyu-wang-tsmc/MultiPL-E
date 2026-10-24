@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function that counts the number of pairs of integers in an array that xor to an even number.
+- 	
+  */
+  long find_even_pair(long[] A) 

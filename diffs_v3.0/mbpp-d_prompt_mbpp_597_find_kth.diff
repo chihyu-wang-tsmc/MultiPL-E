@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find kth element from the given two sorted arrays.
+- 	
+  */
+  long find_kth(long[] arr1, long[] arr2, long k) 

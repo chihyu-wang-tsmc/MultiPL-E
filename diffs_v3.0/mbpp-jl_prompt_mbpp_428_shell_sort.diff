@@ -1,0 +1,7 @@
+- """
+- 	Write a function to sort the given vector by using shell sort.
++ """	Write a function to sort the given vector by using shell sort."""
+? +++	                                                              +++
+
+- 	"""
+  function shell_sort(my_list::Vector{Int64})::Vector{Int64} 

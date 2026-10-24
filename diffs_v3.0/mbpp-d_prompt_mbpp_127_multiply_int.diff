@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to multiply two integers.
+- 	
+  */
+  long multiply_int(long x, long y) 

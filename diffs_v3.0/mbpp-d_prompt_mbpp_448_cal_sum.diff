@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to calculate the sum of perrin numbers.
+- 	
+  */
+  long cal_sum(long n) 

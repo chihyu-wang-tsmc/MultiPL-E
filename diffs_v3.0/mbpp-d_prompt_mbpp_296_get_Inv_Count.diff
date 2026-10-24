@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to count inversions in an array.
+- 	
+  */
+  long get_Inv_Count(long[] arr) 

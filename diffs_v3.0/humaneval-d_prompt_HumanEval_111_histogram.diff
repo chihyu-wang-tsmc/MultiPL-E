@@ -1,0 +1,62 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Given a string representing a space separated lowercase letters, return an associative array
+-     of the letter with the most repetition and containing the corresponding count.
+? ----
+
++ of the letter with the most repetition and containing the corresponding count.
+-     If several letters have the same occurrence, return all of them.
+? ----
+
++ If several letters have the same occurrence, return all of them.
+-     
+-     Example:
+? ----
+
++ Example:
+-     >>> histogram("a b c")
+? ----
+
++ >>> histogram("a b c")
+-     ["a": 1L, "b": 1L, "c": 1L].nullable
+? ----
+
++ ["a": 1L, "b": 1L, "c": 1L].nullable
+-     >>> histogram("a b b a")
+? ----
+
++ >>> histogram("a b b a")
+-     ["a": 2L, "b": 2L].nullable
+? ----
+
++ ["a": 2L, "b": 2L].nullable
+-     >>> histogram("a b c a b")
+? ----
+
++ >>> histogram("a b c a b")
+-     ["a": 2L, "b": 2L].nullable
+? ----
+
++ ["a": 2L, "b": 2L].nullable
+-     >>> histogram("b b b b a")
+? ----
+
++ >>> histogram("b b b b a")
+-     ["b": 4L].nullable
+? ----
+
++ ["b": 4L].nullable
+-     >>> histogram("")
+? ----
+
++ >>> histogram("")
+-     ___null_dict___
+? ----
+
++ ___null_dict___
+- 
+-     
+  */
+  Nullable!(long[string]) histogram(string test) 

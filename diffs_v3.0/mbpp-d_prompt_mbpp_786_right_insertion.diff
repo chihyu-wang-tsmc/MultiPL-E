@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to locate the right insertion point for a specified value in sorted order.
+- 	
+  */
+  long right_insertion(long[] a, long x) 

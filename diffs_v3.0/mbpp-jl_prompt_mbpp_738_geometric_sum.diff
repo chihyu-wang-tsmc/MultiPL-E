@@ -1,0 +1,7 @@
+- """
+- 	Write a function to calculate the geometric sum of n-1. https://www.w3resource.com/jlthon-exercises/data-structures-and-algorithms/jlthon-recursion-exercise-9.php
++ """	Write a function to calculate the geometric sum of n-1. https://www.w3resource.com/jlthon-exercises/data-structures-and-algorithms/jlthon-recursion-exercise-9.php"""
+? +++	                                                                                                                                                                  +++
+
+- 	"""
+  function geometric_sum(n::Int64)::Float64 

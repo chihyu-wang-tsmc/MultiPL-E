@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the sum of the largest and smallest value in a given vector.
++ """	Write a jlthon function to find the sum of the largest and smallest value in a given vector."""
+? +++	                                                                                            +++
+
+- 	"""
+  function big_sum(nums::Vector{Int64})::Int64 

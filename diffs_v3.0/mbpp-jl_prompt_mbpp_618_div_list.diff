@@ -1,0 +1,7 @@
+- """
+- 	Write a function to divide two vectors element wise.
++ """	Write a function to divide two vectors element wise."""
+? +++	                                                    +++
+
+- 	"""
+  function div_list(nums1::Vector{Int64}, nums2::Vector{Int64})::Vector{Float64} 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to count the number of occurrences of a number in a given vector.
++ """	Write a function to count the number of occurrences of a number in a given vector."""
+? +++	                                                                                  +++
+
+- 	"""
+  function frequency(a::Vector{Int64}, x::Int64)::Int64 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to count those characters which have vowels as their neighbors in the given string.
+- 	
+  */
+  long count_vowels(string test_str) 

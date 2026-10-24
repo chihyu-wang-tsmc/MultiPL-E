@@ -1,0 +1,52 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Task
+-     We are given two strings s and c, you have to deleted all the characters in s that are equal to any character in c
+? ----
+
++ We are given two strings s and c, you have to deleted all the characters in s that are equal to any character in c
+-     then check if the result string is palindrome.
+? ----
+
++ then check if the result string is palindrome.
+-     A string is called palindrome if it reads the same backward as forward.
+? ----
+
++ A string is called palindrome if it reads the same backward as forward.
+-     You should return a tuple containing the result string and true/false for the check.
+? ----
+
++ You should return a tuple containing the result string and true/false for the check.
+-     Example
+? ----
+
++ Example
+-     >>> reverse_delete("abcde", "ae")
+? ----
+
++ >>> reverse_delete("abcde", "ae")
+-     tuple("bcd", false)
+? ----
+
++ tuple("bcd", false)
+-     >>> reverse_delete("abcdef", "b")
+? ----
+
++ >>> reverse_delete("abcdef", "b")
+-     tuple("acdef", false)
+? ----
+
++ tuple("acdef", false)
+-     >>> reverse_delete("abcdedcba", "ab")
+? ----
+
++ >>> reverse_delete("abcdedcba", "ab")
+-     tuple("cdedc", true)
+? ----
+
++ tuple("cdedc", true)
+-     
+  */
+  Tuple!(string, bool) reverse_delete(string s, string c) 

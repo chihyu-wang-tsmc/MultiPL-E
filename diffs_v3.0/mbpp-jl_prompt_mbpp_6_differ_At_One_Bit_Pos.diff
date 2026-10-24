@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to check whether the two numbers differ at one bit position only or not.
++ """	Write a jlthon function to check whether the two numbers differ at one bit position only or not."""
+? +++	                                                                                                +++
+
+- 	"""
+  function differ_At_One_Bit_Pos(a::Int64, b::Int64)::Bool 

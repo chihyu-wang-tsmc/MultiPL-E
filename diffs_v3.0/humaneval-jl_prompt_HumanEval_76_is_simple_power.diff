@@ -1,0 +1,51 @@
+  """Your task is to write a function that returns true if a number x is a simple
+-     power of n and false in other cases.
+? ----
+
++ power of n and false in other cases.
+-     x is a simple power of n if n**int=x
+? ----
+
++ x is a simple power of n if n**int=x
+-     For example:
+? ----
+
++ For example:
+-     >>> is_simple_power(1, 4)
+? ----
+
++ >>> is_simple_power(1, 4)
+-     true
++ true
+-     >>> is_simple_power(2, 2)
+? ----
+
++ >>> is_simple_power(2, 2)
+-     true
++ true
+-     >>> is_simple_power(8, 2)
+? ----
+
++ >>> is_simple_power(8, 2)
+-     true
++ true
+-     >>> is_simple_power(3, 2)
+? ----
+
++ >>> is_simple_power(3, 2)
+-     false
++ false
+-     >>> is_simple_power(3, 1)
+? ----
+
++ >>> is_simple_power(3, 1)
+-     false
++ false
+-     >>> is_simple_power(5, 3)
+? ----
+
++ >>> is_simple_power(5, 3)
++ false"""
+-     false
+-     """
+  function is_simple_power(x::Int64, n::Int64)::Bool 

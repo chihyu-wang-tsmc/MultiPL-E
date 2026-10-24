@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the sum of the product of consecutive binomial co-efficients.
++ """	Write a jlthon function to find the sum of the product of consecutive binomial co-efficients."""
+? +++	                                                                                             +++
+
+- 	"""
+  function sum_Of_product(n::Int64)::Int64 

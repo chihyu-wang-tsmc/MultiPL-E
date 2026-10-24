@@ -1,0 +1,22 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+   Return a string containing space-delimited numbers starting from 0 upto n inclusive.
+-     >>> string_sequence(0L)
+? ----
+
++ >>> string_sequence(0L)
+-     "0"
++ "0"
+-     >>> string_sequence(5L)
+? ----
+
++ >>> string_sequence(5L)
+-     "0 1 2 3 4 5"
+? ----
+
++ "0 1 2 3 4 5"
+-     
+  */
+  string string_sequence(long n) 

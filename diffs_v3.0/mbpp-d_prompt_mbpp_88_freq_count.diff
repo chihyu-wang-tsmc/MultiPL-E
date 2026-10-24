@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to get the frequency of all the elements in an array, returned as an associative array.
+- 	
+  */
+  Nullable!(long[long]) freq_count(long[] list1) 

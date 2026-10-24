@@ -1,0 +1,14 @@
+      }
+      def main(args: Array[String]) = {
+      assert(firstNonRepeatingCharacter(("abcabc")).equals(None));
+-     assert(firstNonRepeatingCharacter(("abc")).equals("a"));
++     assert(firstNonRepeatingCharacter(("abc")).equals(Some("a")));
+?                                                       +++++     +
+
+-     assert(firstNonRepeatingCharacter(("ababc")).equals("c"));
++     assert(firstNonRepeatingCharacter(("ababc")).equals(Some("c")));
+?                                                         +++++     +
+
+      }
+  
+  }

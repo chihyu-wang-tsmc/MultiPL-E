@@ -1,0 +1,45 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Write a function that accepts an array of strings.
+-     The array contains different words. Return the word with maximum number
+? ----
+
++ The array contains different words. Return the word with maximum number
+-     of unique characters. If multiple strings have maximum number of unique
+? ----
+
++ of unique characters. If multiple strings have maximum number of unique
+-     characters, return the one which comes first in lexicographical order.
+? ----
+
++ characters, return the one which comes first in lexicographical order.
+- 
+-     >>> find_max(["name", "of", "string"])
+? ----
+
++ >>> find_max(["name", "of", "string"])
+-     "string"
+? ----
+
++ "string"
+-     >>> find_max(["name", "enam", "game"])
+? ----
+
++ >>> find_max(["name", "enam", "game"])
+-     "enam"
+? ----
+
++ "enam"
+-     >>> find_max(["aaaaaaa", "bb", "cc"])
+? ----
+
++ >>> find_max(["aaaaaaa", "bb", "cc"])
+-     "aaaaaaa"
+? ----
+
++ "aaaaaaa"
+-     
+  */
+  string find_max(string[] words) 

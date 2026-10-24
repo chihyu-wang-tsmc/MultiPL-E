@@ -1,0 +1,7 @@
+- """
+- 	Write a function to maximize the given two vectors.
++ """	Write a function to maximize the given two vectors."""
+? +++	                                                   +++
+
+- 	"""
+  function maximize_elements(test_tup1::Vector{Vector{Int64}}, test_tup2::Vector{Vector{Int64}})::Vector{Vector{Int64}} 

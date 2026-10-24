@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check whether the given amount has no profit and no loss
++ """	Write a function to check whether the given amount has no profit and no loss"""
+? +++	                                                                            +++
+
+- 	"""
+  function noprofit_noloss(actual_cost::Int64, sale_amount::Int64)::Bool 

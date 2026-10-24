@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the first repeated character in a given string.
++ """	Write a jlthon function to find the first repeated character in a given string."""
+? +++	                                                                               +++
+
+- 	"""
+  function first_repeated_char(str1::String)::Union{String, Nothing} 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function that takes in a vector and an integer n and splits a vector for every nth element, returning a vector of the resulting vectors.
++ """	Write a function that takes in a vector and an integer n and splits a vector for every nth element, returning a vector of the resulting vectors."""
+? +++	                                                                                                                                                +++
+
+- 	"""
+  function list_split(S::Vector{Any}, step::Int64)::Vector{Vector{Any}} 

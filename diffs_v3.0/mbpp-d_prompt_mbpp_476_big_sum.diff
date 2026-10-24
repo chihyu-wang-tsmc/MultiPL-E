@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the sum of the largest and smallest value in a given array.
+- 	
+  */
+  long big_sum(long[] nums) 

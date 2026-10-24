@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check whether a vector contains the given subvector or not.
++ """	Write a function to check whether a vector contains the given subvector or not."""
+? +++	                                                                               +++
+
+- 	"""
+  function is_sublist(l::Vector{Int64}, s::Vector{Int64})::Bool 

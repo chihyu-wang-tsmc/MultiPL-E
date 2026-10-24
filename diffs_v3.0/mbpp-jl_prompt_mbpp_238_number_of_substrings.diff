@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to count the number of non-empty substrings of a given string.
++ """	Write a jlthon function to count the number of non-empty substrings of a given string."""
+? +++	                                                                                      +++
+
+- 	"""
+  function number_of_substrings(str::String)::Int64 

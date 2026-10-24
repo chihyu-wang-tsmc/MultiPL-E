@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to put spaces between words starting with capital letters in a given string.
+- 	
+  */
+  string capital_words_spaces(string str1) 

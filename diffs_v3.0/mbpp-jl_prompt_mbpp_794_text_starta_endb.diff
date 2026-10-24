@@ -1,0 +1,7 @@
+- """
+- 	Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.
++ """	Write a function that matches a string that has an 'a' followed by anything, ending in 'b'."""
+? +++	                                                                                           +++
+
+- 	"""
+  function text_starta_endb(text::String)::Bool 

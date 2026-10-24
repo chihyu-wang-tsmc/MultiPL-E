@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the first odd number in a given array of numbers.
+- 	
+  */
+  long first_odd(long[] nums) 

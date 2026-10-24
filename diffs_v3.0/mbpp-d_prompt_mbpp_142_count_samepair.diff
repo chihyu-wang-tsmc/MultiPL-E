@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to count number items that are identical in the same position of three given arrays.
+- 	
+  */
+  long count_samepair(long[] list1, long[] list2, long[] list3) 

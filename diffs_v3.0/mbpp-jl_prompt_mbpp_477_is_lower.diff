@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to convert the given string to lower case.
++ """	Write a jlthon function to convert the given string to lower case."""
+? +++	                                                                  +++
+
+- 	"""
+  function is_lower(string::String)::String 

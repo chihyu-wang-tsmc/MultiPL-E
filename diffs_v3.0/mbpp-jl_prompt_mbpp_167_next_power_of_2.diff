@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the smallest power of 2 greater than or equal to n.
++ """	Write a jlthon function to find the smallest power of 2 greater than or equal to n."""
+? +++	                                                                                   +++
+
+- 	"""
+  function next_power_of_2(n::Int64)::Int64 

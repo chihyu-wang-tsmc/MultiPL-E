@@ -1,0 +1,26 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+   Find how many times a given substring can be found in the original string. Count overlaping cases.
+-     >>> how_many_times("", "a")
+? ----
+
++ >>> how_many_times("", "a")
+-     0L
++ 0L
+-     >>> how_many_times("aaa", "a")
+? ----
+
++ >>> how_many_times("aaa", "a")
+-     3L
++ 3L
+-     >>> how_many_times("aaaa", "aa")
+? ----
+
++ >>> how_many_times("aaaa", "aa")
++ 3L
+-     3L
+-     
+  */
+  long how_many_times(string string, string substring) 

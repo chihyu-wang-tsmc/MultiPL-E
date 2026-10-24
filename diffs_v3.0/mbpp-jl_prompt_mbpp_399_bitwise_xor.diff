@@ -1,0 +1,7 @@
+- """
+- 	Write a function to perform the mathematical bitwise xor operation across the given tuples.
++ """	Write a function to perform the mathematical bitwise xor operation across the given tuples."""
+? +++	                                                                                           +++
+
+- 	"""
+  function bitwise_xor(test_tup1::Tuple{Int64, Int64, Int64, Int64}, test_tup2::Tuple{Int64, Int64, Int64, Int64})::Tuple{Int64, Int64, Int64, Int64} 

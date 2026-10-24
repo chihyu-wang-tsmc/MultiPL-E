@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the nth tetrahedral number.
++ """	Write a function to find the nth tetrahedral number."""
+? +++	                                                    +++
+
+- 	"""
+  function tetrahedral_number(n::Int64)::Int64 

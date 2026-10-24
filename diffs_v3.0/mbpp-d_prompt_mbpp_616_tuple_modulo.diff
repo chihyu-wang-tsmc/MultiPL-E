@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function which takes two tuples of the same length and performs the element wise modulo.
+- 	
+  */
+  Tuple!(long, long, long, long) tuple_modulo(Tuple!(long, long, long, long) test_tup1, Tuple!(long, long, long, long) test_tup2) 

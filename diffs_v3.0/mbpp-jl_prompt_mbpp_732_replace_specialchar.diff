@@ -1,0 +1,7 @@
+- """
+- 	Write a function to replace all occurrences of spaces, commas, or dots with a colon.
++ """	Write a function to replace all occurrences of spaces, commas, or dots with a colon."""
+? +++	                                                                                    +++
+
+- 	"""
+  function replace_specialchar(text::String)::String 

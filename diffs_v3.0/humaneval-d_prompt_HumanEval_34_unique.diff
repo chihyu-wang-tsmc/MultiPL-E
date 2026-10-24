@@ -1,0 +1,15 @@
+  import std.math;
++ import std.typecons;
+  /*
+  Return sorted unique elements in an array
+-     >>> unique([5L, 3L, 5L, 2L, 3L, 3L, 9L, 0L, 123L])
+? ----
+
++ >>> unique([5L, 3L, 5L, 2L, 3L, 3L, 9L, 0L, 123L])
+-     [0L, 2L, 3L, 5L, 9L, 123L]
+? ----
+
++ [0L, 2L, 3L, 5L, 9L, 123L]
+-     
+  */
+  long[] unique(long[] l) 

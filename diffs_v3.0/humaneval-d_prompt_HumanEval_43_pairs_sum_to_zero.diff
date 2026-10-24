@@ -1,0 +1,50 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     pairs_sum_to_zero takes an array of integers as an input.
+? ----
+
++ pairs_sum_to_zero takes an array of integers as an input.
+-     it returns true if there are two distinct elements in the array that
+? ----
+
++ it returns true if there are two distinct elements in the array that
+-     sum to zero, and false otherwise.
+? ----
+
++ sum to zero, and false otherwise.
+-     >>> pairs_sum_to_zero([1L, 3L, 5L, 0L])
+? ----
+
++ >>> pairs_sum_to_zero([1L, 3L, 5L, 0L])
+-     false
++ false
+-     >>> pairs_sum_to_zero([1L, 3L, -2L, 1L])
+? ----
+
++ >>> pairs_sum_to_zero([1L, 3L, -2L, 1L])
+-     false
++ false
+-     >>> pairs_sum_to_zero([1L, 2L, 3L, 7L])
+? ----
+
++ >>> pairs_sum_to_zero([1L, 2L, 3L, 7L])
+-     false
++ false
+-     >>> pairs_sum_to_zero([2L, 4L, -5L, 3L, 5L, 7L])
+? ----
+
++ >>> pairs_sum_to_zero([2L, 4L, -5L, 3L, 5L, 7L])
+-     true
++ true
+-     >>> pairs_sum_to_zero([1L])
+? ----
+
++ >>> pairs_sum_to_zero([1L])
++ false
+-     false
+-     
+  */
+  bool pairs_sum_to_zero(long[] l) 

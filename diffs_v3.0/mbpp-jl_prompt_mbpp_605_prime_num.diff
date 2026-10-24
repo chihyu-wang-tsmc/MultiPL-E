@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check if the given integer is a prime number.
++ """	Write a function to check if the given integer is a prime number."""
+? +++	                                                                 +++
+
+- 	"""
+  function prime_num(num::Int64)::Bool 

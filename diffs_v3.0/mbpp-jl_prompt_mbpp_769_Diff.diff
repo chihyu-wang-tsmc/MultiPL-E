@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to get the difference between two vectors.
++ """	Write a jlthon function to get the difference between two vectors."""
+? +++	                                                                  +++
+
+- 	"""
+  function Diff(li1::Vector{Int64}, li2::Vector{Int64})::Vector{Int64} 

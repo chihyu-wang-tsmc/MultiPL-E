@@ -1,0 +1,26 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Return the number of times the digit 7 appears in integers less than n which are divisible by 11 or 13.
+-     >>> fizz_buzz(50L)
+? ----
+
++ >>> fizz_buzz(50L)
+-     0L
++ 0L
+-     >>> fizz_buzz(78L)
+? ----
+
++ >>> fizz_buzz(78L)
+-     2L
++ 2L
+-     >>> fizz_buzz(79L)
+? ----
+
++ >>> fizz_buzz(79L)
++ 3L
+-     3L
+-     
+  */
+  long fizz_buzz(long n) 

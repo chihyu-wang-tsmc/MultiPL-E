@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to check whether all the characters are same or not.
+- 	
+  */
+  bool all_Characters_Same(string s) 

@@ -1,0 +1,28 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+   You're given an array of deposit and withdrawal operations on a bank account that starts with
+-     zero balance. Your task is to detect if at any point the balance of account fallls below zero, and
+? ----
+
++ zero balance. Your task is to detect if at any point the balance of account fallls below zero, and
+-     at that point function should return true. Otherwise it should return false.
+? ----
+
++ at that point function should return true. Otherwise it should return false.
+-     >>> below_zero([1L, 2L, 3L])
+? ----
+
++ >>> below_zero([1L, 2L, 3L])
+-     false
++ false
+-     >>> below_zero([1L, 2L, -4L, 5L])
+? ----
+
++ >>> below_zero([1L, 2L, -4L, 5L])
++ true
+-     true
+-     
+  */
+  bool below_zero(long[] operations) 

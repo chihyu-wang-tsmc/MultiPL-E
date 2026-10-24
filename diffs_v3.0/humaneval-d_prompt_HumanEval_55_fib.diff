@@ -1,0 +1,26 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Return n-th Fibonacci number.
+-     >>> fib(10L)
+? ----
+
++ >>> fib(10L)
+-     55L
++ 55L
+-     >>> fib(1L)
+? ----
+
++ >>> fib(1L)
+-     1L
++ 1L
+-     >>> fib(8L)
+? ----
+
++ >>> fib(8L)
++ 21L
+-     21L
+-     
+  */
+  long fib(long n) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to remove odd numbers from a given vector.
++ """	Write a jlthon function to remove odd numbers from a given vector."""
+? +++	                                                                  +++
+
+- 	"""
+  function remove_odd(l::Vector{Int64})::Vector{Int64} 

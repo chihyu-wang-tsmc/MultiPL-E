@@ -1,0 +1,17 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Given an integer. return a tuple that has the number of even and odd digits respectively.
+- 
+-      Example:
+? -----
+
++ Example:
+      >>> even_odd_count(-12L)
+      tuple(1L, 1L)
+      >>> even_odd_count(123L)
+      tuple(1L, 2L)
+-     
+  */
+  Tuple!(long, long) even_odd_count(long num) 

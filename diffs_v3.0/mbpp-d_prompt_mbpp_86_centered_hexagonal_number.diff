@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find nth centered hexagonal number.
+- 	
+  */
+  long centered_hexagonal_number(long n) 

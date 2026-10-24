@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to extract specified size of strings from a given array of string values.
+- 	
+  */
+  string[] extract_string(string[] str, long l) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the pairwise addition of the neighboring elements of the given tuple.
+- 	
+  */
+  Tuple!(long, long, long, long) add_pairwise(Tuple!(long, long, long, long, long) test_tup) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to get the frequency of all the elements in a vector, returned as a dictionary.
++ """	Write a function to get the frequency of all the elements in a vector, returned as a dictionary."""
+? +++	                                                                                                +++
+
+- 	"""
+  function freq_count(list1::Vector{Int64})::Dict{Int64, Int64}> 

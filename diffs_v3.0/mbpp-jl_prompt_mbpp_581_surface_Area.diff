@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the surface area of a square jlramid with a given base edge and height.
++ """	Write a jlthon function to find the surface area of a square jlramid with a given base edge and height."""
+? +++	                                                                                                       +++
+
+- 	"""
+  function surface_Area(b::Int64, s::Int64)::Int64 

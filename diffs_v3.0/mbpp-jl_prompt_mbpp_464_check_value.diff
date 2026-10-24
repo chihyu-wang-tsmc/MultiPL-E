@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check if all values are same in a dictionary.
++ """	Write a function to check if all values are same in a dictionary."""
+? +++	                                                                 +++
+
+- 	"""
+  function check_value(dict::Dict{String, Int64}>, n::Int64)::Bool 

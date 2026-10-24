@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check if the given tuples contain the k or not.
++ """	Write a function to check if the given tuples contain the k or not."""
+? +++	                                                                   +++
+
+- 	"""
+  function check_K(test_tup::Vector{Int64}, K::Int64)::Bool 

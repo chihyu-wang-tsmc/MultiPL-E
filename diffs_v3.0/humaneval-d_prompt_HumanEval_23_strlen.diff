@@ -1,0 +1,19 @@
+  import std.math;
++ import std.typecons;
+  /*
+   Return length of given string
+-     >>> strlen("")
+? ----
+
++ >>> strlen("")
+-     0L
++ 0L
+-     >>> strlen("abc")
+? ----
+
++ >>> strlen("abc")
++ 3L
+-     3L
+-     
+  */
+  long strlen(string string) 

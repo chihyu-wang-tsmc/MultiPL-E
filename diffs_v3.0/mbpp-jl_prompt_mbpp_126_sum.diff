@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the sum of common divisors of two given numbers.
++ """	Write a jlthon function to find the sum of common divisors of two given numbers."""
+? +++	                                                                                +++
+
+- 	"""
+  function sum(a::Int64, b::Int64)::Int64 

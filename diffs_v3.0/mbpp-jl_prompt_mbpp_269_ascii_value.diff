@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the ascii value of a character.
++ """	Write a function to find the ascii value of a character."""
+? +++	                                                        +++
+
+- 	"""
+  function ascii_value(k::String)::Int64 

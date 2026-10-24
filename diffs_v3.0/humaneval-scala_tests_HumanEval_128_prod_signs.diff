@@ -1,0 +1,34 @@
+      }
+      def main(args: Array[String]) = {
+-     assert(prodSigns((List[Long](1l.toLong, 2l.toLong, 2l.toLong, -4l.toLong))).equals(-9l));
++     assert(prodSigns((List[Long](1l.toLong, 2l.toLong, 2l.toLong, -4l.toLong))).equals(Some(-9l)));
+?                                                                                        +++++     +
+
+-     assert(prodSigns((List[Long](0l.toLong, 1l.toLong))).equals(0l));
++     assert(prodSigns((List[Long](0l.toLong, 1l.toLong))).equals(Some(0l)));
+?                                                                 +++++    +
+
+-     assert(prodSigns((List[Long](1l.toLong, 1l.toLong, 1l.toLong, 2l.toLong, 3l.toLong, -1l.toLong, 1l.toLong))).equals(-10l));
++     assert(prodSigns((List[Long](1l.toLong, 1l.toLong, 1l.toLong, 2l.toLong, 3l.toLong, -1l.toLong, 1l.toLong))).equals(Some(-10l)));
+?                                                                                                                         +++++      +
+
+      assert(prodSigns((List[Long]())).equals(None));
+-     assert(prodSigns((List[Long](2l.toLong, 4l.toLong, 1l.toLong, 2l.toLong, -1l.toLong, -1l.toLong, 9l.toLong))).equals(20l));
++     assert(prodSigns((List[Long](2l.toLong, 4l.toLong, 1l.toLong, 2l.toLong, -1l.toLong, -1l.toLong, 9l.toLong))).equals(Some(20l)));
+?                                                                                                                          +++++     +
+
+-     assert(prodSigns((List[Long](-1l.toLong, 1l.toLong, -1l.toLong, 1l.toLong))).equals(4l));
++     assert(prodSigns((List[Long](-1l.toLong, 1l.toLong, -1l.toLong, 1l.toLong))).equals(Some(4l)));
+?                                                                                         +++++    +
+
+-     assert(prodSigns((List[Long](-1l.toLong, 1l.toLong, 1l.toLong, 1l.toLong))).equals(-4l));
++     assert(prodSigns((List[Long](-1l.toLong, 1l.toLong, 1l.toLong, 1l.toLong))).equals(Some(-4l)));
+?                                                                                        +++++     +
+
+-     assert(prodSigns((List[Long](-1l.toLong, 1l.toLong, 1l.toLong, 0l.toLong))).equals(0l));
++     assert(prodSigns((List[Long](-1l.toLong, 1l.toLong, 1l.toLong, 0l.toLong))).equals(Some(0l)));
+?                                                                                        +++++    +
+
+      }
+  
+  }

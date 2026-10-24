@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/
++ """	Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/"""
+? +++	                                                                                                                                                                        +++
+
+- 	"""
+  function lcs_of_three(X::String, Y::String, Z::String)::Int64 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to perform index wise multiplication of array elements in the given two arrays.
+- 	
+  */
+  long[][] index_multiplication(long[][] test_tup1, long[][] test_tup2) 

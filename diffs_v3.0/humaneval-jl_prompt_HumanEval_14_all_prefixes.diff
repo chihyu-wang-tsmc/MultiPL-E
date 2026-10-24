@@ -1,0 +1,13 @@
+  """ Return vector of all prefixes from shortest to longest of the input string
+-     >>> all_prefixes("abc")
+? ----
+
++ >>> all_prefixes("abc")
+-     ["a", "ab", "abc"]
+? ----
+
++ ["a", "ab", "abc"]"""
+?                   +++
+
+-     """
+  function all_prefixes(string::String)::Vector{String} 

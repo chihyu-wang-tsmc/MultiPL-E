@@ -1,0 +1,8 @@
+  import std.math;
+- import std.typecons;
+  /*
+- 
+  	Write a function to sort each subarray of strings in a given array of arrays.
+- 	
+  */
+  string[][] sort_sublists(string[][] input_list) 

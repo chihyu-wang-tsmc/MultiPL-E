@@ -1,0 +1,48 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     Check if two words have the same characters.
+? ----
+
++ Check if two words have the same characters.
+-     >>> same_chars("eabcdzzzz", "dddzzzzzzzddeddabc")
+? ----
+
++ >>> same_chars("eabcdzzzz", "dddzzzzzzzddeddabc")
+-     true
++ true
+-     >>> same_chars("abcd", "dddddddabc")
+? ----
+
++ >>> same_chars("abcd", "dddddddabc")
+-     true
++ true
+-     >>> same_chars("dddddddabc", "abcd")
+? ----
+
++ >>> same_chars("dddddddabc", "abcd")
+-     true
++ true
+-     >>> same_chars("eabcd", "dddddddabc")
+? ----
+
++ >>> same_chars("eabcd", "dddddddabc")
+-     false
++ false
+-     >>> same_chars("abcd", "dddddddabce")
+? ----
+
++ >>> same_chars("abcd", "dddddddabce")
+-     false
++ false
+-     >>> same_chars("eabcdzzzz", "dddzzzzzzzddddabc")
+? ----
+
++ >>> same_chars("eabcdzzzz", "dddzzzzzzzddddabc")
++ false
+-     false
+-     
+  */
+  bool same_chars(string s0, string s1) 

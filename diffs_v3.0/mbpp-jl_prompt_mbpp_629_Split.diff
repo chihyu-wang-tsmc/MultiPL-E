@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find even numbers from a vector of numbers.
++ """	Write a jlthon function to find even numbers from a vector of numbers."""
+? +++	                                                                      +++
+
+- 	"""
+  function Split(list::Vector{Int64})::Vector{Int64} 

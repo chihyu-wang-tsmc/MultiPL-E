@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the maximum of two numbers.
+- 	
+  */
+  long maximum(long a, long b) 

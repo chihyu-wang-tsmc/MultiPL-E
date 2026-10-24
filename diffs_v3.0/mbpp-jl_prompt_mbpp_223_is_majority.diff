@@ -1,0 +1,7 @@
+- """
+- 	Write a function that takes in a sorted vector, its length (n), and an element and returns whether the element is the majority element in the given sorted vector. (The majority element is the element that occurs more than n/2 times.)
++ """	Write a function that takes in a sorted vector, its length (n), and an element and returns whether the element is the majority element in the given sorted vector. (The majority element is the element that occurs more than n/2 times.)"""
+? +++	                                                                                                                                                                                                                                         +++
+
+- 	"""
+  function is_majority(arr::Vector{Int64}, n::Int64, x::Int64)::Bool 

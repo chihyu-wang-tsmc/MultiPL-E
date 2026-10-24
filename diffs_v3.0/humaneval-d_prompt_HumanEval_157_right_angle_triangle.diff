@@ -1,0 +1,40 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     Given the lengths of the three sides of a triangle. Return true if the three
+? ----
+
++ Given the lengths of the three sides of a triangle. Return true if the three
+-     sides form a right-angled triangle, false otherwise.
+? ----
+
++ sides form a right-angled triangle, false otherwise.
+-     A right-angled triangle is a triangle in which one angle is right angle or 
+? ----
+
++ A right-angled triangle is a triangle in which one angle is right angle or 
+-     90 degree.
+? ----
+
++ 90 degree.
+-     Example:
+? ----
+
++ Example:
+-     >>> right_angle_triangle(3L, 4L, 5L)
+? ----
+
++ >>> right_angle_triangle(3L, 4L, 5L)
+-     true
++ true
+-     >>> right_angle_triangle(1L, 2L, 3L)
+? ----
+
++ >>> right_angle_triangle(1L, 2L, 3L)
++ false
+-     false
+-     
+  */
+  bool right_angle_triangle(long a, long b, long c) 

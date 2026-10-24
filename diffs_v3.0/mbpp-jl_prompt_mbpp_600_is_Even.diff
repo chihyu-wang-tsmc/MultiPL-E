@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to check whether the given number is even or not.
++ """	Write a jlthon function to check whether the given number is even or not."""
+? +++	                                                                         +++
+
+- 	"""
+  function is_Even(n::Int64)::Bool 

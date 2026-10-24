@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to replace characters in a string.
+- 	
+  */
+  string replace_char(string str1, string ch, string newch) 

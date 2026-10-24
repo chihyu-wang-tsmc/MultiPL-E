@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to subtract two arrays element-wise.
+- 	
+  */
+  long[] sub_list(long[] nums1, long[] nums2) 

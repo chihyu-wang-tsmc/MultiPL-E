@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function that matches a string that has an a followed by three 'b'.
+- 	
+  */
+  bool text_match_three(string text) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to count number items that are identical in the same position of three given vectors.
++ """	Write a function to count number items that are identical in the same position of three given vectors."""
+? +++	                                                                                                      +++
+
+- 	"""
+  function count_samepair(list1::Vector{Int64}, list2::Vector{Int64}, list3::Vector{Int64})::Int64 

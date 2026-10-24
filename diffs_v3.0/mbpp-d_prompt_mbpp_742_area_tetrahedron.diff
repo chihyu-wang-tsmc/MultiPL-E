@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to caluclate the area of a tetrahedron.
+- 	
+  */
+  float area_tetrahedron(long side) 

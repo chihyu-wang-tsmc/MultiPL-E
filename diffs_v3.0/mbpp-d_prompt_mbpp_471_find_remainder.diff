@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the product of the array multiplication modulo n.
+- 	
+  */
+  long find_remainder(long[] arr, long n) 

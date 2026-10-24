@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function that takes in an integer n and finds the sum of the first n even natural numbers that are raised to the fifth power.
++ """	Write a jlthon function that takes in an integer n and finds the sum of the first n even natural numbers that are raised to the fifth power."""
+? +++	                                                                                                                                            +++
+
+- 	"""
+  function even_Power_Sum(n::Int64)::Int64 

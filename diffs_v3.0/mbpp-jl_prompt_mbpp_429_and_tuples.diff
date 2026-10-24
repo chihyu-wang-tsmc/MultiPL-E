@@ -1,0 +1,7 @@
+- """
+- 	Write a function to extract the elementwise and tuples from the given two tuples.
++ """	Write a function to extract the elementwise and tuples from the given two tuples."""
+? +++	                                                                                 +++
+
+- 	"""
+  function and_tuples(test_tup1::Tuple{Int64, Int64, Int64, Int64}, test_tup2::Tuple{Int64, Int64, Int64, Int64})::Tuple{Int64, Int64, Int64, Int64} 

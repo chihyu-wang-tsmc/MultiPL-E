@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to sort an associative array by value.
+- 	
+  */
+  Tuple!(string, long)[] sort_counter(Nullable!(long[string]) dict1) 

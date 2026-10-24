@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to check whether every even index contains even numbers of a given vector.
++ """	Write a jlthon function to check whether every even index contains even numbers of a given vector."""
+? +++	                                                                                                  +++
+
+- 	"""
+  function even_position(nums::Vector{Int64})::Bool 

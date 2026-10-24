@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the median of two sorted arrays of same size.
+- 	
+  */
+  float get_median(long[] arr1, long[] arr2, long n) 

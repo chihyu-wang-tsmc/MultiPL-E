@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the area of a rectangle.
++ """	Write a function to find the area of a rectangle."""
+? +++	                                                 +++
+
+- 	"""
+  function rectangle_area(l::Int64, b::Int64)::Int64 

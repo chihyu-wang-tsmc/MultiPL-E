@@ -1,0 +1,55 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  I think we all remember that feeling when the result of some long-awaited
+-     event is finally known. The feelings and thoughts you have at that moment are
+? ----
+
++ event is finally known. The feelings and thoughts you have at that moment are
+-     definitely worth noting down and comparing.
+? ----
+
++ definitely worth noting down and comparing.
+-     Your task is to determine if a person correctly guessed the results of a number of matches.
+? ----
+
++ Your task is to determine if a person correctly guessed the results of a number of matches.
+-     You are given two arrays of scores and guesses of equal length, where each index shows a match. 
+? ----
+
++ You are given two arrays of scores and guesses of equal length, where each index shows a match. 
+-     Return an array of the same length denoting how far off each guess was. If they have guessed correctly,
+? ----
+
++ Return an array of the same length denoting how far off each guess was. If they have guessed correctly,
+-     the value is 0, and if not, the value is the absolute difference between the guess and the score.
+? ----
+
++ the value is 0, and if not, the value is the absolute difference between the guess and the score.
+-     
+-     
+-     example:
+? ----
+
++ example:
+- 
+-     >>> compare([1L, 2L, 3L, 4L, 5L, 1L], [1L, 2L, 3L, 4L, 2L, -2L])
+? ----
+
++ >>> compare([1L, 2L, 3L, 4L, 5L, 1L], [1L, 2L, 3L, 4L, 2L, -2L])
+-     [0L, 0L, 0L, 0L, 3L, 3L]
+? ----
+
++ [0L, 0L, 0L, 0L, 3L, 3L]
+-     >>> compare([0L, 5L, 0L, 0L, 0L, 4L], [4L, 1L, 1L, 0L, 0L, -2L])
+? ----
+
++ >>> compare([0L, 5L, 0L, 0L, 0L, 4L], [4L, 1L, 1L, 0L, 0L, -2L])
+-     [4L, 4L, 1L, 0L, 0L, 6L]
+? ----
+
++ [4L, 4L, 1L, 0L, 0L, 6L]
+-     
+  */
+  long[] compare(long[] game, long[] guess) 

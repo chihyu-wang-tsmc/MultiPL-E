@@ -1,0 +1,7 @@
+- """
+- 	Write a function to return the sum of all divisors of a number.
++ """	Write a function to return the sum of all divisors of a number."""
+? +++	                                                               +++
+
+- 	"""
+  function sum_div(number::Int64)::Int64 

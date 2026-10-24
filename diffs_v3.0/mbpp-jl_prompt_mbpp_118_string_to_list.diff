@@ -1,0 +1,7 @@
+- """
+- 	Write a function to convert a string to a vector of strings split on the space character.
++ """	Write a function to convert a string to a vector of strings split on the space character."""
+? +++	                                                                                         +++
+
+- 	"""
+  function string_to_list(string::String)::Vector{String} 

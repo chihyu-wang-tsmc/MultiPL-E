@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.
++ """	Write a jlthon function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers."""
+? +++	                                                                                                                         +++
+
+- 	"""
+  function square_Sum(n::Int64)::Int64 

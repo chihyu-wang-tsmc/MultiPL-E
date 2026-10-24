@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to reverse only the vowels of a given string (where y is not a vowel).
+- 	
+  */
+  string reverse_vowels(string str1) 

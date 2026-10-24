@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to convert the given string to lower case.
+- 	
+  */
+  string is_lower(string string) 

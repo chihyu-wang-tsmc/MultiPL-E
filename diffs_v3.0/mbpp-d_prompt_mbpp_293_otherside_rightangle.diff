@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the third side of a right angled triangle.
+- 	
+  */
+  float otherside_rightangle(long w, long h) 

@@ -1,0 +1,8 @@
+  import std.math;
+- import std.typecons;
+  /*
+- 
+  	Write a function to find the kth element in the given array using 1-based indexing.
+- 	
+  */
+  long kth_element(long[] arr, long k) 

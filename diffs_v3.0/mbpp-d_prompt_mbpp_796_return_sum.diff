@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write function to find the sum of all items in the given associative array.
+- 	
+  */
+  long return_sum(Nullable!(long[string]) dict) 

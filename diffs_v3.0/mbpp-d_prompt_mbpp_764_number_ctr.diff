@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to count number of digits in a given string.
+- 	
+  */
+  long number_ctr(string str) 

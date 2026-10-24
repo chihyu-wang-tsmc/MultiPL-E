@@ -1,0 +1,42 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     Write a function count_nums which takes an array of integers and returns
+? ----
+
++ Write a function count_nums which takes an array of integers and returns
+-     the number of elements which has a sum of digits > 0.
+? ----
+
++ the number of elements which has a sum of digits > 0.
+-     If a number is negative, then its first signed digit will be negative:
+? ----
+
++ If a number is negative, then its first signed digit will be negative:
+-     e.g. -123 has signed digits -1, 2, and 3.
+? ----
+
++ e.g. -123 has signed digits -1, 2, and 3.
+-     >>> count_nums([])
+? ----
+
++ >>> count_nums([])
+-     0L
++ 0L
+-     >>> count_nums([-1L, 11L, -11L])
+? ----
+
++ >>> count_nums([-1L, 11L, -11L])
+-     1L
++ 1L
+-     >>> count_nums([1L, 1L, 2L])
+? ----
+
++ >>> count_nums([1L, 1L, 2L])
++ 3L
+-     3L
+-     
+  */
+  long count_nums(long[] arr) 

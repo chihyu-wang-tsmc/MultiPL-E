@@ -1,0 +1,25 @@
+  # Given a vector arr of integers and a positive integer k, return a sorted list 
+  # of length k with the maximum k numbers in arr.
+  # Example 1:
+  # >>> maximum(c(-3, -4, 5), 3)
+  # c(-4, -3, 5)
+  # Example 2:
+  # >>> maximum(c(4, -4, 4), 2)
+  # c(4, 4)
+  # Example 3:
+  # >>> maximum(c(-3, 2, 1, 2, -1, -2, 1), 1)
+  # c(2)
+  # Note:
+- # 1. The length of the vector will be in the range of [1, 1000].
++ #     1. The length of the vector will be in the range of [1, 1000].
+?  ++++
+
+- # 2. The elements in the vector will be in the range of [-1000, 1000].
++ #     2. The elements in the vector will be in the range of [-1000, 1000].
+?  ++++
+
+- # 3. 0 <= k <= len(arr)
++ #     3. 0 <= k <= len(arr)
+?  ++++
+
+  maximum <- function(arr, k) {

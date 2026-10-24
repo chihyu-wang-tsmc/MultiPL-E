@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to split a string into characters.
+- 	
+  */
+  string[] split(string word) 

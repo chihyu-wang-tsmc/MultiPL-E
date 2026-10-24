@@ -1,0 +1,45 @@
+  import std.math;
++ import std.typecons;
+  /*
+- 
+-     Given an array of numbers, return the sum of squares of the numbers
+? ----
+
++ Given an array of numbers, return the sum of squares of the numbers
+-     in the array that are odd. Ignore numbers that are negative or not integers.
+? ----
+
++ in the array that are odd. Ignore numbers that are negative or not integers.
+-     
+-     >>> double_the_difference([1L, 3L, 2L, 0L])
+? ----
+
++ >>> double_the_difference([1L, 3L, 2L, 0L])
+-     10L
++ 10L
+-     >>> double_the_difference([-1L, -2L, 0L])
+? ----
+
++ >>> double_the_difference([-1L, -2L, 0L])
+-     0L
++ 0L
+-     >>> double_the_difference([9L, -2L])
+? ----
+
++ >>> double_the_difference([9L, -2L])
+-     81L
++ 81L
+-     >>> double_the_difference([0L])
+? ----
+
++ >>> double_the_difference([0L])
++ 0L
+-     0L
+-    
+-     If the input array is empty, return 0.
+? ----
+
++ If the input array is empty, return 0.
+-     
+  */
+  long double_the_difference(float[] lst) 

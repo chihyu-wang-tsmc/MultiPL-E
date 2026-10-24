@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to return the sum of all divisors of a number.
+- 	
+  */
+  long sum_div(long number) 

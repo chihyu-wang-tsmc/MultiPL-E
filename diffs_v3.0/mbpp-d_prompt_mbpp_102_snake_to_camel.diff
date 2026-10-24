@@ -1,0 +1,8 @@
+  import std.math;
+- import std.typecons;
+  /*
+- 
+  	Write a function to convert a snake case string to camel case string.
+- 	
+  */
+  string snake_to_camel(string word) 

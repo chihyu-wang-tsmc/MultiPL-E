@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to move all the numbers to the end of the given string.
+- 	
+  */
+  string move_num(string test_str) 

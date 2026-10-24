@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the second smallest number in a vector.
++ """	Write a function to find the second smallest number in a vector."""
+? +++	                                                                +++
+
+- 	"""
+  function second_smallest(numbers::Vector{Union{Int64, Float64}})::Union{Float64, Nothing} 

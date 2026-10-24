@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the minimum product from the pairs of tuples within a given array.
+- 	
+  */
+  long min_product_tuple(Tuple!(long, long)[] list1) 

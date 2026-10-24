@@ -1,0 +1,34 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Given a positive integer n, return the product of the odd digits.
+-     Return 0 if all digits are even.
+? ----
+
++ Return 0 if all digits are even.
+-     For example:
+? ----
+
++ For example:
+-     >>> digits(1L)
+? ----
+
++ >>> digits(1L)
+-     1L
++ 1L
+-     >>> digits(4L)
+? ----
+
++ >>> digits(4L)
+-     0L
++ 0L
+-     >>> digits(235L)
+? ----
+
++ >>> digits(235L)
++ 15L
+-     15L
+-     
+  */
+  long digits(long n) 

@@ -1,0 +1,52 @@
+  """Task
+-     Write a function that takes a string as input and returns the sum of the upper characters only'
+? ----
+
++ Write a function that takes a string as input and returns the sum of the upper characters only'
+-     ASCII codes.
+? ----
+
++ ASCII codes.
+- 
+-     Examples:
+? ----
+
++ Examples:
+-     >>> digitSum("")
+? ----
+
++ >>> digitSum("")
+-     0
++ 0
+-     >>> digitSum("abAB")
+? ----
+
++ >>> digitSum("abAB")
+-     131
++ 131
+-     >>> digitSum("abcCd")
+? ----
+
++ >>> digitSum("abcCd")
+-     67
++ 67
+-     >>> digitSum("helloE")
+? ----
+
++ >>> digitSum("helloE")
+-     69
++ 69
+-     >>> digitSum("woArBld")
+? ----
+
++ >>> digitSum("woArBld")
+-     131
++ 131
+-     >>> digitSum("aAaaaXa")
+? ----
+
++ >>> digitSum("aAaaaXa")
++ 153"""
+-     153
+-     """
+  function digitSum(s::String)::Int64 

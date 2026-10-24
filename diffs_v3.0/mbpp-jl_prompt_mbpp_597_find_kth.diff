@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find kth element from the given two sorted vectors.
++ """	Write a function to find kth element from the given two sorted vectors."""
+? +++	                                                                       +++
+
+- 	"""
+  function find_kth(arr1::Vector{Int64}, arr2::Vector{Int64}, k::Int64)::Int64 

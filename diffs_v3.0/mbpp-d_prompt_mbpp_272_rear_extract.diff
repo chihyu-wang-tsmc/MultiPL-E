@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function that takes in an array of tuples and returns an array containing the rear element of each tuple.
+- 	
+  */
+  long[] rear_extract(Tuple!(long, string, long)[] test_list) 

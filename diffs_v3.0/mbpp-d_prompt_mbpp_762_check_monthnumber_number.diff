@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.
+- 	
+  */
+  bool check_monthnumber_number(long monthnum3) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to interleave 3 vectors of the same length into a single flat vector.
++ """	Write a function to interleave 3 vectors of the same length into a single flat vector."""
+? +++	                                                                                      +++
+
+- 	"""
+  function interleave_lists(list1::Vector{Int64}, list2::Vector{Int64}, list3::Vector{Int64})::Vector{Int64} 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to interleave 3 arrays of the same length into a single flat array.
+- 	
+  */
+  long[] interleave_lists(long[] list1, long[] list2, long[] list3) 

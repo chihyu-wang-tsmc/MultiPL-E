@@ -1,0 +1,7 @@
+- """
+- 	Write a function to replace characters in a string.
++ """	Write a function to replace characters in a string."""
+? +++	                                                   +++
+
+- 	"""
+  function replace_char(str1::String, ch::String, newch::String)::String 

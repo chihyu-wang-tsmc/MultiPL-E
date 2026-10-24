@@ -1,0 +1,73 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     Given an array of numbers, return whether or not they are sorted
+? ----
+
++ Given an array of numbers, return whether or not they are sorted
+-     in ascending order. If array has more than 1 duplicate of the same
+? ----
+
++ in ascending order. If array has more than 1 duplicate of the same
+-     number, return false. Assume no negative numbers and only integers.
+? ----
+
++ number, return false. Assume no negative numbers and only integers.
+- 
+-     Examples
+? ----
+
++ Examples
+-     >>> is_sorted([5L])
+? ----
+
++ >>> is_sorted([5L])
+-     true
++ true
+-     >>> is_sorted([1L, 2L, 3L, 4L, 5L])
+? ----
+
++ >>> is_sorted([1L, 2L, 3L, 4L, 5L])
+-     true
++ true
+-     >>> is_sorted([1L, 3L, 2L, 4L, 5L])
+? ----
+
++ >>> is_sorted([1L, 3L, 2L, 4L, 5L])
+-     false
++ false
+-     >>> is_sorted([1L, 2L, 3L, 4L, 5L, 6L])
+? ----
+
++ >>> is_sorted([1L, 2L, 3L, 4L, 5L, 6L])
+-     true
++ true
+-     >>> is_sorted([1L, 2L, 3L, 4L, 5L, 6L, 7L])
+? ----
+
++ >>> is_sorted([1L, 2L, 3L, 4L, 5L, 6L, 7L])
+-     true
++ true
+-     >>> is_sorted([1L, 3L, 2L, 4L, 5L, 6L, 7L])
+? ----
+
++ >>> is_sorted([1L, 3L, 2L, 4L, 5L, 6L, 7L])
+-     false
++ false
+-     >>> is_sorted([1L, 2L, 2L, 3L, 3L, 4L])
+? ----
+
++ >>> is_sorted([1L, 2L, 2L, 3L, 3L, 4L])
+-     true
++ true
+-     >>> is_sorted([1L, 2L, 2L, 2L, 3L, 4L])
+? ----
+
++ >>> is_sorted([1L, 2L, 2L, 2L, 3L, 4L])
++ false
+-     false
+-     
+  */
+  bool is_sorted(long[] lst) 

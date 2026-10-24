@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function takes in an integer n and returns the sum of squares of first n even natural numbers.
+- 	
+  */
+  long square_Sum(long n) 

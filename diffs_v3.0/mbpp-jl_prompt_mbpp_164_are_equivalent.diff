@@ -1,0 +1,7 @@
+- """
+- 	Write a function to determine if the sum of the divisors of two integers are the same.
++ """	Write a function to determine if the sum of the divisors of two integers are the same."""
+? +++	                                                                                      +++
+
+- 	"""
+  function are_equivalent(num1::Int64, num2::Int64)::Bool 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to sort an array of tuples using the second value of each tuple.
+- 	
+  */
+  Tuple!(string, long)[] subject_marks(Tuple!(string, long)[] subjectmarks) 

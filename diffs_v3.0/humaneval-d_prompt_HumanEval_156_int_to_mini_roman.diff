@@ -1,0 +1,47 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     Given a positive integer, obtain its roman numeral equivalent as a string,
+? ----
+
++ Given a positive integer, obtain its roman numeral equivalent as a string,
+-     and return it in lowercase.
+? ----
+
++ and return it in lowercase.
+-     Restrictions: 1 <= num <= 1000
+? ----
+
++ Restrictions: 1 <= num <= 1000
+- 
+-     Examples:
+? ----
+
++ Examples:
+-     >>> int_to_mini_roman(19L)
+? ----
+
++ >>> int_to_mini_roman(19L)
+-     "xix"
++ "xix"
+-     >>> int_to_mini_roman(152L)
+? ----
+
++ >>> int_to_mini_roman(152L)
+-     "clii"
+? ----
+
++ "clii"
+-     >>> int_to_mini_roman(426L)
+? ----
+
++ >>> int_to_mini_roman(426L)
+-     "cdxxvi"
+? ----
+
++ "cdxxvi"
+-     
+  */
+  string int_to_mini_roman(long number) 

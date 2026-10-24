@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to remove duplicate numbers from a given number of arrays.
+- 	
+  */
+  long[] two_unique_nums(long[] nums) 

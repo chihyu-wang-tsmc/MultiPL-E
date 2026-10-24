@@ -1,0 +1,7 @@
+- """
+- 	Write a function to flatten a given nested vector structure.
++ """	Write a function to flatten a given nested vector structure."""
+? +++	                                                            +++
+
+- 	"""
+  function flatten_list(list1::Vector{Union{Int64, Vector{Int64}}})::Vector{Int64} 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function that matches a word containing 'z'.
+- 	
+  */
+  bool text_match_wordz(string text) 

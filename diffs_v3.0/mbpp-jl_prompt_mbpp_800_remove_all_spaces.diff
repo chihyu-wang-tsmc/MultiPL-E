@@ -1,0 +1,7 @@
+- """
+- 	Write a function to remove all whitespaces from a string.
++ """	Write a function to remove all whitespaces from a string."""
+? +++	                                                         +++
+
+- 	"""
+  function remove_all_spaces(text::String)::String 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check whether the entered number is greater than the elements of the given vector.
++ """	Write a function to check whether the entered number is greater than the elements of the given vector."""
+? +++	                                                                                                      +++
+
+- 	"""
+  function check_greater(arr::Vector{Int64}, number::Int64)::Bool 

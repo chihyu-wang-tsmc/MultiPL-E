@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the maximum sum of increasing subsequence from prefix until ith index and also including a given kth element which is after i, i.e., k > i .
++ """	Write a function to find the maximum sum of increasing subsequence from prefix until ith index and also including a given kth element which is after i, i.e., k > i ."""
+? +++	                                                                                                                                                                     +++
+
+- 	"""
+  function max_sum_increasing_subseq(a::Vector{Int64}, n::Int64, index::Int64, k::Int64)::Int64 

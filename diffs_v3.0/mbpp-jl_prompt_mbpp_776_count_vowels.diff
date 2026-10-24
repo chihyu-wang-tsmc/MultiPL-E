@@ -1,0 +1,7 @@
+- """
+- 	Write a function to count those characters which have vowels as their neighbors in the given string.
++ """	Write a function to count those characters which have vowels as their neighbors in the given string."""
+? +++	                                                                                                    +++
+
+- 	"""
+  function count_vowels(test_str::String)::Int64 

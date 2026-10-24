@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the directrix of a parabola.
++ """	Write a function to find the directrix of a parabola."""
+? +++	                                                     +++
+
+- 	"""
+  function parabola_directrix(a::Int64, b::Int64, c::Int64)::Int64 

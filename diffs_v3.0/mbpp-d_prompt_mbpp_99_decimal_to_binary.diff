@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to convert the given decimal number to its binary equivalent, represented as a string with no leading zeros.
+- 	
+  */
+  string decimal_to_binary(long n) 

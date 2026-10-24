@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to check whether a vector of numbers contains only one distinct element or not.
++ """	Write a jlthon function to check whether a vector of numbers contains only one distinct element or not."""
+? +++	                                                                                                       +++
+
+- 	"""
+  function unique_Element(arr::Vector{Int64})::Bool 

@@ -1,0 +1,55 @@
+  import std.math;
+  /*
+- 
+-     Given an array of integers, sort the integers that are between 1 and 9 inclusive,
+? ----
+
++ Given an array of integers, sort the integers that are between 1 and 9 inclusive,
+-     reverse the resulting array, and then replace each digit by its corresponding name from
+? ----
+
++ reverse the resulting array, and then replace each digit by its corresponding name from
+-     "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine".
+? ----
+
++ "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine".
+- 
+-     For example:
+? ----
+
++ For example:
+-     >>> by_length([2L, 1L, 1L, 4L, 5L, 8L, 2L, 3L])
+? ----
+
++ >>> by_length([2L, 1L, 1L, 4L, 5L, 8L, 2L, 3L])
+-     ["Eight", "Five", "Four", "Three", "Two", "Two", "One", "One"]
+? ----
+
++ ["Eight", "Five", "Four", "Three", "Two", "Two", "One", "One"]
+-     
+-       If the array is empty, return an empty array:
+? ----
+
++   If the array is empty, return an empty array:
+-     >>> by_length([])
+? ----
+
++ >>> by_length([])
++ []
+-     []
+-     
+-       If the array has any strange number ignore it:
+? ----
+
++   If the array has any strange number ignore it:
+-     >>> by_length([1L, -1L, 55L])
+? ----
+
++ >>> by_length([1L, -1L, 55L])
+-     ["One"]
+? ----
+
++ ["One"]
+-     
+  */
+  string[] by_length(long[] arr) 

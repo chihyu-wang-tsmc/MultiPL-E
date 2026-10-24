@@ -1,0 +1,40 @@
+  """You are given 2 words. You need to return true if the second word or any of its rotations is a substring in the first word
+-     >>> cycpattern_check("abcd", "abd")
+? ----
+
++ >>> cycpattern_check("abcd", "abd")
+-     false
++ false
+-     >>> cycpattern_check("hello", "ell")
+? ----
+
++ >>> cycpattern_check("hello", "ell")
+-     true
++ true
+-     >>> cycpattern_check("whassup", "psus")
+? ----
+
++ >>> cycpattern_check("whassup", "psus")
+-     false
++ false
+-     >>> cycpattern_check("abab", "baa")
+? ----
+
++ >>> cycpattern_check("abab", "baa")
+-     true
++ true
+-     >>> cycpattern_check("efef", "eeff")
+? ----
+
++ >>> cycpattern_check("efef", "eeff")
+-     false
++ false
+-     >>> cycpattern_check("himenss", "simen")
+? ----
+
++ >>> cycpattern_check("himenss", "simen")
++ true"""
+-     true
+- 
+-     """
+  function cycpattern_check(a::String, b::String)::Bool 

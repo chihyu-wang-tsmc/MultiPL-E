@@ -1,0 +1,48 @@
+- import std.typecons;
+  import std.math;
+  /*
+- 
+-     Given a positive integer n, you have to make a pile of n levels of stones.
+? ----
+
++ Given a positive integer n, you have to make a pile of n levels of stones.
+-     The first level has n stones.
+? ----
+
++ The first level has n stones.
+-     The number of stones in the next level is:
+? ----
+
++ The number of stones in the next level is:
+-         - the next odd number if n is odd.
+? ----
+
++     - the next odd number if n is odd.
+-         - the next even number if n is even.
+? ----
+
++     - the next even number if n is even.
+-     Return the number of stones in each level in an array, where element at index
+? ----
+
++ Return the number of stones in each level in an array, where element at index
+-     i represents the number of stones in the level (i+1).
+? ----
+
++ i represents the number of stones in the level (i+1).
+- 
+-     Examples:
+? ----
+
++ Examples:
+-     >>> make_a_pile(3L)
+? ----
+
++ >>> make_a_pile(3L)
+-     [3L, 5L, 7L]
+? ----
+
++ [3L, 5L, 7L]
+-     
+  */
+  long[] make_a_pile(long n) 

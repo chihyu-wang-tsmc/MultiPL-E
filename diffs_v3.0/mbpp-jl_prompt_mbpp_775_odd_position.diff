@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to check whether every odd index contains odd numbers of a given vector.
++ """	Write a jlthon function to check whether every odd index contains odd numbers of a given vector."""
+? +++	                                                                                                +++
+
+- 	"""
+  function odd_position(nums::Vector{Int64})::Bool 

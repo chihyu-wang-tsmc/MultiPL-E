@@ -1,0 +1,35 @@
+  """Write a function that takes a string and returns true if the string
+-     length is a prime number or false otherwise
+? ----
+
++ length is a prime number or false otherwise
+-     Examples
+? ----
+
++ Examples
+-     >>> prime_length("Hello")
+? ----
+
++ >>> prime_length("Hello")
+-     true
++ true
+-     >>> prime_length("abcdcba")
+? ----
+
++ >>> prime_length("abcdcba")
+-     true
++ true
+-     >>> prime_length("kittens")
+? ----
+
++ >>> prime_length("kittens")
+-     true
++ true
+-     >>> prime_length("orange")
+? ----
+
++ >>> prime_length("orange")
++ false"""
+-     false
+-     """
+  function prime_length(string::String)::Bool 

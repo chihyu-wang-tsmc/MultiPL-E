@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to check whether any value in a sequence exists in a sequence or not.
+- 	
+  */
+  bool overlapping(long[] list1, long[] list2) 

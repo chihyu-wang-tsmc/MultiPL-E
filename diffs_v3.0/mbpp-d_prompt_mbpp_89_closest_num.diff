@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the closest smaller number than n.
+- 	
+  */
+  long closest_num(long N) 

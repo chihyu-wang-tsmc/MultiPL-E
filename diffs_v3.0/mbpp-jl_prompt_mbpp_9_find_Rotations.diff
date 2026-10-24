@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the minimum number of rotations (greater than 0) required to get the same string.
++ """	Write a jlthon function to find the minimum number of rotations (greater than 0) required to get the same string."""
+? +++	                                                                                                                 +++
+
+- 	"""
+  function find_Rotations(str::String)::Int64 

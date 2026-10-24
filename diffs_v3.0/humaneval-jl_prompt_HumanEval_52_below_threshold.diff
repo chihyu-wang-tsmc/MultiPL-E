@@ -1,0 +1,15 @@
+  """Return true if all numbers in the vector l are below threshold t.
+-     >>> below_threshold([1, 2, 4, 10], 100)
+? ----
+
++ >>> below_threshold([1, 2, 4, 10], 100)
+-     true
++ true
+-     >>> below_threshold([1, 20, 4, 10], 5)
+? ----
+
++ >>> below_threshold([1, 20, 4, 10], 5)
++ false"""
+-     false
+-     """
+  function below_threshold(l::Vector{Int64}, t::Int64)::Bool 

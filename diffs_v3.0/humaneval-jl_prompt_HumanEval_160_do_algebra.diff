@@ -1,0 +1,81 @@
+- """
+-     Given two vectors operator, and operand. The first vector has basic algebra operations, and 
+? ^^^^
+
++ """Given two vectors operator, and operand. The first vector has basic algebra operations, and 
+? ^^^
+
+-     the second vector is a vector of integers. Use the two given vectors to build the algebric 
+? ----
+
++ the second vector is a vector of integers. Use the two given vectors to build the algebric 
+-     expression and return the evaluation of this expression.
+? ----
+
++ expression and return the evaluation of this expression.
+- 
+-     The basic algebra operations:
+? ----
+
++ The basic algebra operations:
+-     Addition ( + ) 
+? ----
+
++ Addition ( + ) 
+-     Subtraction ( - ) 
+? ----
+
++ Subtraction ( - ) 
+-     Multiplication ( * ) 
+? ----
+
++ Multiplication ( * ) 
+-     Floor division ( // ) 
+? ----
+
++ Floor division ( // ) 
+-     Exponentiation ( ** ) 
+? ----
+
++ Exponentiation ( ** ) 
+- 
+-     Example:
+? ----
+
++ Example:
+-     operator['+', '*', '-']
+? ----
+
++ operator['+', '*', '-']
+-     vector = [2, 3, 4, 5]
+? ----
+
++ vector = [2, 3, 4, 5]
+-     result = 2 + 3 * 4 - 5
+? ----
+
++ result = 2 + 3 * 4 - 5
+-     => result = 9
+? ----
+
++ => result = 9
++ Note:
+- 
+-     Note:
+-         The length of operator vector is equal to the length of operand vector minus one.
+? ----
+
++     The length of operator vector is equal to the length of operand vector minus one.
+-         Operand is a vector of of non-negative integers.
+? ----
+
++     Operand is a vector of of non-negative integers.
+-         Operator vector has at least one operator, and operand vector has at least two operands.
+? ----
+
++     Operator vector has at least one operator, and operand vector has at least two operands."""
+?                                                                                             +++
+
+- 
+-     """
+  function do_algebra(operator::Vector{String}, operand::Vector{Int64})::Int64 

@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to count true booleans in the given vector.
++ """	Write a jlthon function to count true booleans in the given vector."""
+? +++	                                                                   +++
+
+- 	"""
+  function count(lst::Vector{Bool})::Int64 

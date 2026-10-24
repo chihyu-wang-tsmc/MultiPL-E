@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to remove duplicate numbers from a given number of vectors.
++ """	Write a jlthon function to remove duplicate numbers from a given number of vectors."""
+? +++	                                                                                   +++
+
+- 	"""
+  function two_unique_nums(nums::Vector{Int64})::Vector{Int64} 

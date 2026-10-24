@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to check whether a vector is subvector of another or not.
++ """	Write a jlthon function to check whether a vector is subvector of another or not."""
+? +++	                                                                                 +++
+
+- 	"""
+  function is_Sub_Array(A::Vector{Int64}, B::Vector{Int64})::Bool 

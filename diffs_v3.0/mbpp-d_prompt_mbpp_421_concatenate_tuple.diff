@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to concatenate each element of tuple by the delimiter.
+- 	
+  */
+  string concatenate_tuple(Tuple!(string, string, long, string) test_tup) 

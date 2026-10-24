@@ -1,0 +1,7 @@
+- """
+- 	Write a function to perform index wise multiplication of vector elements in the given two vectors.
++ """	Write a function to perform index wise multiplication of vector elements in the given two vectors."""
+? +++	                                                                                                  +++
+
+- 	"""
+  function index_multiplication(test_tup1::Vector{Vector{Int64}}, test_tup2::Vector{Vector{Int64}})::Vector{Vector{Int64}} 

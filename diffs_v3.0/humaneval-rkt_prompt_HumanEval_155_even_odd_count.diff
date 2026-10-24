@@ -1,0 +1,21 @@
+  #lang racket
+  
+  ;; Given an integer. return a list that has the number of even and odd digits respectively.
+  ;; Example:
+- ;; >>> (even_odd_count -12)
++ ;;     >>> (even_odd_count -12)
+?   ++++
+
+- ;; (list 1 1)
++ ;;     (list 1 1)
+?   ++++
+
+- ;; >>> (even_odd_count 123)
++ ;;     >>> (even_odd_count 123)
+?   ++++
+
+- ;; (list 1 2)
++ ;;     (list 1 2)
+?   ++++
+
+  (define (even_odd_count num)

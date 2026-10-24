@@ -1,0 +1,7 @@
+- """
+- 	Write a function to remove tuples from the given tuple.
++ """	Write a function to remove tuples from the given tuple."""
+? +++	                                                       +++
+
+- 	"""
+  function remove_nested(test_tup::Any)::Tuple{Int64, Int64, Int64, Int64} 

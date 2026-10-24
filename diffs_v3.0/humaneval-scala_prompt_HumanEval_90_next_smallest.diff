@@ -1,0 +1,21 @@
+  import scala.math._
+  import scala.collection.mutable._
+  object Problem {
+      // You are given a list of integers.
+      // Write a function next_smallest() that returns the 2nd smallest element of the list.
+      // Return None if there is no such element.
+      // >>> nextSmallest((List[Long](1l.toLong, 2l.toLong, 3l.toLong, 4l.toLong, 5l.toLong)))
+-     // 2l
++     // Some(2l)
+?        +++++  +
+
+      // >>> nextSmallest((List[Long](5l.toLong, 1l.toLong, 4l.toLong, 3l.toLong, 2l.toLong)))
+-     // 2l
++     // Some(2l)
+?        +++++  +
+
+      // >>> nextSmallest((List[Long]()))
+      // None
+      // >>> nextSmallest((List[Long](1l.toLong, 1l.toLong)))
+      // None
+      def nextSmallest(lst : List[Long]) : Option[Long] = {

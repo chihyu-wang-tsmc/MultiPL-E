@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Given an array of tuples, write a function that returns the first value of the tuple with the smallest second value.
+- 	
+  */
+  string index_minimum(Tuple!(string, long)[] test_list) 

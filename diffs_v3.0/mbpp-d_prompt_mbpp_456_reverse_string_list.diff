@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to reverse each string in a given array of string values.
+- 	
+  */
+  string[] reverse_string_list(string[] stringlist) 

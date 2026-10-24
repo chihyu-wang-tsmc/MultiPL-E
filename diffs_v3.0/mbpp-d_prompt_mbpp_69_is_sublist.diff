@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to check whether an array contains the given subarray or not.
+- 	
+  */
+  bool is_sublist(long[] l, long[] s) 

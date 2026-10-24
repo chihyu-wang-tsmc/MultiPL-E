@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the closest smaller number than n.
++ """	Write a function to find the closest smaller number than n."""
+? +++	                                                           +++
+
+- 	"""
+  function closest_num(N::Int64)::Int64 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find number of vectors present in the given vector.
++ """	Write a function to find number of vectors present in the given vector."""
+? +++	                                                                       +++
+
+- 	"""
+  function find_lists(Input::Vector{Any})::Int64 

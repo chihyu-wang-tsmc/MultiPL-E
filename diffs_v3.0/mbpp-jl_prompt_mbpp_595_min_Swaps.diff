@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to count minimum number of swaps required to convert one binary number represented as a string to another.
++ """	Write a jlthon function to count minimum number of swaps required to convert one binary number represented as a string to another."""
+? +++	                                                                                                                                  +++
+
+- 	"""
+  function min_Swaps(str1::String, str2::String)::Any 

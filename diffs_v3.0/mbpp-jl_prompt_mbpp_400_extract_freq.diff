@@ -1,0 +1,7 @@
+- """
+- 	Write a function to extract the number of unique tuples in the given vector.
++ """	Write a function to extract the number of unique tuples in the given vector."""
+? +++	                                                                            +++
+
+- 	"""
+  function extract_freq(test_list::Vector{Tuple{Int64, Int64}})::Int64 

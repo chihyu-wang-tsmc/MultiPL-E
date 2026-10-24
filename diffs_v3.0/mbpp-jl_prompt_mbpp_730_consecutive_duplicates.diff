@@ -1,0 +1,7 @@
+- """
+- 	Write a function to remove consecutive duplicates of a given vector.
++ """	Write a function to remove consecutive duplicates of a given vector."""
+? +++	                                                                    +++
+
+- 	"""
+  function consecutive_duplicates(nums::Vector{Any})::Vector{Any} 

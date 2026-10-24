@@ -1,0 +1,7 @@
+- """
+- 	Write a function to convert a given string to a vector of characters.
++ """	Write a function to convert a given string to a vector of characters."""
+? +++	                                                                     +++
+
+- 	"""
+  function string_to_tuple(str1::String)::Vector{String} 

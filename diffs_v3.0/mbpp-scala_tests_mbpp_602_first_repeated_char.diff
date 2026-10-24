@@ -1,0 +1,14 @@
+      }
+      def main(args: Array[String]) = {
+-     assert(firstRepeatedChar(("abcabc")).equals("a"));
++     assert(firstRepeatedChar(("abcabc")).equals(Some("a")));
+?                                                 +++++     +
+
+      assert(firstRepeatedChar(("abc")).equals(None));
+-     assert(firstRepeatedChar(("123123")).equals("1"));
++     assert(firstRepeatedChar(("123123")).equals(Some("1")));
+?                                                 +++++     +
+
+      }
+  
+  }

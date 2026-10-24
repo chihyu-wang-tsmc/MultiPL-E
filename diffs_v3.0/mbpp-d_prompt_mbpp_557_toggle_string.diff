@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to toggle the case of all characters in a string.
+- 	
+  */
+  string toggle_string(string string) 

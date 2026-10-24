@@ -1,0 +1,44 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Complete the function that takes two integers and returns 
+-     the product of their unit digits.
+? ----
+
++ the product of their unit digits.
+-     Assume the input is always valid.
+? ----
+
++ Assume the input is always valid.
+-     Examples:
+? ----
+
++ Examples:
+-     >>> multiply(148L, 412L)
+? ----
+
++ >>> multiply(148L, 412L)
+-     16L
++ 16L
+-     >>> multiply(19L, 28L)
+? ----
+
++ >>> multiply(19L, 28L)
+-     72L
++ 72L
+-     >>> multiply(2020L, 1851L)
+? ----
+
++ >>> multiply(2020L, 1851L)
+-     0L
++ 0L
+-     >>> multiply(14L, -15L)
+? ----
+
++ >>> multiply(14L, -15L)
++ 20L
+-     20L
+-     
+  */
+  long multiply(long a, long b) 

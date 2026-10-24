@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to check whether all the characters are same or not.
++ """	Write a jlthon function to check whether all the characters are same or not."""
+? +++	                                                                            +++
+
+- 	"""
+  function all_Characters_Same(s::String)::Bool 

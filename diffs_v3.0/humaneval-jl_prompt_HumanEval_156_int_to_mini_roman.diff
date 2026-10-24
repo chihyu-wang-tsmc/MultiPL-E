@@ -1,0 +1,42 @@
+- """
+-     Given a positive integer, obtain its roman numeral equivalent as a string,
+? ^^^^
+
++ """Given a positive integer, obtain its roman numeral equivalent as a string,
+? ^^^
+
+-     and return it in lowercase.
+? ----
+
++ and return it in lowercase.
+-     Restrictions: 1 <= num <= 1000
+? ----
+
++ Restrictions: 1 <= num <= 1000
+- 
+-     Examples:
+? ----
+
++ Examples:
+-     >>> int_to_mini_roman(19)
+? ----
+
++ >>> int_to_mini_roman(19)
+-     "xix"
++ "xix"
+-     >>> int_to_mini_roman(152)
+? ----
+
++ >>> int_to_mini_roman(152)
+-     "clii"
+? ----
+
++ "clii"
+-     >>> int_to_mini_roman(426)
+? ----
+
++ >>> int_to_mini_roman(426)
++ "cdxxvi""""
+-     "cdxxvi"
+-     """
+  function int_to_mini_roman(number::Int64)::String 

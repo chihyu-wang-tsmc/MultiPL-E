@@ -1,0 +1,21 @@
+  #lang racket
+  
+  ;; Given a list of integers, sort the integers that are between 1 and 9 inclusive,
+  ;; reverse the resulting list, and then replace each digit by its corresponding name from
+  ;; "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine".
+  ;; For example:
+  ;; >>> (by_length (list 2 1 1 4 5 8 2 3))
+  ;; (list "Eight" "Five" "Four" "Three" "Two" "Two" "One" "One")
+- ;; If the list is empty, return an empty list:
++ ;;   If the list is empty, return an empty list:
+?   ++
+
+  ;; >>> (by_length (list ))
+  ;; (list )
+- ;; If the list has any strange number ignore it:
++ ;;   If the list has any strange number ignore it:
+?   ++
+
+  ;; >>> (by_length (list 1 -1 55))
+  ;; (list "One")
+  (define (by_length arr)

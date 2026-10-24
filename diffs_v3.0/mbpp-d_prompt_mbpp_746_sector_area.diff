@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return null if the angle is larger than 360 degrees.
+- 	
+  */
+  Nullable!(float) sector_area(long r, long a) 

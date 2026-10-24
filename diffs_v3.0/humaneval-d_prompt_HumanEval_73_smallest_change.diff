@@ -1,0 +1,43 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     Given an array arr of integers, find the minimum number of elements that
+? ----
+
++ Given an array arr of integers, find the minimum number of elements that
+-     need to be changed to make the array palindromic. A palindromic array is an array that
+? ----
+
++ need to be changed to make the array palindromic. A palindromic array is an array that
+-     is read the same backwards and forwards. In one change, you can change one element to any other element.
+? ----
+
++ is read the same backwards and forwards. In one change, you can change one element to any other element.
+- 
+-     For example:
+? ----
+
++ For example:
+-     >>> smallest_change([1L, 2L, 3L, 5L, 4L, 7L, 9L, 6L])
+? ----
+
++ >>> smallest_change([1L, 2L, 3L, 5L, 4L, 7L, 9L, 6L])
+-     4L
++ 4L
+-     >>> smallest_change([1L, 2L, 3L, 4L, 3L, 2L, 2L])
+? ----
+
++ >>> smallest_change([1L, 2L, 3L, 4L, 3L, 2L, 2L])
+-     1L
++ 1L
+-     >>> smallest_change([1L, 2L, 3L, 2L, 1L])
+? ----
+
++ >>> smallest_change([1L, 2L, 3L, 2L, 1L])
++ 0L
+-     0L
+-     
+  */
+  long smallest_change(long[] arr) 

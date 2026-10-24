@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find common first element in given vector of vectors.
++ """	Write a function to find common first element in given vector of vectors."""
+? +++	                                                                         +++
+
+- 	"""
+  function group_tuples(Input::Vector{Vector{String}})::Vector{Vector{String}} 

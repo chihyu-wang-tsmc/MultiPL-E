@@ -1,0 +1,28 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+   For a given array of integers, return a tuple consisting of a sum and a product of all the integers in an array.
+-     Empty sum should be equal to 0 and empty product should be equal to 1.
+? ----
+
++ Empty sum should be equal to 0 and empty product should be equal to 1.
+-     >>> sum_product([])
+? ----
+
++ >>> sum_product([])
+-     tuple(0L, 1L)
+? ----
+
++ tuple(0L, 1L)
+-     >>> sum_product([1L, 2L, 3L, 4L])
+? ----
+
++ >>> sum_product([1L, 2L, 3L, 4L])
+-     tuple(10L, 24L)
+? ----
+
++ tuple(10L, 24L)
+-     
+  */
+  Tuple!(long, long) sum_product(long[] numbers) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find whether all the given arrays have equal length or not.
+- 	
+  */
+  bool get_equal(long[][] Input) 

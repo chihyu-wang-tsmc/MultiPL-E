@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to maximize the given two arrays.
+- 	
+  */
+  long[][] maximize_elements(long[][] test_tup1, long[][] test_tup2) 

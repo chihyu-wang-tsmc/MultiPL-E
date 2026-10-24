@@ -1,0 +1,35 @@
+- import std.typecons;
+  import std.math;
+  /*
+   Implement the function f that takes n as a parameter,
+-     and returns an array of size n, such that the value of the element at index i is the factorial of i if i is even
+? ----
+
++ and returns an array of size n, such that the value of the element at index i is the factorial of i if i is even
+-     or the sum of numbers from 1 to i otherwise.
+? ----
+
++ or the sum of numbers from 1 to i otherwise.
+-     i starts from 1.
+? ----
+
++ i starts from 1.
+-     the factorial of i is the multiplication of the numbers from 1 to i (1 * 2 * ... * i).
+? ----
+
++ the factorial of i is the multiplication of the numbers from 1 to i (1 * 2 * ... * i).
+-     Example:
+? ----
+
++ Example:
+-     >>> f(5L)
+? ----
+
++ >>> f(5L)
+-     [1L, 2L, 6L, 24L, 15L]
+? ----
+
++ [1L, 2L, 6L, 24L, 15L]
+-     
+  */
+  long[] f(long n) 

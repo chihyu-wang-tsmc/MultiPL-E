@@ -1,0 +1,7 @@
+- """
+- 	Write a function to compute the n-th power of each number in a vector.
++ """	Write a function to compute the n-th power of each number in a vector."""
+? +++	                                                                      +++
+
+- 	"""
+  function nth_nums(nums::Vector{Int64}, n::Int64)::Vector{Int64} 

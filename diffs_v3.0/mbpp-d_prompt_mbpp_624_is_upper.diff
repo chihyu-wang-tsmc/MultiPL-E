@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to convert a given string to uppercase.
+- 	
+  */
+  string is_upper(string string) 

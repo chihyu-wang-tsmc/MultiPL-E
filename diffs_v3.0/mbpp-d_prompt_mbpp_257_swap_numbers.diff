@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function that takes in two numbers and returns an array with the second number and then the first number.
+- 	
+  */
+  long[] swap_numbers(long a, long b) 

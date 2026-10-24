@@ -1,0 +1,44 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     You are given an array of integers.
+? ----
+
++ You are given an array of integers.
+-     Write a function next_smallest() that returns the 2nd smallest element of the array.
+? ----
+
++ Write a function next_smallest() that returns the 2nd smallest element of the array.
+-     Return null if there is no such element.
+? ----
+
++ Return null if there is no such element.
+-     >>> next_smallest([1L, 2L, 3L, 4L, 5L])
+? ----
+
++ >>> next_smallest([1L, 2L, 3L, 4L, 5L])
+-     2L
++ 2L
+-     >>> next_smallest([5L, 1L, 4L, 3L, 2L])
+? ----
+
++ >>> next_smallest([5L, 1L, 4L, 3L, 2L])
+-     2L
++ 2L
+-     >>> next_smallest([])
+? ----
+
++ >>> next_smallest([])
+-     None
++ None
+-     >>> next_smallest([1L, 1L])
+? ----
+
++ >>> next_smallest([1L, 1L])
++ None
+-     None
+-     
+  */
+  Nullable!(long) next_smallest(long[] lst) 

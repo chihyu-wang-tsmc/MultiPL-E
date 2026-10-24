@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/dthon-exercises/re/dthon-re-exercise-3.php
+- 	
+  */
+  bool text_match_zero_one(string text) 

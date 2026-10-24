@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the last position of an element in a sorted array.
+- 	
+  */
+  long last(long[] arr, long x) 

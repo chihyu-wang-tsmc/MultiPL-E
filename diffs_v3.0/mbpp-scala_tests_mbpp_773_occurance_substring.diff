@@ -1,0 +1,18 @@
+      }
+      def main(args: Array[String]) = {
+-     assert(occuranceSubstring(("python programming, python language"), ("python")).equals(("python", 0l, 6l)));
++     assert(occuranceSubstring(("python programming, python language"), ("python")).equals(Some(("python", 0l, 6l))));
+?                                                                                           +++++                    +
+
+-     assert(occuranceSubstring(("python programming,programming language"), ("programming")).equals(("programming", 7l, 18l)));
++     assert(occuranceSubstring(("python programming,programming language"), ("programming")).equals(Some(("programming", 7l, 18l))));
+?                                                                                                    +++++                          +
+
+-     assert(occuranceSubstring(("python programming,programming language"), ("language")).equals(("language", 31l, 39l)));
++     assert(occuranceSubstring(("python programming,programming language"), ("language")).equals(Some(("language", 31l, 39l))));
+?                                                                                                 +++++                        +
+
+      assert(occuranceSubstring(("c++ programming, c++ language"), ("python")).equals(None));
+      }
+  
+  }

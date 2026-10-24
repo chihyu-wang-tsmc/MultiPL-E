@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number.
++ """	Write a jlthon function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number."""
+? +++	                                                                                                                                            +++
+
+- 	"""
+  function count_Primes_nums(n::Int64)::Int64 

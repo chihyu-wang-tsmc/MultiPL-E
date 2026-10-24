@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the n'th star number.
+- 	
+  */
+  long find_star_num(long n) 

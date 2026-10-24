@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to merge three dictionaries into a single associative array.
+- 	
+  */
+  Nullable!(string[string]) merge_dictionaries_three(Nullable!(string[string]) dict1, Nullable!(string[string]) dict2, Nullable!(string[string]) dict3) 

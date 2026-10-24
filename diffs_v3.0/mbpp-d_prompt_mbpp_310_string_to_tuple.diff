@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to convert a given string to an array of characters.
+- 	
+  */
+  string[] string_to_tuple(string str1) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the sum of non-repeated elements in a given vector.
++ """	Write a jlthon function to find the sum of non-repeated elements in a given vector."""
+? +++	                                                                                   +++
+
+- 	"""
+  function find_sum(arr::Vector{Int64})::Int64 

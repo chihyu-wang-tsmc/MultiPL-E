@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the first adverb and their positions in a given sentence.
++ """	Write a function to find the first adverb and their positions in a given sentence."""
+? +++	                                                                                  +++
+
+- 	"""
+  function find_adverb_position(text::String)::Tuple{Int64, Int64, String} 

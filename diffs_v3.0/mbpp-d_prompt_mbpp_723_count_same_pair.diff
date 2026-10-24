@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	The input is defined as two arrays of the same length. Write a function to count indices where the arrays have the same values.
+- 	
+  */
+  long count_same_pair(long[] nums1, long[] nums2) 

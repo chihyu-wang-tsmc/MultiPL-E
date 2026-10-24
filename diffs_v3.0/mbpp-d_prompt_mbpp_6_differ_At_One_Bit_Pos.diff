@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to check whether the two numbers differ at one bit position only or not.
+- 	
+  */
+  bool differ_At_One_Bit_Pos(long a, long b) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check if all the elements in tuple have same data type or not.
++ """	Write a function to check if all the elements in tuple have same data type or not."""
+? +++	                                                                                  +++
+
+- 	"""
+  function check_type(test_tuple::Any)::Bool 

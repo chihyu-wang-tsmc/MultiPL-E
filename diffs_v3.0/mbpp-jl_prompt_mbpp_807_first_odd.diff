@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the first odd number in a given vector of numbers.
++ """	Write a jlthon function to find the first odd number in a given vector of numbers."""
+? +++	                                                                                  +++
+
+- 	"""
+  function first_odd(nums::Vector{Int64})::Int64 

@@ -1,0 +1,59 @@
+- """
+-     Write a function that accepts two vectors of strings and returns the vector that has 
+? ^^^^
+
++ """Write a function that accepts two vectors of strings and returns the vector that has 
+? ^^^
+
+-     total number of chars in the all strings of the vector less than the other vector.
+? ----
+
++ total number of chars in the all strings of the vector less than the other vector.
+- 
+-     if the two vectors have the same number of chars, return the first vector.
+? ----
+
++ if the two vectors have the same number of chars, return the first vector.
+- 
+-     Examples
+? ----
+
++ Examples
+-     >>> total_match([], [])
+? ----
+
++ >>> total_match([], [])
+-     []
++ []
+-     >>> total_match(["hi", "admin"], ["hI", "Hi"])
+? ----
+
++ >>> total_match(["hi", "admin"], ["hI", "Hi"])
+-     ["hI", "Hi"]
+? ----
+
++ ["hI", "Hi"]
+-     >>> total_match(["hi", "admin"], ["hi", "hi", "admin", "project"])
+? ----
+
++ >>> total_match(["hi", "admin"], ["hi", "hi", "admin", "project"])
+-     ["hi", "admin"]
+? ----
+
++ ["hi", "admin"]
+-     >>> total_match(["hi", "admin"], ["hI", "hi", "hi"])
+? ----
+
++ >>> total_match(["hi", "admin"], ["hI", "hi", "hi"])
+-     ["hI", "hi", "hi"]
+? ----
+
++ ["hI", "hi", "hi"]
+-     >>> total_match(["4"], ["1", "2", "3", "4", "5"])
+? ----
+
++ >>> total_match(["4"], ["1", "2", "3", "4", "5"])
++ ["4"]"""
+-     ["4"]
+-     """
+  function total_match(lst1::Vector{String}, lst2::Vector{String})::Vector{String} 

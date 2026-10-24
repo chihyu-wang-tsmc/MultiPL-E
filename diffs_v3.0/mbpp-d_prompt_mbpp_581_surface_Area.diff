@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the surface area of a square dramid with a given base edge and height.
+- 	
+  */
+  long surface_Area(long b, long s) 

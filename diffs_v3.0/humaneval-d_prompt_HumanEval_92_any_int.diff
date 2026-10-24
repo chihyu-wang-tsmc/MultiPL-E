@@ -1,0 +1,55 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     Create a function that takes 3 numbers.
+? ----
+
++ Create a function that takes 3 numbers.
+-     Returns true if one of the numbers is equal to the sum of the other two, and all numbers are integers.
+? ----
+
++ Returns true if one of the numbers is equal to the sum of the other two, and all numbers are integers.
+-     Returns false in any other cases.
+? ----
+
++ Returns false in any other cases.
+-     
+-     Examples
+? ----
+
++ Examples
+-     >>> any_int(5L, 2L, 7L)
+? ----
+
++ >>> any_int(5L, 2L, 7L)
++ true
+-     true
+-     
+-     >>> any_int(3L, 2L, 2L)
+? ----
+
++ >>> any_int(3L, 2L, 2L)
++ false
+-     false
+- 
+-     >>> any_int(3L, -2L, 1L)
+? ----
+
++ >>> any_int(3L, -2L, 1L)
++ true
+-     true
+-     
+-     >>> any_int(3.6, -2.2, 2L)
+? ----
+
++ >>> any_int(3.6, -2.2, 2L)
++ false
+-     false
+-   
+- 
+-     
+-     
+  */
+  bool any_int(float x, float y, float z) 

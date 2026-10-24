@@ -1,0 +1,61 @@
+  """Write a function that accepts a vector of strings as a parameter,
+-     deletes the strings that have odd lengths from it,
+? ----
+
++ deletes the strings that have odd lengths from it,
+-     and returns the resulted vector with a sorted order,
+? ----
+
++ and returns the resulted vector with a sorted order,
+-     The vector is always a vector of strings and never a vector of numbers,
+? ----
+
++ The vector is always a vector of strings and never a vector of numbers,
+-     and it may contain duplicates.
+? ----
+
++ and it may contain duplicates.
+-     The order of the vector should be ascending by length of each word, and you
+? ----
+
++ The order of the vector should be ascending by length of each word, and you
+-     should return the vector sorted by that rule.
+? ----
+
++ should return the vector sorted by that rule.
+-     If two words have the same length, sort the vector alphabetically.
+? ----
+
++ If two words have the same length, sort the vector alphabetically.
+-     The function should return a vector of strings in sorted order.
+? ----
+
++ The function should return a vector of strings in sorted order.
+-     You may assume that all words will have the same length.
+? ----
+
++ You may assume that all words will have the same length.
+-     For example:
+? ----
+
++ For example:
+-     >>> list_sort(["aa", "a", "aaa"])
+? ----
+
++ >>> list_sort(["aa", "a", "aaa"])
+-     ["aa"]
+? ----
+
++ ["aa"]
+-     >>> list_sort(["ab", "a", "aaa", "cd"])
+? ----
+
++ >>> list_sort(["ab", "a", "aaa", "cd"])
+-     ["ab", "cd"]
+? ----
+
++ ["ab", "cd"]"""
+?             +++
+
+-     """
+  function sorted_list_sum(lst::Vector{String})::Vector{String} 

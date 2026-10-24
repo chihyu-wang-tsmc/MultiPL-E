@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find element at a given index after number of rotations.
+- 	
+  */
+  long find_Element(long[] arr, long[][] ranges, long rotations, long index) 

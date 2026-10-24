@@ -1,0 +1,25 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+   Input to this function is a string represented multiple groups for nested parentheses separated by spaces.
+-     For each of the group, output the deepest level of nesting of parentheses.
+? ----
+
++ For each of the group, output the deepest level of nesting of parentheses.
+-     E.g. (()()) has maximum two levels of nesting while ((())) has three.
+? ----
+
++ E.g. (()()) has maximum two levels of nesting while ((())) has three.
+- 
+-     >>> parse_nested_parens("(()()) ((())) () ((())()())")
+? ----
+
++ >>> parse_nested_parens("(()()) ((())) () ((())()())")
+-     [2L, 3L, 1L, 3L]
+? ----
+
++ [2L, 3L, 1L, 3L]
+-     
+  */
+  long[] parse_nested_parens(string paren_string) 

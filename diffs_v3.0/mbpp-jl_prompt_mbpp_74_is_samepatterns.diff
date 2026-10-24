@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check whether it follows the sequence given in the patterns vector.
++ """	Write a function to check whether it follows the sequence given in the patterns vector."""
+? +++	                                                                                       +++
+
+- 	"""
+  function is_samepatterns(colors::Vector{String}, patterns::Vector{String})::Bool 

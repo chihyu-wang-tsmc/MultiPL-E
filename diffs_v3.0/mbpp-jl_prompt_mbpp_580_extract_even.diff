@@ -1,0 +1,7 @@
+- """
+- 	Write a function to remove uneven elements in the nested mixed tuple.
++ """	Write a function to remove uneven elements in the nested mixed tuple."""
+? +++	                                                                     +++
+
+- 	"""
+  function extract_even(test_tuple::Tuple{Int64, Int64, Tuple{Int64, Int64, Tuple{Int64, Int64}}, Int64, Int64})::Any 

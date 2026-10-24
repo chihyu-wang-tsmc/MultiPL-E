@@ -1,0 +1,46 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     You are given a non-empty array of positive integers. Return the greatest integer that is greater than 
+? ----
+
++ You are given a non-empty array of positive integers. Return the greatest integer that is greater than 
+-     zero, and has a frequency greater than or equal to the value of the integer itself. 
+? ----
+
++ zero, and has a frequency greater than or equal to the value of the integer itself. 
+-     The frequency of an integer is the number of times it appears in the array.
+? ----
+
++ The frequency of an integer is the number of times it appears in the array.
+-     If no such a value exist, return -1.
+? ----
+
++ If no such a value exist, return -1.
+-     Examples:
+? ----
+
++ Examples:
+-     >>> search([4L, 1L, 2L, 2L, 3L, 1L])
+? ----
+
++ >>> search([4L, 1L, 2L, 2L, 3L, 1L])
+-     2L
++ 2L
+-     >>> search([1L, 2L, 2L, 3L, 3L, 3L, 4L, 4L, 4L])
+? ----
+
++ >>> search([1L, 2L, 2L, 3L, 3L, 3L, 4L, 4L, 4L])
+-     3L
++ 3L
+-     >>> search([5L, 5L, 4L, 4L, 4L])
+? ----
+
++ >>> search([5L, 5L, 4L, 4L, 4L])
++ -1L
+-     -1L
+-     
+  */
+  long search(long[] lst) 

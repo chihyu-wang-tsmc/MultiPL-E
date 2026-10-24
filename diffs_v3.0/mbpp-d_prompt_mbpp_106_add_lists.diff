@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to append the given array to the given tuples.
+- 	
+  */
+  Tuple!(long, long, long, long, long) add_lists(long[] test_list, Tuple!(long, long) test_tup) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to caluclate the area of a tetrahedron.
++ """	Write a function to caluclate the area of a tetrahedron."""
+? +++	                                                        +++
+
+- 	"""
+  function area_tetrahedron(side::Int64)::Float64 

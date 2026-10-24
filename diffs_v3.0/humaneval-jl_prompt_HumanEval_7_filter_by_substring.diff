@@ -1,0 +1,19 @@
+  """ Filter an input vector of strings only for ones that contain given substring
+-     >>> filter_by_substring([], "a")
+? ----
+
++ >>> filter_by_substring([], "a")
+-     []
++ []
+-     >>> filter_by_substring(["abc", "bacd", "cde", "array"], "a")
+? ----
+
++ >>> filter_by_substring(["abc", "bacd", "cde", "array"], "a")
+-     ["abc", "bacd", "array"]
+? ----
+
++ ["abc", "bacd", "array"]"""
+?                         +++
+
+-     """
+  function filter_by_substring(strings::Vector{String}, substring::String)::Vector{String} 

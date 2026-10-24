@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find squares of individual elements in a vector.
++ """	Write a function to find squares of individual elements in a vector."""
+? +++	                                                                    +++
+
+- 	"""
+  function square_nums(nums::Vector{Int64})::Vector{Int64} 

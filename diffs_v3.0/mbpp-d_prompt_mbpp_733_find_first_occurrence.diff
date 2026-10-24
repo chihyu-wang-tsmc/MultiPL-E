@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the index of the first occurrence of a given number in a sorted array.
+- 	
+  */
+  long find_first_occurrence(long[] A, long x) 

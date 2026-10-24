@@ -1,0 +1,14 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Given length of a side and high return area for a triangle.
+-     >>> triangle_area(5L, 3L)
+? ----
+
++ >>> triangle_area(5L, 3L)
++ 7.5
+-     7.5
+-     
+  */
+  float triangle_area(long a, long h) 

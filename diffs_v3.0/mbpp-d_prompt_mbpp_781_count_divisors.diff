@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to check whether the count of divisors is even. https://www.w3resource.com/dthon-exercises/basic/dthon-basic-1-exercise-24.php
+- 	
+  */
+  bool count_divisors(long n) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check whether an element exists within a tuple.
++ """	Write a function to check whether an element exists within a tuple."""
+? +++	                                                                   +++
+
+- 	"""
+  function check_tuplex(tuplex::Vector{Union{String, Int64}}, tuple1::Any)::Bool 

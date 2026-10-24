@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to extract the elementwise and tuples from the given two tuples.
+- 	
+  */
+  Tuple!(long, long, long, long) and_tuples(Tuple!(long, long, long, long) test_tup1, Tuple!(long, long, long, long) test_tup2) 

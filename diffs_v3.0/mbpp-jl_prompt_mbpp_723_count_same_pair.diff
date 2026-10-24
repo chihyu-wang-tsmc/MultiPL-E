@@ -1,0 +1,7 @@
+- """
+- 	The input is defined as two vectors of the same length. Write a function to count indices where the vectors have the same values.
++ """	The input is defined as two vectors of the same length. Write a function to count indices where the vectors have the same values."""
+? +++	                                                                                                                                 +++
+
+- 	"""
+  function count_same_pair(nums1::Vector{Int64}, nums2::Vector{Int64})::Int64 

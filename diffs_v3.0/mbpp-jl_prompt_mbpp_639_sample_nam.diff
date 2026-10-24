@@ -1,0 +1,7 @@
+- """
+- 	Write a function to sum the length of the names of a given vector of names after removing the names that start with a lowercase letter.
++ """	Write a function to sum the length of the names of a given vector of names after removing the names that start with a lowercase letter."""
+? +++	                                                                                                                                       +++
+
+- 	"""
+  function sample_nam(sample_names::Vector{String})::Int64 

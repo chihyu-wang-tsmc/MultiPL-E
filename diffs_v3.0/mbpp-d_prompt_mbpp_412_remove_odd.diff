@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to remove odd numbers from a given array.
+- 	
+  */
+  long[] remove_odd(long[] l) 

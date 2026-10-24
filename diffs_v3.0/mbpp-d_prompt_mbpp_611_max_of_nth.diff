@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function which given a matrix represented as an array of arrays returns the max of the n'th column.
+- 	
+  */
+  long max_of_nth(long[][] test_list, long N) 

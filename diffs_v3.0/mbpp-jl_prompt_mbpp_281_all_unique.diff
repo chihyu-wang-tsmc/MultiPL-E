@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to check if the elements of a given vector are unique or not.
++ """	Write a jlthon function to check if the elements of a given vector are unique or not."""
+? +++	                                                                                     +++
+
+- 	"""
+  function all_unique(test_list::Vector{Int64})::Bool 

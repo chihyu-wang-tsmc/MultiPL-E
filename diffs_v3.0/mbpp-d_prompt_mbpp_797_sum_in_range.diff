@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the sum of all odd natural numbers within the range l and r.
+- 	
+  */
+  long sum_in_range(long l, long r) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to sum all amicable numbers from 1 to a specified number.
+- 	
+  */
+  long amicable_numbers_sum(long limit) 

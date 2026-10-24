@@ -1,0 +1,7 @@
+- """
+- 	Write a function to trim each vector by k in the given vectors.
++ """	Write a function to trim each vector by k in the given vectors."""
+? +++	                                                               +++
+
+- 	"""
+  function trim_tuple(test_list::Vector{Vector{Int64}}, K::Int64)::Vector{Vector{Int64}} 

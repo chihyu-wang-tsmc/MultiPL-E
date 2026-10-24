@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the intersection of two vectors.
++ """	Write a function to find the intersection of two vectors."""
+? +++	                                                         +++
+
+- 	"""
+  function intersection_array(array_nums1::Vector{Int64}, array_nums2::Vector{Int64})::Vector{Int64} 

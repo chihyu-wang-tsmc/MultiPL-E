@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the lateral surface area of a cone given radius r and the height h.
+- 	
+  */
+  float lateralsurface_cone(long r, long h) 

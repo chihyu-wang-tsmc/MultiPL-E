@@ -1,0 +1,7 @@
+- """
+- 	Write a function to move all the numbers to the end of the given string.
++ """	Write a function to move all the numbers to the end of the given string."""
+? +++	                                                                        +++
+
+- 	"""
+  function move_num(test_str::String)::String 

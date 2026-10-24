@@ -1,0 +1,15 @@
+  """ Concatenate vector of strings into a single string
+-     >>> concatenate([])
+? ----
+
++ >>> concatenate([])
+-     ""
++ ""
+-     >>> concatenate(["a", "b", "c"])
+? ----
+
++ >>> concatenate(["a", "b", "c"])
++ "abc""""
+-     "abc"
+-     """
+  function concatenate(strings::Vector{String})::String 

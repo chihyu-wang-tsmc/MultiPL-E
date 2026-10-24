@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function that takes in an array and an element and inserts the element before each element in the array, and returns the resulting array.
+- 	
+  */
+  string[] insert_element(string[] list, string element) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to calculate the sum of the negative numbers of a given vector of numbers.
++ """	Write a function to calculate the sum of the negative numbers of a given vector of numbers."""
+? +++	                                                                                           +++
+
+- 	"""
+  function sum_negativenum(nums::Vector{Int64})::Int64 

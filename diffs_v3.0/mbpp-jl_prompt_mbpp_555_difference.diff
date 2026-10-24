@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the difference between the sum of cubes of the first n natural numbers and the sum of the first n natural numbers.
++ """	Write a jlthon function to find the difference between the sum of cubes of the first n natural numbers and the sum of the first n natural numbers."""
+? +++	                                                                                                                                                  +++
+
+- 	"""
+  function difference(n::Int64)::Int64 

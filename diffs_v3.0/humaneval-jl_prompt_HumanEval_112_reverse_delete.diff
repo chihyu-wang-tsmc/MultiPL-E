@@ -1,0 +1,49 @@
+  """Task
+-     We are given two strings s and c, you have to deleted all the characters in s that are equal to any character in c
+? ----
+
++ We are given two strings s and c, you have to deleted all the characters in s that are equal to any character in c
+-     then check if the result string is palindrome.
+? ----
+
++ then check if the result string is palindrome.
+-     A string is called palindrome if it reads the same backward as forward.
+? ----
+
++ A string is called palindrome if it reads the same backward as forward.
+-     You should return a tuple containing the result string and true/false for the check.
+? ----
+
++ You should return a tuple containing the result string and true/false for the check.
+-     Example
+? ----
+
++ Example
+-     >>> reverse_delete("abcde", "ae")
+? ----
+
++ >>> reverse_delete("abcde", "ae")
+-     ("bcd", false)
+? ----
+
++ ("bcd", false)
+-     >>> reverse_delete("abcdef", "b")
+? ----
+
++ >>> reverse_delete("abcdef", "b")
+-     ("acdef", false)
+? ----
+
++ ("acdef", false)
+-     >>> reverse_delete("abcdedcba", "ab")
+? ----
+
++ >>> reverse_delete("abcdedcba", "ab")
+-     ("cdedc", true)
+? ----
+
++ ("cdedc", true)"""
+?                +++
+
+-     """
+  function reverse_delete(s::String, c::String)::Tuple{String, Bool} 

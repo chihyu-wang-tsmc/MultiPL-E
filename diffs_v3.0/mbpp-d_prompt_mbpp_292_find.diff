@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find quotient of two numbers (rounded down to the nearest integer).
+- 	
+  */
+  long find(long n, long m) 

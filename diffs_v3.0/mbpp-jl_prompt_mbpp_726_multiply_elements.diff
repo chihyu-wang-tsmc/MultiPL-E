@@ -1,0 +1,7 @@
+- """
+- 	Write a function that takes as input a vector of numbers (t_1,...,t_{N+1}) and returns a vector of length N where the i-th element of the tuple is equal to t_i * t_{i+1}.
++ """	Write a function that takes as input a vector of numbers (t_1,...,t_{N+1}) and returns a vector of length N where the i-th element of the tuple is equal to t_i * t_{i+1}."""
+? +++	                                                                                                                                                                          +++
+
+- 	"""
+  function multiply_elements(test_tup::Vector{Int64})::Vector{Any} 

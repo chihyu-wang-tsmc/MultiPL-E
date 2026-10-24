@@ -1,0 +1,8 @@
+  import std.math;
++ import std.typecons;
+  /*
+- 
+  	Write a function to check whether a specified array is sorted or not.
+- 	
+  */
+  bool issort_list(long[] list1) 

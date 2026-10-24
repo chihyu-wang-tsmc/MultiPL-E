@@ -1,0 +1,51 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     triples_sum_to_zero takes an array of integers as an input.
+? ----
+
++ triples_sum_to_zero takes an array of integers as an input.
+-     it returns true if there are three distinct elements in the array that
+? ----
+
++ it returns true if there are three distinct elements in the array that
+-     sum to zero, and false otherwise.
+? ----
+
++ sum to zero, and false otherwise.
+- 
+-     >>> triples_sum_to_zero([1L, 3L, 5L, 0L])
+? ----
+
++ >>> triples_sum_to_zero([1L, 3L, 5L, 0L])
+-     false
++ false
+-     >>> triples_sum_to_zero([1L, 3L, -2L, 1L])
+? ----
+
++ >>> triples_sum_to_zero([1L, 3L, -2L, 1L])
+-     true
++ true
+-     >>> triples_sum_to_zero([1L, 2L, 3L, 7L])
+? ----
+
++ >>> triples_sum_to_zero([1L, 2L, 3L, 7L])
+-     false
++ false
+-     >>> triples_sum_to_zero([2L, 4L, -5L, 3L, 9L, 7L])
+? ----
+
++ >>> triples_sum_to_zero([2L, 4L, -5L, 3L, 9L, 7L])
+-     true
++ true
+-     >>> triples_sum_to_zero([1L])
+? ----
+
++ >>> triples_sum_to_zero([1L])
++ false
+-     false
+-     
+  */
+  bool triples_sum_to_zero(long[] l) 

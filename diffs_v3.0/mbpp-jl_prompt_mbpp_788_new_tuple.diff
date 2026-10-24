@@ -1,0 +1,7 @@
+- """
+- 	Write a function to create a new tuple from the given string and vector.
++ """	Write a function to create a new tuple from the given string and vector."""
+? +++	                                                                        +++
+
+- 	"""
+  function new_tuple(test_list::Vector{String}, test_str::String)::Tuple{String, String, String} 

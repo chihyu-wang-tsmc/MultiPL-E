@@ -1,0 +1,14 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+   For a given number n, find the largest number that divides n evenly, smaller than n
+-     >>> largest_divisor(15L)
+? ----
+
++ >>> largest_divisor(15L)
++ 5L
+-     5L
+-     
+  */
+  long largest_divisor(long n) 

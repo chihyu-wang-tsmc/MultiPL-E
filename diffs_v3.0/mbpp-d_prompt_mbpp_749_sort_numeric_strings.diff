@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to sort a given array of strings of numbers numerically. https://www.geeksforgeeks.org/dthon-sort-numeric-strings-in-a-array/
+- 	
+  */
+  long[] sort_numeric_strings(string[] nums_str) 

@@ -1,0 +1,21 @@
+  """Return true is vector elements are monotonically increasing or decreasing.
+-     >>> monotonic([1, 2, 4, 20])
+? ----
+
++ >>> monotonic([1, 2, 4, 20])
+-     true
++ true
+-     >>> monotonic([1, 20, 4, 10])
+? ----
+
++ >>> monotonic([1, 20, 4, 10])
+-     false
++ false
+-     >>> monotonic([4, 1, 0, -10])
+? ----
+
++ >>> monotonic([4, 1, 0, -10])
++ true"""
+-     true
+-     """
+  function monotonic(l::Vector{Int64})::Bool 

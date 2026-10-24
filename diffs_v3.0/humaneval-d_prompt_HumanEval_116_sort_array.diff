@@ -1,0 +1,49 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     In this Kata, you have to sort an array of non-negative integers according to
+? ----
+
++ In this Kata, you have to sort an array of non-negative integers according to
+-     number of ones in their binary representation in ascending order.
+? ----
+
++ number of ones in their binary representation in ascending order.
+-     For similar number of ones, sort based on decimal value.
+? ----
+
++ For similar number of ones, sort based on decimal value.
+- 
+-     It must be implemented like this:
+? ----
+
++ It must be implemented like this:
+-     >>> sort_array([1L, 5L, 2L, 3L, 4L])
+? ----
+
++ >>> sort_array([1L, 5L, 2L, 3L, 4L])
+-     [1L, 2L, 3L, 4L, 5L]
+? ----
+
++ [1L, 2L, 3L, 4L, 5L]
+-     >>> sort_array([-2L, -3L, -4L, -5L, -6L])
+? ----
+
++ >>> sort_array([-2L, -3L, -4L, -5L, -6L])
+-     [-6L, -5L, -4L, -3L, -2L]
+? ----
+
++ [-6L, -5L, -4L, -3L, -2L]
+-     >>> sort_array([1L, 0L, 2L, 3L, 4L])
+? ----
+
++ >>> sort_array([1L, 0L, 2L, 3L, 4L])
+-     [0L, 1L, 2L, 3L, 4L]
+? ----
+
++ [0L, 1L, 2L, 3L, 4L]
+-     
+  */
+  long[] sort_array(long[] arr) 

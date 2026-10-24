@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find frequency of each element in a flattened array of arrays, returned in an associative array.
+- 	
+  */
+  Nullable!(long[long]) frequency_lists(long[][] list1) 

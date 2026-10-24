@@ -1,0 +1,37 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     You'll be given a string of words, and your task is to count the number
+? ----
+
++ You'll be given a string of words, and your task is to count the number
+-     of boredoms. A boredom is a sentence that starts with the word "I".
+? ----
+
++ of boredoms. A boredom is a sentence that starts with the word "I".
+-     Sentences are delimited by '.', '?' or '!'.
+? ----
+
++ Sentences are delimited by '.', '?' or '!'.
+-    
+-     For example:
+? ----
+
++ For example:
+-     >>> is_bored("Hello world")
+? ----
+
++ >>> is_bored("Hello world")
+-     0L
++ 0L
+-     >>> is_bored("The sky is blue. The sun is shining. I love this weather")
+? ----
+
++ >>> is_bored("The sky is blue. The sun is shining. I love this weather")
++ 1L
+-     1L
+-     
+  */
+  long is_bored(string S) 

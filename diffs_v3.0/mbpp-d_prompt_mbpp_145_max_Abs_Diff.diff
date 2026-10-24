@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the maximum difference between any two elements in a given array.
+- 	
+  */
+  long max_Abs_Diff(long[] arr) 

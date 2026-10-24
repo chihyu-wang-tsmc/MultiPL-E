@@ -1,0 +1,7 @@
+- """
+- 	Write a function to replace all spaces in the given string with '%20'.
++ """	Write a function to replace all spaces in the given string with '%20'."""
+? +++	                                                                      +++
+
+- 	"""
+  function replace_spaces(string::String)::String 

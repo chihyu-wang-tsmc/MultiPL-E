@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find minimum of three numbers.
++ """	Write a function to find minimum of three numbers."""
+? +++	                                                  +++
+
+- 	"""
+  function min_of_three(a::Int64, b::Int64, c::Int64)::Int64 

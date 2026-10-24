@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to trim each array by k in the given arrays.
+- 	
+  */
+  long[][] trim_tuple(long[][] test_list, long K) 

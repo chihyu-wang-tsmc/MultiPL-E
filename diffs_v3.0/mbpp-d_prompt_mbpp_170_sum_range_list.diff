@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the sum of numbers in an array within a range specified by two indices.
+- 	
+  */
+  long sum_range_list(long[] list1, long m, long n) 

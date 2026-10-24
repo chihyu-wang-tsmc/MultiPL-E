@@ -1,0 +1,14 @@
+      }
+      def main(args: Array[String]) = {
+-     assert(findSolution((2l), (3l), (7l)).equals((2l, 1l)));
++     assert(findSolution((2l), (3l), (7l)).equals(Some((2l, 1l))));
+?                                                  +++++          +
+
+      assert(findSolution((4l), (2l), (7l)).equals(None));
+-     assert(findSolution((1l), (13l), (17l)).equals((4l, 1l)));
++     assert(findSolution((1l), (13l), (17l)).equals(Some((4l, 1l))));
+?                                                    +++++          +
+
+      }
+  
+  }

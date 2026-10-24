@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check if the given number is woodball or not.
++ """	Write a function to check if the given number is woodball or not."""
+? +++	                                                                 +++
+
+- 	"""
+  function is_woodall(x::Int64)::Bool 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to convert all possible convertible elements in an array of arrays to floats.
+- 	
+  */
+  Tuple!(float, float)[] list_to_float(Tuple!(string, string)[] test_list) 

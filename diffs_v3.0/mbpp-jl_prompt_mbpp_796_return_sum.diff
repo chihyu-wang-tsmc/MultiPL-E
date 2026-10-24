@@ -1,0 +1,7 @@
+- """
+- 	Write function to find the sum of all items in the given dictionary.
++ """	Write function to find the sum of all items in the given dictionary."""
+? +++	                                                                    +++
+
+- 	"""
+  function return_sum(dict::Dict{String, Int64}>)::Int64 

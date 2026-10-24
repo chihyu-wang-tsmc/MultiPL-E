@@ -1,0 +1,7 @@
+- """
+- 	Write a function to count the number of subvectors containing a particular element.
++ """	Write a function to count the number of subvectors containing a particular element."""
+? +++	                                                                                   +++
+
+- 	"""
+  function count_element_in_list(list1::Vector{Vector{Any}}, x::Any)::Int64 

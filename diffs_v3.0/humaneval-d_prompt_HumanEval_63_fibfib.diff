@@ -1,0 +1,45 @@
+  import std.math;
++ import std.typecons;
+  /*
+  The FibFib number sequence is a sequence similar to the Fibbonacci sequnece that's defined as follows:
+-     fibfib(0) == 0
+? ----
+
++ fibfib(0) == 0
+-     fibfib(1) == 0
+? ----
+
++ fibfib(1) == 0
+-     fibfib(2) == 1
+? ----
+
++ fibfib(2) == 1
+-     fibfib(n) == fibfib(n-1) + fibfib(n-2) + fibfib(n-3).
+? ----
+
++ fibfib(n) == fibfib(n-1) + fibfib(n-2) + fibfib(n-3).
+-     Please write a function to efficiently compute the n-th element of the fibfib number sequence.
+? ----
+
++ Please write a function to efficiently compute the n-th element of the fibfib number sequence.
+-     >>> fibfib(1L)
+? ----
+
++ >>> fibfib(1L)
+-     0L
++ 0L
+-     >>> fibfib(5L)
+? ----
+
++ >>> fibfib(5L)
+-     4L
++ 4L
+-     >>> fibfib(8L)
+? ----
+
++ >>> fibfib(8L)
++ 24L
+-     24L
+-     
+  */
+  long fibfib(long n) 

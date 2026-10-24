@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the occurrence and position of the substrings within a string. Return nothing if there is no match.
++ """	Write a function to find the occurrence and position of the substrings within a string. Return nothing if there is no match."""
+? +++	                                                                                                                            +++
+
+- 	"""
+  function occurance_substring(text::String, pattern::String)::Union{Tuple{String, Int64, Int64}, Nothing} 

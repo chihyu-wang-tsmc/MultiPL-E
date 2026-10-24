@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the item with maximum frequency in a given array.
+- 	
+  */
+  long max_occurrences(long[] nums) 

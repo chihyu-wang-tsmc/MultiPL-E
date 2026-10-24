@@ -1,0 +1,20 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+   Given a string, find out how many distinct characters (regardless of case) does it consist of
+-     >>> count_distinct_characters("xyzXYZ")
+? ----
+
++ >>> count_distinct_characters("xyzXYZ")
+-     3L
++ 3L
+-     >>> count_distinct_characters("Jerry")
+? ----
+
++ >>> count_distinct_characters("Jerry")
++ 4L
+-     4L
+-     
+  */
+  long count_distinct_characters(string string) 

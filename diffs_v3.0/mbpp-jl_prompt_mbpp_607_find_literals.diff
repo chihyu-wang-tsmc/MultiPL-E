@@ -1,0 +1,7 @@
+- """
+- 	Write a function to search a string for a regex pattern. The function should return the matching subtring, a start index and an end index.
++ """	Write a function to search a string for a regex pattern. The function should return the matching subtring, a start index and an end index."""
+? +++	                                                                                                                                          +++
+
+- 	"""
+  function find_literals(text::String, pattern::String)::Tuple{String, Int64, Int64} 

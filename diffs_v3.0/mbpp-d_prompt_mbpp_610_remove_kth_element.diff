@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function which takes an array and returns an array with the same elements, but the k'th element removed.
+- 	
+  */
+  long[] remove_kth_element(long[] list1, long L) 

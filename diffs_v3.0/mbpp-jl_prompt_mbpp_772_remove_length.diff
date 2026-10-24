@@ -1,0 +1,7 @@
+- """
+- 	Write a function to remove all the words with k length in the given string.
++ """	Write a function to remove all the words with k length in the given string."""
+? +++	                                                                           +++
+
+- 	"""
+  function remove_length(test_str::String, K::Int64)::String 

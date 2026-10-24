@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the sum of xor of all pairs of numbers in the given vector.
++ """	Write a jlthon function to find the sum of xor of all pairs of numbers in the given vector."""
+? +++	                                                                                           +++
+
+- 	"""
+  function pair_xor_Sum(arr::Vector{Int64}, n::Int64)::Int64 

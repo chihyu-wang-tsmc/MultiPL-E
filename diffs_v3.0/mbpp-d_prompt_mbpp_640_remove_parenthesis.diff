@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to remove the parenthesis and what is inbetween them from a string.
+- 	
+  */
+  string remove_parenthesis(string[] items) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function that checks if a strings contains 'z', except at the start and end of the word.
++ """	Write a function that checks if a strings contains 'z', except at the start and end of the word."""
+? +++	                                                                                                +++
+
+- 	"""
+  function text_match_wordz_middle(text::String)::Bool 

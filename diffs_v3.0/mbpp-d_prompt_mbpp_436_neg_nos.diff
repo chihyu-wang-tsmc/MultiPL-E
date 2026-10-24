@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to return the negative numbers in an array.
+- 	
+  */
+  long[] neg_nos(long[] list1) 

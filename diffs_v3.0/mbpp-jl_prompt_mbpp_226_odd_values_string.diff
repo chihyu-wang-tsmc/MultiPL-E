@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to remove the characters which have odd index values of a given string.
++ """	Write a jlthon function to remove the characters which have odd index values of a given string."""
+? +++	                                                                                               +++
+
+- 	"""
+  function odd_values_string(str::String)::String 

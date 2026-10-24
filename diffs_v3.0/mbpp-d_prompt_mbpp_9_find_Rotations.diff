@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the minimum number of rotations (greater than 0) required to get the same string.
+- 	
+  */
+  long find_Rotations(string str) 

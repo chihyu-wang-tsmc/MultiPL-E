@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check if given vector contains no duplicates.
++ """	Write a function to check if given vector contains no duplicates."""
+? +++	                                                                 +++
+
+- 	"""
+  function check_distinct(test_tup::Vector{Int64})::Bool 

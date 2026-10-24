@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to count the number of non-empty substrings of a given string.
+- 	
+  */
+  long number_of_substrings(string str) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find element at a given index after number of rotations.
++ """	Write a jlthon function to find element at a given index after number of rotations."""
+? +++	                                                                                   +++
+
+- 	"""
+  function find_Element(arr::Vector{Int64}, ranges::Vector{Vector{Int64}}, rotations::Int64, index::Int64)::Int64 

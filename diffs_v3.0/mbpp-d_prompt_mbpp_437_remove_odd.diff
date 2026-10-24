@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to remove odd characters in a string.
+- 	
+  */
+  string remove_odd(string str1) 

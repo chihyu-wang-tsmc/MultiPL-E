@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to convert degrees to radians.
+- 	
+  */
+  float radian_degree(long degree) 

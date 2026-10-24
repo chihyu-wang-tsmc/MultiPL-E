@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find smallest number in a vector.
++ """	Write a jlthon function to find smallest number in a vector."""
+? +++	                                                            +++
+
+- 	"""
+  function smallest_num(xs::Vector{Int64})::Int64 

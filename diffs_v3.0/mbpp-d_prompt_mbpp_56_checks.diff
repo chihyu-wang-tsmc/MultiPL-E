@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to check if a given number is one less than twice its reverse.
+- 	
+  */
+  bool checks(long n) 

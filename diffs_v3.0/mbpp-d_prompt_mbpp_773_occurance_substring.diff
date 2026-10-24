@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the occurrence and position of the substrings within a string. Return null if there is no match.
+- 	
+  */
+  Nullable!(Tuple!(string, long, long)) occurance_substring(string text, string pattern) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function which given a matrix represented as a vector of vectors returns the max of the n'th column.
++ """	Write a function which given a matrix represented as a vector of vectors returns the max of the n'th column."""
+? +++	                                                                                                            +++
+
+- 	"""
+  function max_of_nth(test_list::Vector{Vector{Int64}}, N::Int64)::Int64 

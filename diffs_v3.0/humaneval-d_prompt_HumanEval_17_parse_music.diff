@@ -1,0 +1,41 @@
+  import std.math;
++ import std.typecons;
+  /*
+   Input to this function is a string representing musical notes in a special ASCII format.
+-     Your task is to parse this string and return array of integers corresponding to how many beats does each
+? ----
+
++ Your task is to parse this string and return array of integers corresponding to how many beats does each
+-     not last.
+? ----
+
++ not last.
+- 
+-     Here is a legend:
+? ----
+
++ Here is a legend:
+-     'o' - whole note, lasts four beats
+? ----
+
++ 'o' - whole note, lasts four beats
+-     'o|' - half note, lasts two beats
+? ----
+
++ 'o|' - half note, lasts two beats
+-     '.|' - quater note, lasts one beat
+? ----
+
++ '.|' - quater note, lasts one beat
+- 
+-     >>> parse_music("o o| .| o| o| .| .| .| .| o o")
+? ----
+
++ >>> parse_music("o o| .| o| o| .| .| .| .| o o")
+-     [4L, 2L, 1L, 2L, 2L, 1L, 1L, 1L, 1L, 4L, 4L]
+? ----
+
++ [4L, 2L, 1L, 2L, 2L, 1L, 1L, 1L, 1L, 4L, 4L]
+-     
+  */
+  long[] parse_music(string music_string) 

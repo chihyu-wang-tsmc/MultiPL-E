@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the difference between the sum of cubes of the first n natural numbers and the sum of the first n natural numbers.
+- 	
+  */
+  long difference(long n) 

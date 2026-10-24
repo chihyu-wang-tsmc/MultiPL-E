@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the pairwise addition of the neighboring elements of the given tuple.
++ """	Write a function to find the pairwise addition of the neighboring elements of the given tuple."""
+? +++	                                                                                              +++
+
+- 	"""
+  function add_pairwise(test_tup::Tuple{Int64, Int64, Int64, Int64, Int64})::Tuple{Int64, Int64, Int64, Int64} 

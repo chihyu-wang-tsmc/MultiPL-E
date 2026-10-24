@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function that gives loss amount on a sale if the given amount has loss else return 0.
+- 	
+  */
+  long loss_amount(long actual_cost, long sale_amount) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the smallest missing number from a sorted array of natural numbers.
+- 	
+  */
+  long find_First_Missing(long[] array) 

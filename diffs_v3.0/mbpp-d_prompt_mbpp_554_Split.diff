@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function which takes an array of integers and only returns the odd ones.
+- 	
+  */
+  long[] Split(long[] list) 

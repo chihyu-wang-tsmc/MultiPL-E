@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find minimum k records from tuple vector. https://www.geeksforgeeks.org/jlthon-find-minimum-k-records-from-tuple-vector/ - in this case a verbatim cojl of test cases
++ """	Write a function to find minimum k records from tuple vector. https://www.geeksforgeeks.org/jlthon-find-minimum-k-records-from-tuple-vector/ - in this case a verbatim cojl of test cases"""
+? +++	                                                                                                                                                                                         +++
+
+- 	"""
+  function min_k(test_list::Vector{Tuple{String, Int64}}, K::Int64)::Vector{Tuple{String, Int64}} 

@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find sum of products of all possible subvectors of a given vector. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subvectors/
++ """	Write a jlthon function to find sum of products of all possible subvectors of a given vector. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subvectors/"""
+? +++	                                                                                                                                                                       +++
+
+- 	"""
+  function sum_Of_Subarray_Prod(arr::Vector{Int64})::Int64 

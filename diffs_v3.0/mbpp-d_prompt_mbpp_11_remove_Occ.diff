@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to remove first and last occurrence of a given character from the string.
+- 	
+  */
+  string remove_Occ(string s, string ch) 

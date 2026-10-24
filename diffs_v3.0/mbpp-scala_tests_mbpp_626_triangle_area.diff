@@ -1,0 +1,14 @@
+      }
+      def main(args: Array[String]) = {
+      assert(triangleArea((-1l)).equals(None));
+-     assert(triangleArea((0l)).equals(0l));
++     assert(triangleArea((0l)).equals(Some(0l)));
+?                                      +++++    +
+
+-     assert(triangleArea((2l)).equals(4l));
++     assert(triangleArea((2l)).equals(Some(4l)));
+?                                      +++++    +
+
+      }
+  
+  }

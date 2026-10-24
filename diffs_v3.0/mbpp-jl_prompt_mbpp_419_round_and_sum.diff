@@ -1,0 +1,7 @@
+- """
+- 	Write a function to round every number of a given vector of numbers and print the total sum multiplied by the length of the vector.
++ """	Write a function to round every number of a given vector of numbers and print the total sum multiplied by the length of the vector."""
+? +++	                                                                                                                                   +++
+
+- 	"""
+  function round_and_sum(list1::Vector{Union{Float64, Int64}})::Int64 

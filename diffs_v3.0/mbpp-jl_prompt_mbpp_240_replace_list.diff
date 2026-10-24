@@ -1,0 +1,7 @@
+- """
+- 	Write a function that takes in two vectors and replaces the last element of the first vector with the elements of the second vector.
++ """	Write a function that takes in two vectors and replaces the last element of the first vector with the elements of the second vector."""
+? +++	                                                                                                                                    +++
+
+- 	"""
+  function replace_list(list1::Vector{Any}, list2::Vector{Any})::Vector{Any} 

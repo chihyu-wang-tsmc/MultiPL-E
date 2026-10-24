@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function which takes an array of integers and counts the number of possible unordered pairs where both elements are unequal.
+- 	
+  */
+  long count_Pairs(long[] arr, long n) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the first digit of a given number.
++ """	Write a jlthon function to find the first digit of a given number."""
+? +++	                                                                  +++
+
+- 	"""
+  function first_Digit(n::Int64)::Int64 

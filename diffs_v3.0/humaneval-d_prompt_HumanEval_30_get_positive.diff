@@ -1,0 +1,24 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Return only positive numbers in the array.
+-     >>> get_positive([-1L, 2L, -4L, 5L, 6L])
+? ----
+
++ >>> get_positive([-1L, 2L, -4L, 5L, 6L])
+-     [2L, 5L, 6L]
+? ----
+
++ [2L, 5L, 6L]
+-     >>> get_positive([5L, 3L, -5L, 2L, -3L, 3L, 9L, 0L, 123L, 1L, -10L])
+? ----
+
++ >>> get_positive([5L, 3L, -5L, 2L, -3L, 3L, 9L, 0L, 123L, 1L, -10L])
+-     [5L, 3L, 2L, 3L, 9L, 123L, 1L]
+? ----
+
++ [5L, 3L, 2L, 3L, 9L, 123L, 1L]
+-     
+  */
+  long[] get_positive(long[] l) 

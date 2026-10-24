@@ -1,0 +1,7 @@
+- """
+- 	Write a function to remove lowercase substrings from a given string.
++ """	Write a function to remove lowercase substrings from a given string."""
+? +++	                                                                    +++
+
+- 	"""
+  function remove_lowercase(str1::String)::String 

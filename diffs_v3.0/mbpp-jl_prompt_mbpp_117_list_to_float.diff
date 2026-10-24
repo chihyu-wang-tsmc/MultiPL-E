@@ -1,0 +1,7 @@
+- """
+- 	Write a function to convert all possible convertible elements in a vector of vectors to floats.
++ """	Write a function to convert all possible convertible elements in a vector of vectors to floats."""
+? +++	                                                                                               +++
+
+- 	"""
+  function list_to_float(test_list::Vector{Tuple{String, String}})::Vector{Tuple{Float64, Float64}} 

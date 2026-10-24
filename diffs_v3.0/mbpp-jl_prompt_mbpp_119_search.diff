@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the element that appears only once in a sorted vector.
++ """	Write a jlthon function to find the element that appears only once in a sorted vector."""
+? +++	                                                                                      +++
+
+- 	"""
+  function search(arr::Vector{Int64})::Int64 

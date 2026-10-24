@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to join an array of multiple integers into a single integer.
+- 	
+  */
+  long multiple_to_single(long[] L) 

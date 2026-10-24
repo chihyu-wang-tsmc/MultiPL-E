@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to return two words from an array of words starting with letter 'p'.
+- 	
+  */
+  Tuple!(string, string) start_withp(string[] words) 

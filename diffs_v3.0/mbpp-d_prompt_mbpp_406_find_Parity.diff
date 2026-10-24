@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find whether the parity of a given number is odd.
+- 	
+  */
+  bool find_Parity(long x) 

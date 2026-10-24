@@ -1,0 +1,7 @@
+- -- Write a function that returns integers x and y that satisfy ax + by = n as a table, or return None if no solution exists.
+?                                                                                                  -- ^
+
++ -- Write a function that returns integers x and y that satisfy ax + by = n as a table, or return nil if no solution exists.
+?                                                                                                   ^^
+
+  local function find_solution(a, b, n)

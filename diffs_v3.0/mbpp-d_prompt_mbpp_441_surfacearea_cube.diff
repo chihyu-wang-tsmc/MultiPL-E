@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the surface area of a cube of a given size.
+- 	
+  */
+  long surfacearea_cube(long l) 

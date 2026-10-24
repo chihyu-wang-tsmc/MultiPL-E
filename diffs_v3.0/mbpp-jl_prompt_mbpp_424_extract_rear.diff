@@ -1,0 +1,7 @@
+- """
+- 	Write a function to extract only the rear index element of each string in the given tuple.
++ """	Write a function to extract only the rear index element of each string in the given tuple."""
+? +++	                                                                                          +++
+
+- 	"""
+  function extract_rear(test_tuple::Tuple{String, String, String})::Vector{String} 

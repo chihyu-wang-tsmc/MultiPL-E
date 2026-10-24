@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find whether all the given vectors have equal length or not.
++ """	Write a function to find whether all the given vectors have equal length or not."""
+? +++	                                                                                +++
+
+- 	"""
+  function get_equal(Input::Vector{Vector{Int64}})::Bool 

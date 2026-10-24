@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to calculate the product of the unique numbers in a given vector.
++ """	Write a jlthon function to calculate the product of the unique numbers in a given vector."""
+? +++	                                                                                         +++
+
+- 	"""
+  function unique_product(list_data::Vector{Int64})::Int64 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to get the sum of the digits of a non-negative integer.
++ """	Write a function to get the sum of the digits of a non-negative integer."""
+? +++	                                                                        +++
+
+- 	"""
+  function sum_digits(n::Int64)::Int64 

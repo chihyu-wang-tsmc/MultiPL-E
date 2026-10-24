@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to check whether all the bits are unset in the given range or not.
++ """	Write a jlthon function to check whether all the bits are unset in the given range or not."""
+? +++	                                                                                          +++
+
+- 	"""
+  function all_Bits_Set_In_The_Given_Range(n::Int64, l::Int64, r::Int64)::Bool 

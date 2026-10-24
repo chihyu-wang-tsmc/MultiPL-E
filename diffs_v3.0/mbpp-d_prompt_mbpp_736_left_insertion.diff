@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/dthon-exercises/data-structures-and-algorithms/dthon-data-structure-exercise-24.php
+- 	
+  */
+  long left_insertion(long[] a, long x) 

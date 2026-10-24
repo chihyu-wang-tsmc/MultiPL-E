@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to calculate the geometric sum of n-1. https://www.w3resource.com/dthon-exercises/data-structures-and-algorithms/dthon-recursion-exercise-9.php
+- 	
+  */
+  float geometric_sum(long n) 

@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the number of elements that occurs before the vector element in the given tuple.
++ """	Write a function to find the number of elements that occurs before the vector element in the given tuple."""
+? +++	                                                                                                         +++
+
+- 	"""
+  function count_first_elements(test_tup::Vector{Union{Int64, Tuple{Int64, Int64}}})::Int64 

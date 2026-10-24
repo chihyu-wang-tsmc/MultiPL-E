@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to get the sum of the digits of a non-negative integer.
+- 	
+  */
+  long sum_digits(long n) 

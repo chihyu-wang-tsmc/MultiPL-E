@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to reverse an array upto a given position.
+- 	
+  */
+  long[] reverse_Array_Upto_K(long[] input, long k) 

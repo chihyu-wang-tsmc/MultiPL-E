@@ -1,0 +1,7 @@
+- """
+- 	Write a function to check if a string is present as a substring in a given vector of string values.
++ """	Write a function to check if a string is present as a substring in a given vector of string values."""
+? +++	                                                                                                   +++
+
+- 	"""
+  function find_substring(str1::Vector{String}, sub_str::String)::Bool 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the first non-repeated character in a given string.
+- 	
+  */
+  Nullable!(string) first_non_repeating_character(string str1) 

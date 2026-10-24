@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to calculate a dog's age in dog's years.
+- 	
+  */
+  long dog_age(long h_age) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the number of divisors of a given integer.
+- 	
+  */
+  long divisor(long n) 

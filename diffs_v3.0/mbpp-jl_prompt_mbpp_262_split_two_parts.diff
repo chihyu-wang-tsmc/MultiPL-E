@@ -1,0 +1,7 @@
+- """
+- 	Write a function that takes in a vector and an integer L and splits the given vector into two parts where the length of the first part of the vector is L, and returns the resulting vectors in a tuple.
++ """	Write a function that takes in a vector and an integer L and splits the given vector into two parts where the length of the first part of the vector is L, and returns the resulting vectors in a tuple."""
+? +++	                                                                                                                                                                                                        +++
+
+- 	"""
+  function split_two_parts(list1::Vector{Any}, L::Int64)::Any 

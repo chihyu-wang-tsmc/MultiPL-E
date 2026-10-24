@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the largest sum of a contiguous vector in the modified vector which is formed by repeating the given vector k times.
++ """	Write a function to find the largest sum of a contiguous vector in the modified vector which is formed by repeating the given vector k times."""
+? +++	                                                                                                                                             +++
+
+- 	"""
+  function max_sub_array_sum_repeated(a::Vector{Int64}, n::Int64, k::Int64)::Int64 

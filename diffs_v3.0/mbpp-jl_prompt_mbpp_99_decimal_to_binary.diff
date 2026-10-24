@@ -1,0 +1,7 @@
+- """
+- 	Write a function to convert the given decimal number to its binary equivalent, represented as a string with no leading zeros.
++ """	Write a function to convert the given decimal number to its binary equivalent, represented as a string with no leading zeros."""
+? +++	                                                                                                                             +++
+
+- 	"""
+  function decimal_to_binary(n::Int64)::String 

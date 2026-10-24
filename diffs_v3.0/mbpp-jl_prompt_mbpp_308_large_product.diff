@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the specified number of largest products from two given vectors, selecting one factor from each vector.
++ """	Write a function to find the specified number of largest products from two given vectors, selecting one factor from each vector."""
+? +++	                                                                                                                                +++
+
+- 	"""
+  function large_product(nums1::Vector{Int64}, nums2::Vector{Int64}, N::Int64)::Vector{Int64} 

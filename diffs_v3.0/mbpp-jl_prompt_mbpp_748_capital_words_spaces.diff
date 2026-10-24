@@ -1,0 +1,7 @@
+- """
+- 	Write a function to put spaces between words starting with capital letters in a given string.
++ """	Write a function to put spaces between words starting with capital letters in a given string."""
+? +++	                                                                                             +++
+
+- 	"""
+  function capital_words_spaces(str1::String)::String 

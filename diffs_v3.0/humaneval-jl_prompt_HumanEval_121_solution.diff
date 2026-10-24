@@ -1,0 +1,27 @@
+  """Given a non-empty vector of integers, return the sum of all of the odd elements that are in even positions.
+-     
+- 
+-     Examples
+? ----
+
++ Examples
+-     >>> solution([5, 8, 7, 1])
+? ----
+
++ >>> solution([5, 8, 7, 1])
+-     12
++ 12
+-     >>> solution([3, 3, 3, 3, 3])
+? ----
+
++ >>> solution([3, 3, 3, 3, 3])
+-     9
++ 9
+-     >>> solution([30, 13, 24, 321])
+? ----
+
++ >>> solution([30, 13, 24, 321])
++ 0"""
+-     0
+-     """
+  function solution(lst::Vector{Int64})::Int64 

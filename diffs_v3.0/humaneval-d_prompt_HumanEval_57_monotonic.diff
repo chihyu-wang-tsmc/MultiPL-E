@@ -1,0 +1,26 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Return true is array elements are monotonically increasing or decreasing.
+-     >>> monotonic([1L, 2L, 4L, 20L])
+? ----
+
++ >>> monotonic([1L, 2L, 4L, 20L])
+-     true
++ true
+-     >>> monotonic([1L, 20L, 4L, 10L])
+? ----
+
++ >>> monotonic([1L, 20L, 4L, 10L])
+-     false
++ false
+-     >>> monotonic([4L, 1L, 0L, -10L])
+? ----
+
++ >>> monotonic([4L, 1L, 0L, -10L])
++ true
+-     true
+-     
+  */
+  bool monotonic(long[] l) 

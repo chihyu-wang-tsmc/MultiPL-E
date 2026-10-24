@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to count the number of occurrences of a number in a given array.
+- 	
+  */
+  long frequency(long[] a, long x) 

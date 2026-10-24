@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find the nth nonagonal number.
+- 	
+  */
+  long is_nonagonal(long n) 

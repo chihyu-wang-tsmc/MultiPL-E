@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the last digit of a given number.
++ """	Write a jlthon function to find the last digit of a given number."""
+? +++	                                                                 +++
+
+- 	"""
+  function last_Digit(n::Int64)::Int64 

@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to count the number of equal numbers from three given integers.
++ """	Write a jlthon function to count the number of equal numbers from three given integers."""
+? +++	                                                                                       +++
+
+- 	"""
+  function test_three_equal(x::Int64, y::Int64, z::Int64)::Int64 

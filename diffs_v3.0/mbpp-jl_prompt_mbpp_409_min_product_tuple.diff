@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the minimum product from the pairs of tuples within a given vector.
++ """	Write a function to find the minimum product from the pairs of tuples within a given vector."""
+? +++	                                                                                            +++
+
+- 	"""
+  function min_product_tuple(list1::Vector{Tuple{Int64, Int64}})::Int64 

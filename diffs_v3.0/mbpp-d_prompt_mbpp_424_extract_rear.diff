@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to extract only the rear index element of each string in the given tuple.
+- 	
+  */
+  string[] extract_rear(Tuple!(string, string, string) test_tuple) 

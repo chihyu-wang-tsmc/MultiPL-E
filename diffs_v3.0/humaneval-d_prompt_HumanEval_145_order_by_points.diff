@@ -1,0 +1,43 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     Write a function which sorts the given array of integers
+? ----
+
++ Write a function which sorts the given array of integers
+-     in ascending order according to the sum of their digits.
+? ----
+
++ in ascending order according to the sum of their digits.
+-     Note: if there are several items with similar sum of their digits,
+? ----
+
++ Note: if there are several items with similar sum of their digits,
+-     order them based on their index in original array.
+? ----
+
++ order them based on their index in original array.
+- 
+-     For example:
+? ----
+
++ For example:
+-     >>> order_by_points([1L, 11L, -1L, -11L, -12L])
+? ----
+
++ >>> order_by_points([1L, 11L, -1L, -11L, -12L])
+-     [-1L, -11L, 1L, -12L, 11L]
+? ----
+
++ [-1L, -11L, 1L, -12L, 11L]
+-     >>> order_by_points([])
+? ----
+
++ >>> order_by_points([])
++ []
+-     []
+-     
+  */
+  long[] order_by_points(long[] nums) 

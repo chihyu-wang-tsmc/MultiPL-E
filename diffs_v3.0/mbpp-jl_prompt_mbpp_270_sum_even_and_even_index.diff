@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function to find the sum of even numbers at even positions of a vector.
++ """	Write a jlthon function to find the sum of even numbers at even positions of a vector."""
+? +++	                                                                                      +++
+
+- 	"""
+  function sum_even_and_even_index(arr::Vector{Int64})::Int64 

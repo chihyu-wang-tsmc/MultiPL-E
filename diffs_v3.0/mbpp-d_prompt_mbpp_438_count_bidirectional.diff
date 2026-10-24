@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to count bidirectional tuple pairs.
+- 	
+  */
+  long count_bidirectional(Tuple!(long, long)[] test_list) 

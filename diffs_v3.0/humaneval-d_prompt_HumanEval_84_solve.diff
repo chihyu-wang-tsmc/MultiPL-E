@@ -1,0 +1,54 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Given a positive integer N, return the total sum of its digits in binary.
+-     
+-     Example
+? ----
+
++ Example
+-     >>> solve(1000L)
+? ----
+
++ >>> solve(1000L)
+-     "1"
++ "1"
+-     >>> solve(150L)
+? ----
+
++ >>> solve(150L)
+-     "110"
++ "110"
+-     >>> solve(147L)
+? ----
+
++ >>> solve(147L)
+-     "1100"
+? ----
+
++ "1100"
+-     
+-     Variables:
+? ----
+
++ Variables:
+-         @N integer
+? ----
+
++     @N integer
+-              Constraints: 0 ≤ N ≤ 10000.
+? ----
+
++          Constraints: 0 ≤ N ≤ 10000.
+-     Output:
+? ----
+
++ Output:
+-          a string of binary number
+? ----
+
++      a string of binary number
+-     
+  */
+  string solve(long N) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/
+- 	
+  */
+  long is_polite(long n) 

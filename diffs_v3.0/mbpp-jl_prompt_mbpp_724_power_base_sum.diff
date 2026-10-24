@@ -1,0 +1,7 @@
+- """
+- 	Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power.
++ """	Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power."""
+? +++	                                                                                                                               +++
+
+- 	"""
+  function power_base_sum(base::Int64, power::Int64)::Int64 

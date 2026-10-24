@@ -1,0 +1,47 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+- 
+-     You are given an array arr of integers and you need to return
+? ----
+
++ You are given an array arr of integers and you need to return
+-     sum of magnitudes of integers multiplied by product of all signs
+? ----
+
++ sum of magnitudes of integers multiplied by product of all signs
+-     of each number in the array, represented by 1, -1 or 0.
+? ----
+
++ of each number in the array, represented by 1, -1 or 0.
+-     Note: return null for empty arr.
+? ----
+
++ Note: return null for empty arr.
+- 
+-     Example:
+? ----
+
++ Example:
+-     >>> prod_signs([1L, 2L, 2L, -4L])
+? ----
+
++ >>> prod_signs([1L, 2L, 2L, -4L])
+-     9L
++ 9L
+-     >>> prod_signs([0L, 1L])
+? ----
+
++ >>> prod_signs([0L, 1L])
+-     0L
++ 0L
+-     >>> prod_signs([])
+? ----
+
++ >>> prod_signs([])
++ None
+-     None
+-     
+  */
+  Nullable!(long) prod_signs(long[] arr) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find minimum k records from tuple array. https://www.geeksforgeeks.org/dthon-find-minimum-k-records-from-tuple-array/ - in this case a verbatim cod of test cases
+- 	
+  */
+  Tuple!(string, long)[] min_k(Tuple!(string, long)[] test_list, long K) 

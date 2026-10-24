@@ -1,0 +1,37 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  Create a function which returns the largest index of an element which
+-     is not greater than or equal to the element immediately preceding it. If
+? ----
+
++ is not greater than or equal to the element immediately preceding it. If
+-     no such element exists then return -1. The given array will not contain
+? ----
+
++ no such element exists then return -1. The given array will not contain
+-     duplicate values.
+? ----
+
++ duplicate values.
+- 
+-     Examples:
+? ----
+
++ Examples:
+-     >>> can_arrange([1L, 2L, 4L, 3L, 5L])
+? ----
+
++ >>> can_arrange([1L, 2L, 4L, 3L, 5L])
+-     3L
++ 3L
+-     >>> can_arrange([1L, 2L, 3L])
+? ----
+
++ >>> can_arrange([1L, 2L, 3L])
++ -1L
+-     -1L
+-     
+  */
+  long can_arrange(long[] arr) 

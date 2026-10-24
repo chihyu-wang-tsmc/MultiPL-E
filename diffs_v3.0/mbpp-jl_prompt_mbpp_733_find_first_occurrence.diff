@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the index of the first occurrence of a given number in a sorted vector.
++ """	Write a function to find the index of the first occurrence of a given number in a sorted vector."""
+? +++	                                                                                                +++
+
+- 	"""
+  function find_first_occurrence(A::Vector{Int64}, x::Int64)::Int64 

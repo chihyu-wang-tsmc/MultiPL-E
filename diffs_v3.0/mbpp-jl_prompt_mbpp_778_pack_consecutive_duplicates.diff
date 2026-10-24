@@ -1,0 +1,7 @@
+- """
+- 	Write a function to pack consecutive duplicates of a given vector elements into subvectors.
++ """	Write a function to pack consecutive duplicates of a given vector elements into subvectors."""
+? +++	                                                                                           +++
+
+- 	"""
+  function pack_consecutive_duplicates(list1::Vector{Any})::Vector{Vector{Any}} 

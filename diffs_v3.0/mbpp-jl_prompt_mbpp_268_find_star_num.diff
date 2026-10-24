@@ -1,0 +1,7 @@
+- """
+- 	Write a function to find the n'th star number.
++ """	Write a function to find the n'th star number."""
+? +++	                                              +++
+
+- 	"""
+  function find_star_num(n::Int64)::Int64 

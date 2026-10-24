@@ -1,0 +1,49 @@
+  """In this problem, you will implement a function that takes two vectors of numbers,
+-     and determines whether it is possible to perform an exchange of elements
+? ----
+
++ and determines whether it is possible to perform an exchange of elements
+-     between them to make lst1 a vector of only even numbers.
+? ----
+
++ between them to make lst1 a vector of only even numbers.
+-     There is no limit on the number of exchanged elements between lst1 and lst2.
+? ----
+
++ There is no limit on the number of exchanged elements between lst1 and lst2.
+-     If it is possible to exchange elements between the lst1 and lst2 to make
+? ----
+
++ If it is possible to exchange elements between the lst1 and lst2 to make
+-     all the elements of lst1 to be even, return "YES".
+? ----
+
++ all the elements of lst1 to be even, return "YES".
+-     Otherwise, return "NO".
+? ----
+
++ Otherwise, return "NO".
+-     For example:
+? ----
+
++ For example:
+-     >>> exchange([1, 2, 3, 4], [1, 2, 3, 4])
+? ----
+
++ >>> exchange([1, 2, 3, 4], [1, 2, 3, 4])
+-     "YES"
++ "YES"
+-     >>> exchange([1, 2, 3, 4], [1, 5, 3, 4])
+? ----
+
++ >>> exchange([1, 2, 3, 4], [1, 5, 3, 4])
+-     "NO"
++ "NO"
+-     It is assumed that the input vectors will be non-empty.
+? ----
+
++ It is assumed that the input vectors will be non-empty."""
+?                                                        +++
+
+-     """
+  function exchange(lst1::Vector{Int64}, lst2::Vector{Int64})::String 

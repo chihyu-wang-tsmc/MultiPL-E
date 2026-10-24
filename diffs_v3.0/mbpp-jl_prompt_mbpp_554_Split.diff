@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function which takes a vector of integers and only returns the odd ones.
++ """	Write a jlthon function which takes a vector of integers and only returns the odd ones."""
+? +++	                                                                                       +++
+
+- 	"""
+  function Split(list::Vector{Int64})::Vector{Int64} 

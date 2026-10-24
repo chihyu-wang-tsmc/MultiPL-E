@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to check whether the given array contains consecutive numbers or not.
+- 	
+  */
+  bool check_Consecutive(long[] l) 

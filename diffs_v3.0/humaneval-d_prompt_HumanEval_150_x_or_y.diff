@@ -1,0 +1,30 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+  A simple program which should return the value of x if n is 
+-     a prime number and should return the value of y otherwise.
+? ----
+
++ a prime number and should return the value of y otherwise.
+- 
+-     Examples:
+? ----
+
++ Examples:
+-     >>> x_or_y(7L, 34L, 12L)
+? ----
+
++ >>> x_or_y(7L, 34L, 12L)
+-     34L
++ 34L
+-     >>> x_or_y(15L, 8L, 5L)
+? ----
+
++ >>> x_or_y(15L, 8L, 5L)
++ 5L
+-     5L
+-     
+-     
+  */
+  long x_or_y(long n, long x, long y) 

@@ -1,0 +1,32 @@
++ import std.math;
+  import std.typecons;
+- import std.math;
+  /*
+   xs represent coefficients of a polynomial.
+-     xs[0] + xs[1] * x + xs[2] * x^2 + ....
+? ----
+
++ xs[0] + xs[1] * x + xs[2] * x^2 + ....
+-      Return derivative of this polynomial in the same form.
+? ----
+
++  Return derivative of this polynomial in the same form.
+-     >>> derivative([3L, 1L, 2L, 4L, 5L])
+? ----
+
++ >>> derivative([3L, 1L, 2L, 4L, 5L])
+-     [1L, 4L, 12L, 20L]
+? ----
+
++ [1L, 4L, 12L, 20L]
+-     >>> derivative([1L, 2L, 3L])
+? ----
+
++ >>> derivative([1L, 2L, 3L])
+-     [2L, 6L]
+? ----
+
++ [2L, 6L]
+-     
+  */
+  long[] derivative(long[] xs) 

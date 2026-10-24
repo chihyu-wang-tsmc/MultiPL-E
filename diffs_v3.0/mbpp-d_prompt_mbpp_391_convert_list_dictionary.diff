@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to convert more than one array to nested associative array.
+- 	
+  */
+  None[] convert_list_dictionary(string[] l1, string[] l2, long[] l3) 

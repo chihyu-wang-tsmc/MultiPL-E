@@ -1,0 +1,61 @@
+  import std.math;
++ import std.typecons;
+  /*
+- 
+-     Write a function that accepts two arrays of strings and returns the array that has 
+? ----
+
++ Write a function that accepts two arrays of strings and returns the array that has 
+-     total number of chars in the all strings of the array less than the other array.
+? ----
+
++ total number of chars in the all strings of the array less than the other array.
+- 
+-     if the two arrays have the same number of chars, return the first array.
+? ----
+
++ if the two arrays have the same number of chars, return the first array.
+- 
+-     Examples
+? ----
+
++ Examples
+-     >>> total_match([], [])
+? ----
+
++ >>> total_match([], [])
+-     []
++ []
+-     >>> total_match(["hi", "admin"], ["hI", "Hi"])
+? ----
+
++ >>> total_match(["hi", "admin"], ["hI", "Hi"])
+-     ["hI", "Hi"]
+? ----
+
++ ["hI", "Hi"]
+-     >>> total_match(["hi", "admin"], ["hi", "hi", "admin", "project"])
+? ----
+
++ >>> total_match(["hi", "admin"], ["hi", "hi", "admin", "project"])
+-     ["hi", "admin"]
+? ----
+
++ ["hi", "admin"]
+-     >>> total_match(["hi", "admin"], ["hI", "hi", "hi"])
+? ----
+
++ >>> total_match(["hi", "admin"], ["hI", "hi", "hi"])
+-     ["hI", "hi", "hi"]
+? ----
+
++ ["hI", "hi", "hi"]
+-     >>> total_match(["4"], ["1", "2", "3", "4", "5"])
+? ----
+
++ >>> total_match(["4"], ["1", "2", "3", "4", "5"])
++ ["4"]
+-     ["4"]
+-     
+  */
+  string[] total_match(string[] lst1, string[] lst2) 

@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to check whether the product of numbers in an array is even or not.
+- 	
+  */
+  bool is_product_even(long[] arr) 

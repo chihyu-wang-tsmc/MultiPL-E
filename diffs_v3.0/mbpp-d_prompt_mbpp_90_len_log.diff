@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a dthon function to find the length of the longest word.
+- 	
+  */
+  long len_log(string[] list1) 

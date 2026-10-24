@@ -1,0 +1,8 @@
+  import std.math;
+  import std.typecons;
+  /*
+- 
+  	Write a function to find minimum of three numbers.
+- 	
+  */
+  long min_of_three(long a, long b, long c) 

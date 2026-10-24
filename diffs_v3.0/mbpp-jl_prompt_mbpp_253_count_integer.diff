@@ -1,0 +1,7 @@
+- """
+- 	Write a jlthon function that returns the number of integer elements in a given vector.
++ """	Write a jlthon function that returns the number of integer elements in a given vector."""
+? +++	                                                                                      +++
+
+- 	"""
+  function count_integer(list1::Vector{Union{Int64, String, Float64}})::Int64 
